@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  
+	<ThingDef ParentName="BaseRamboGun">
+		<defName>Gun_M3_RWP</defName>
+		<label>M3</label>
+		<description>.</description>
+		<graphicData>
+			<texPath>Things/modern/submachineguns/m3</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<soundInteract>Interact_SMG</soundInteract>
+		<statBases>
+			<MaxHitPoints>80</MaxHitPoints>
+			<WorkToMake>21800</WorkToMake>
+			<MarketValue>165</MarketValue>
+			<Mass>3.7</Mass>
+			<AccuracyTouch>0.74</AccuracyTouch>
+			<AccuracyShort>0.48</AccuracyShort>
+			<AccuracyMedium>0.28</AccuracyMedium>
+			<AccuracyLong>0.07</AccuracyLong>
+			<RangedWeapon_Cooldown>1.08</RangedWeapon_Cooldown>
+		</statBases>
+		<costList>
+			<Steel>37</Steel>
+			<ComponentIndustrial>3</ComponentIndustrial>
+		</costList>
+		<recipeMaker>
+			<researchPrerequisite>BlowbackOperation</researchPrerequisite>
+			<skillRequirements>
+				<Crafting>4</Crafting>
+			</skillRequirements>
+		</recipeMaker>
+		<verbs>
+			<li>
+				<verbClass>Verb_Shoot</verbClass>
+				<hasStandardCommand>true</hasStandardCommand>
+				<defaultProjectile>Bullet_45_ACP_RWP</defaultProjectile>
+				<warmupTime>0.62</warmupTime>
+				<range>20</range>
+				<burstShotCount>3</burstShotCount>
+				<ticksBetweenBurstShots>8</ticksBetweenBurstShots>
+				<soundCast>Shot_MachinePistol</soundCast>
+				<soundCastTail>GunTail_Light</soundCastTail>
+				<muzzleFlashScale>9</muzzleFlashScale>
+			</li>
+		</verbs>
+		<tools>
+			<li>
+				<label>grip</label>
+				<capacities>
+					<li>Blunt</li>
+				</capacities>
+				<power>8</power>
+				<cooldownTime>1.6</cooldownTime>
+			</li>
+			<li>
+				<label>barrel</label>
+				<capacities>
+					<li>Blunt</li>
+					<li>Poke</li>
+				</capacities>
+				<power>8</power>
+				<cooldownTime>1.6</cooldownTime>
+			</li>
+		</tools>
+	</ThingDef>  
+
+</Defs>

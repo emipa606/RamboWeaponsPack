@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  
+	<ThingDef ParentName="BaseRamboGun">
+		<defName>Gun_PTRS-41_RWP</defName>
+		<label>PTRS-41</label>
+		<description>.</description>
+		<graphicData>
+			<texPath>Things/modern/amrifles/ptrs-41</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<soundInteract>InteractHeavyRifle</soundInteract>
+		<statBases>
+			<WorkToMake>72000</WorkToMake>
+			<MarketValue>583</MarketValue>
+			<Mass>20.3</Mass>
+			<AccuracyTouch>0.05</AccuracyTouch>
+			<AccuracyShort>0.20</AccuracyShort>
+			<AccuracyMedium>0.44</AccuracyMedium>
+			<AccuracyLong>0.34</AccuracyLong>
+			<RangedWeapon_Cooldown>4.05</RangedWeapon_Cooldown>
+		</statBases>
+		<costList>
+			<Steel>260</Steel>
+			<ComponentIndustrial>10</ComponentIndustrial>
+		</costList>
+		<recipeMaker>
+			<researchPrerequisite>PrecisionRifling</researchPrerequisite>
+			<skillRequirements>
+				<Crafting>7</Crafting>
+			</skillRequirements>
+		</recipeMaker>
+		<equippedStatOffsets>
+			<MoveSpeed>-1.63</MoveSpeed>
+		</equippedStatOffsets>
+		<generateCommonality>0.07</generateCommonality>
+		<verbs>
+			<li>
+				<verbClass>Verb_Shoot</verbClass>
+				<hasStandardCommand>true</hasStandardCommand>
+				<defaultProjectile>Bullet_145x114mm_RWP</defaultProjectile>
+				<warmupTime>6.63</warmupTime>
+				<range>40</range>
+				<soundCast>ShotAMRifle</soundCast>
+				<soundCastTail>GunTail_Heavy</soundCastTail>
+				<muzzleFlashScale>15</muzzleFlashScale>
+			</li>
+		</verbs>
+		<weaponTags>
+			<li>SniperRifle</li>
+		</weaponTags>
+		<tools>
+			<li>
+				<label>stock</label>
+				<capacities>
+					<li>Blunt</li>
+				</capacities>
+				<power>9</power>
+				<cooldownTime>1.8</cooldownTime>
+			</li>
+			<li>
+				<label>barrel</label>
+				<capacities>
+					<li>Blunt</li>
+					<li>Poke</li>
+				</capacities>
+				<power>10</power>
+				<cooldownTime>1.9</cooldownTime>
+			</li>
+		</tools>
+	</ThingDef>
+
+</Defs>

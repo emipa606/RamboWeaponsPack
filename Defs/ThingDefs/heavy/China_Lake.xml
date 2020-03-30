@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  
+	<ThingDef ParentName="BaseRamboGun">
+		<defName>Gun_China_Lake_RWP</defName>
+		<label>China Lake</label>
+		<description>.</description>
+		<graphicData>
+			<texPath>Things/modern/heavy/china_lake</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<soundInteract>Interact_Shotgun</soundInteract>
+		<generateCommonality>0.4</generateCommonality>
+		<statBases>
+			<WorkToMake>45600</WorkToMake>
+			<MarketValue>432</MarketValue>
+			<Mass>3.7</Mass>
+			<AccuracyTouch>0.78</AccuracyTouch>
+			<AccuracyShort>0.40</AccuracyShort>
+			<AccuracyMedium>0.15</AccuracyMedium>
+			<AccuracyLong>0.03</AccuracyLong>
+			<RangedWeapon_Cooldown>3.60</RangedWeapon_Cooldown>
+		</statBases>
+		<costList>
+			<Steel>95</Steel>
+			<ComponentIndustrial>5</ComponentIndustrial>
+		</costList>
+		<recipeMaker>
+			<researchPrerequisite>PrecisionRifling</researchPrerequisite>
+			<skillRequirements>
+				<Crafting>5</Crafting>
+			</skillRequirements>
+		</recipeMaker>
+		<verbs>
+			<li>
+				<verbClass>Verb_Shoot</verbClass>
+				<hasStandardCommand>true</hasStandardCommand>
+				<defaultProjectile>Bullet_40x46mm_Grenade_RWP</defaultProjectile>
+				<warmupTime>2.65</warmupTime>
+				<ai_AvoidFriendlyFireRadius>4</ai_AvoidFriendlyFireRadius>
+				<range>20</range>
+				<forcedMissRadius>2.5</forcedMissRadius>
+				<burstShotCount>1</burstShotCount>
+				<soundCast>ShotPumpGrenadeLauncher</soundCast>
+				<targetParams>
+					<canTargetLocations>true</canTargetLocations>
+				</targetParams>
+				<muzzleFlashScale>14</muzzleFlashScale>
+			</li>
+		</verbs>
+		<weaponTags>
+			<li>GrenadeDestructive</li>
+		</weaponTags>
+		<tools>
+			<li>
+				<label>stock</label>
+				<capacities>
+					<li>Blunt</li>
+				</capacities>
+				<power>9</power>
+				<cooldownTime>1.8</cooldownTime>
+			</li>
+			<li>
+				<label>barrel</label>
+				<capacities>
+					<li>Blunt</li>
+				</capacities>
+				<power>10</power>
+				<cooldownTime>1.9</cooldownTime>
+			</li>
+		</tools>
+	</ThingDef>
+
+</Defs>

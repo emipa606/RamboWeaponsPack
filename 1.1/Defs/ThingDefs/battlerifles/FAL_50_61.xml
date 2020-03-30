@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  
+	<ThingDef ParentName="BaseRamboGun">
+		<defName>Gun_Fal_50_61_RWP</defName>
+		<label>Fal 50.61</label>
+		<description>.</description>
+		<graphicData>
+			<texPath>Things/modern/battlerifles/fal_50_61</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<soundInteract>InteractMediumRifle</soundInteract>
+		<statBases>
+			<WorkToMake>67400</WorkToMake>
+			<MarketValue>565</MarketValue>
+			<Mass>3.9</Mass>
+			<AccuracyTouch>0.22</AccuracyTouch>
+			<AccuracyShort>0.44</AccuracyShort>
+			<AccuracyMedium>0.63</AccuracyMedium>
+			<AccuracyLong>0.42</AccuracyLong>
+			<RangedWeapon_Cooldown>1.49</RangedWeapon_Cooldown>
+		</statBases>
+		<costList>
+			<Steel>125</Steel>
+			<ComponentIndustrial>8</ComponentIndustrial>
+		</costList>
+		<recipeMaker>
+			<researchPrerequisite>PrecisionRifling</researchPrerequisite>
+			<skillRequirements>
+				<Crafting>7</Crafting>
+			</skillRequirements>
+		</recipeMaker>
+		<verbs>
+			<li>
+				<verbClass>Verb_Shoot</verbClass>
+				<hasStandardCommand>true</hasStandardCommand>
+				<defaultProjectile>Bullet_762x51mm_NATO_RWP</defaultProjectile>
+				<warmupTime>1.41</warmupTime>
+				<range>36</range>
+				<burstShotCount>3</burstShotCount>
+				<ticksBetweenBurstShots>5</ticksBetweenBurstShots>
+				<soundCast>ShotBattleRifle</soundCast>
+				<soundCastTail>GunTail_Heavy</soundCastTail>
+				<muzzleFlashScale>12</muzzleFlashScale>
+			</li>
+		</verbs>
+		<weaponTags>
+			<li>IndustrialGunAdvanced</li>
+		</weaponTags>
+		<tools>
+			<li>
+				<label>stock</label>
+				<capacities>
+					<li>Blunt</li>
+				</capacities>
+				<power>9</power>
+				<cooldownTime>1.8</cooldownTime>
+			</li>
+			<li>
+				<label>barrel</label>
+				<capacities>
+					<li>Blunt</li>
+					<li>Poke</li>
+				</capacities>
+				<power>10</power>
+				<cooldownTime>1.9</cooldownTime>
+			</li>
+		</tools>
+	</ThingDef>  
+
+</Defs>

@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  
+	<ThingDef ParentName="BaseRamboGun">
+		<defName>Gun_MP5K_RWP</defName>
+		<label>MP5K</label>
+		<description>.</description>
+		<graphicData>
+			<texPath>Things/modern/submachineguns/mp5k</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<soundInteract>Interact_SMG</soundInteract>
+		<statBases>
+			<WorkToMake>25800</WorkToMake>
+			<MarketValue>215</MarketValue>
+			<Mass>2.0</Mass>
+			<AccuracyTouch>0.76</AccuracyTouch>
+			<AccuracyShort>0.58</AccuracyShort>
+			<AccuracyMedium>0.29</AccuracyMedium>
+			<AccuracyLong>0.08</AccuracyLong>
+			<RangedWeapon_Cooldown>0.98</RangedWeapon_Cooldown>
+		</statBases>
+		<costList>
+			<Steel>43</Steel>
+			<ComponentIndustrial>4</ComponentIndustrial>
+		</costList>
+		<recipeMaker>
+			<researchPrerequisite>BlowbackOperation</researchPrerequisite>
+			<skillRequirements>
+				<Crafting>4</Crafting>
+			</skillRequirements>
+		</recipeMaker>
+		<verbs>
+			<li>
+				<verbClass>Verb_Shoot</verbClass>
+				<hasStandardCommand>true</hasStandardCommand>
+				<defaultProjectile>Bullet_9x19mm_Parabellum_RWP</defaultProjectile>
+				<warmupTime>0.37</warmupTime>
+				<range>21</range>
+				<burstShotCount>3</burstShotCount>
+				<ticksBetweenBurstShots>4</ticksBetweenBurstShots>
+				<soundCast>Shot_MachinePistol</soundCast>
+				<soundCastTail>GunTail_Light</soundCastTail>
+				<muzzleFlashScale>7</muzzleFlashScale>
+			</li>
+		</verbs>
+		<tools>
+			<li>
+				<label>grip</label>
+				<capacities>
+					<li>Blunt</li>
+				</capacities>
+				<power>8</power>
+				<cooldownTime>1.6</cooldownTime>
+			</li>
+			<li>
+				<label>barrel</label>
+				<capacities>
+					<li>Blunt</li>
+					<li>Poke</li>
+				</capacities>
+				<power>8</power>
+				<cooldownTime>1.6</cooldownTime>
+			</li>
+		</tools>
+	</ThingDef>
+
+</Defs>

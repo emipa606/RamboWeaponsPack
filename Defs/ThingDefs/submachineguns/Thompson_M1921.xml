@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  
+	<ThingDef ParentName="BaseRamboGun">
+		<defName>Gun_Thompson_M1921_RWP</defName>
+		<label>Thompson M1921</label>
+		<description>.</description>
+		<graphicData>
+			<texPath>Things/modern/submachineguns/thompson_m1921</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<soundInteract>Interact_SMG</soundInteract>
+		<statBases>
+			<WorkToMake>26400</WorkToMake>
+			<MarketValue>191</MarketValue>
+			<Mass>4.7</Mass>
+			<AccuracyTouch>0.59</AccuracyTouch>
+			<AccuracyShort>0.31</AccuracyShort>
+			<AccuracyMedium>0.12</AccuracyMedium>
+			<AccuracyLong>0.03</AccuracyLong>
+			<RangedWeapon_Cooldown>1.21</RangedWeapon_Cooldown>
+		</statBases>
+		<costList>
+			<Steel>58</Steel>
+			<ComponentIndustrial>4</ComponentIndustrial>
+		</costList>
+		<recipeMaker>
+			<researchPrerequisite>BlowbackOperation</researchPrerequisite>
+			<skillRequirements>
+				<Crafting>5</Crafting>
+			</skillRequirements>
+		</recipeMaker>
+		<verbs>
+			<li>
+				<verbClass>Verb_Shoot</verbClass>
+				<hasStandardCommand>true</hasStandardCommand>
+				<defaultProjectile>Bullet_45_ACP_RWP</defaultProjectile>
+				<warmupTime>0.73</warmupTime>
+				<range>22</range>
+				<burstShotCount>5</burstShotCount>
+				<ticksBetweenBurstShots>4</ticksBetweenBurstShots>
+				<soundCast>Shot_MachinePistol</soundCast>
+				<soundCastTail>GunTail_Light</soundCastTail>
+				<muzzleFlashScale>9</muzzleFlashScale>
+			</li>
+		</verbs>
+		<tools>
+			<li>
+				<label>stock</label>
+				<capacities>
+					<li>Blunt</li>
+				</capacities>
+				<power>8</power>
+				<cooldownTime>1.6</cooldownTime>
+			</li>
+			<li>
+				<label>barrel</label>
+				<capacities>
+					<li>Blunt</li>
+					<li>Poke</li>
+				</capacities>
+				<power>8</power>
+				<cooldownTime>1.6</cooldownTime>
+			</li>
+		</tools>
+	</ThingDef>
+
+</Defs>

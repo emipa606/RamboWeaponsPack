@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  
+	<ThingDef ParentName="BaseRamboGun">
+		<defName>Gun_Arisaka_Type_99_Long_RWP</defName>
+		<label>Arisaka Type 99 Long</label>
+		<description>.</description>
+		<graphicData>
+			<texPath>Things/modern/rifles/arisaka_type_99_long</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<soundInteract>Interact_Rifle</soundInteract>
+		<statBases>
+			<MaxHitPoints>150</MaxHitPoints>
+			<WorkToMake>23500</WorkToMake>
+			<MarketValue>220</MarketValue>
+			<Mass>3.8</Mass>
+			<AccuracyTouch>0.74</AccuracyTouch>
+			<AccuracyShort>0.96</AccuracyShort>
+			<AccuracyMedium>0.94</AccuracyMedium>
+			<AccuracyLong>0.84</AccuracyLong>
+			<RangedWeapon_Cooldown>1.48</RangedWeapon_Cooldown>
+		</statBases>
+		<costList>
+			<Steel>59</Steel>
+			<ComponentIndustrial>3</ComponentIndustrial>
+		</costList>
+		<recipeMaker>
+			<skillRequirements>
+				<Crafting>5</Crafting>
+			</skillRequirements>
+		</recipeMaker>
+		<generateCommonality>2.0</generateCommonality>
+		<verbs>
+			<li>
+				<verbClass>Verb_Shoot</verbClass>
+				<hasStandardCommand>true</hasStandardCommand>
+				<defaultProjectile>Bullet_77x58mm_Arisaka_RWP</defaultProjectile>
+				<warmupTime>1.81</warmupTime>
+				<range>38</range>
+				<soundCast>Shot_BoltActionRifle</soundCast>
+				<soundCastTail>GunTail_Heavy</soundCastTail>
+				<muzzleFlashScale>11</muzzleFlashScale>
+			</li>
+		</verbs>
+		<tools>
+			<li>
+				<label>stock</label>
+				<capacities>
+					<li>Blunt</li>
+				</capacities>
+				<power>9</power>
+				<cooldownTime>1.8</cooldownTime>
+			</li>
+			<li>
+				<label>barrel</label>
+				<capacities>
+					<li>Blunt</li>
+					<li>Poke</li>
+				</capacities>
+				<power>10</power>
+				<cooldownTime>1.9</cooldownTime>
+			</li>
+		</tools>
+	</ThingDef>
+
+</Defs>
