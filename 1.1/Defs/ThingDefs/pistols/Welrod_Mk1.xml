@@ -1,63 +1,60 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
-  
-	<ThingDef ParentName="BaseRamboGun">
-		<defName>Gun_Welrod_Mk1_RWP</defName>
-		<label>Welrod Mk I</label>
-		<description>.</description>
-		<graphicData>
-			<texPath>Things/modern/pistols/welrod_mk1</texPath>
-			<graphicClass>Graphic_Single</graphicClass>
-		</graphicData>
-		<soundInteract>Interact_Autopistol</soundInteract>
-		<statBases>
-			<WorkToMake>8000</WorkToMake>
-			<MarketValue>65</MarketValue>
-			<Mass>1.5</Mass>
-			<AccuracyTouch>0.95</AccuracyTouch>
-			<AccuracyShort>0.60</AccuracyShort>
-			<AccuracyMedium>0.30</AccuracyMedium>
-			<AccuracyLong>0.15</AccuracyLong>
-			<RangedWeapon_Cooldown>1.75</RangedWeapon_Cooldown>
-		</statBases>
-		<costList>
-			<Steel>29</Steel>
-			<ComponentIndustrial>1</ComponentIndustrial>
-		</costList>
-		<generateCommonality>0.10</generateCommonality>
-		<verbs>
-			<li>
-				<verbClass>Verb_Shoot</verbClass>
-				<hasStandardCommand>true</hasStandardCommand>
-				<defaultProjectile>Bullet_9x19mm_Parabellum_RWP</defaultProjectile>
-				<warmupTime>0.25</warmupTime>
-				<range>12</range>
-				<soundCast>ShotSuppressedPistol</soundCast>
-			</li>
-		</verbs>
-		<weaponTags>
-			<li>SimpleGun</li>
-		</weaponTags>
-		<tools>
-			<li>
-				<label>grip</label>
-				<capacities>
-					<li>Blunt</li>
-				</capacities>
-				<power>8</power>
-				<cooldownTime>1.6</cooldownTime>
-			</li>
-			<li>
-				<label>barrel</label>
-				<capacities>
-					<li>Blunt</li>
-					<li>Poke</li>
-				</capacities>
-				<power>8</power>
-				<cooldownTime>1.6</cooldownTime>
-			</li>
-		</tools>
-	</ThingDef>  
-	
-
+  <ThingDef ParentName="BaseRamboGun">
+    <defName>Gun_Welrod_Mk1_RWP</defName>
+    <label>Welrod Mk I</label>
+    <description>.</description>
+    <graphicData>
+      <texPath>Things/modern/pistols/welrod_mk1</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <soundInteract>Interact_Autopistol</soundInteract>
+    <statBases>
+      <WorkToMake>8000</WorkToMake>
+      <MarketValue>65</MarketValue>
+      <Mass>1.5</Mass>
+      <AccuracyTouch>0.95</AccuracyTouch>
+      <AccuracyShort>0.60</AccuracyShort>
+      <AccuracyMedium>0.30</AccuracyMedium>
+      <AccuracyLong>0.15</AccuracyLong>
+      <RangedWeapon_Cooldown>1.75</RangedWeapon_Cooldown>
+    </statBases>
+    <costList>
+      <Steel>29</Steel>
+      <ComponentIndustrial>1</ComponentIndustrial>
+    </costList>
+    <generateCommonality>0.10</generateCommonality>
+    <verbs>
+      <li>
+        <verbClass>Verb_Shoot</verbClass>
+        <hasStandardCommand>true</hasStandardCommand>
+        <defaultProjectile>Bullet_9x19mm_Parabellum_RWP</defaultProjectile>
+        <warmupTime>0.25</warmupTime>
+        <range>12</range>
+        <soundCast>ShotSuppressedPistol</soundCast>
+      </li>
+    </verbs>
+    <weaponTags>
+      <li>SimpleGun</li>
+    </weaponTags>
+    <tools>
+      <li>
+        <label>grip</label>
+        <capacities>
+          <li>Blunt</li>
+        </capacities>
+        <power>8</power>
+        <cooldownTime>1.6</cooldownTime>
+      </li>
+      <li>
+        <label>barrel</label>
+        <capacities>
+          <li>Blunt</li>
+          <li>Poke</li>
+        </capacities>
+        <power>8</power>
+        <cooldownTime>1.6</cooldownTime>
+      </li>
+    </tools>
+  </ThingDef>
 </Defs>
