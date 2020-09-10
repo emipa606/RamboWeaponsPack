@@ -10,8 +10,10 @@
     <li>1.2</li>
   </supportedVersions>
   <modDependencies />
-  <loadAfter />
-  <description>Update of Masterjamie9 (AAAAA)s mod for RimWorld 1.1
+  <loadAfter>
+    <li>CETeam.CombatExtended</li>
+  </loadAfter>
+  <description>Update of Masterjamie9 (AAAAA)s mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1125630361
 
 [img]https://raw.githubusercontent.com/emipa606/RimWorld-Wrapper/master/Notice.png[/img]
@@ -22,7 +24,8 @@ https://invite.gg/mlie
 Non-steam version:
 https://github.com/emipa606/RamboWeaponsPack
 	
-Lowered the Charge Rifles amount of work to build a bit since this caused an issue with weapon-generation for raids.
+- Lowered the Charge Rifles amount of work to build a bit since this caused an issue with weapon-generation for raids.
+- Added CE-support
 
 --- Original Description ---
 Current Version: 1.2.3

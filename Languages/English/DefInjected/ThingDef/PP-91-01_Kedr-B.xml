@@ -1,10 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <Gun_PP-91-01_Kedr-B_RWP.label>PP-91-01 Kedr-B</Gun_PP-91-01_Kedr-B_RWP.label>
-  <Gun_PP-91-01_Kedr-B_RWP.description>.</Gun_PP-91-01_Kedr-B_RWP.description>
-  <Gun_PP-91-01_Kedr-B_RWP.tools.0.label>grip</Gun_PP-91-01_Kedr-B_RWP.tools.0.label>
-  <Gun_PP-91-01_Kedr-B_RWP.tools.1.label>barrel</Gun_PP-91-01_Kedr-B_RWP.tools.1.label>
-
+  <!--<Gun_PP-91-01_Kedr-B_RWP.label>PP-91-01 Kedr-B</Gun_PP-91-01_Kedr-B_RWP.label>-->
+  <!--<Gun_PP-91-01_Kedr-B_RWP.description>.</Gun_PP-91-01_Kedr-B_RWP.description>-->
+  <!--<Gun_PP-91-01_Kedr-B_RWP.tools.0.label>grip</Gun_PP-91-01_Kedr-B_RWP.tools.0.label>-->
+  <!--<Gun_PP-91-01_Kedr-B_RWP.tools.1.label>barrel</Gun_PP-91-01_Kedr-B_RWP.tools.1.label>-->
 
 </LanguageData>

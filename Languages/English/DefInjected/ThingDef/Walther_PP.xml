@@ -1,10 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <Gun_PP_RWP.label>Walther PP</Gun_PP_RWP.label>
-  <Gun_PP_RWP.description>.</Gun_PP_RWP.description>
-  <Gun_PP_RWP.tools.0.label>grip</Gun_PP_RWP.tools.0.label>
-  <Gun_PP_RWP.tools.1.label>barrel</Gun_PP_RWP.tools.1.label>
-
+  <!--<Gun_PP_RWP.label>Walther PP</Gun_PP_RWP.label>-->
+  <!--<Gun_PP_RWP.description>.</Gun_PP_RWP.description>-->
+  <!--<Gun_PP_RWP.tools.0.label>grip</Gun_PP_RWP.tools.0.label>-->
+  <!--<Gun_PP_RWP.tools.1.label>barrel</Gun_PP_RWP.tools.1.label>-->
 
 </LanguageData>

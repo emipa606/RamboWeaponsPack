@@ -1,10 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <Gun_Fort-500FS_RWP.label>Fort-500FS</Gun_Fort-500FS_RWP.label>
-  <Gun_Fort-500FS_RWP.description>.</Gun_Fort-500FS_RWP.description>
-  <Gun_Fort-500FS_RWP.tools.0.label>grip</Gun_Fort-500FS_RWP.tools.0.label>
-  <Gun_Fort-500FS_RWP.tools.1.label>barrel</Gun_Fort-500FS_RWP.tools.1.label>
-
+  <!--<Gun_Fort-500FS_RWP.label>Fort-500FS</Gun_Fort-500FS_RWP.label>-->
+  <!--<Gun_Fort-500FS_RWP.description>.</Gun_Fort-500FS_RWP.description>-->
+  <!--<Gun_Fort-500FS_RWP.tools.0.label>grip</Gun_Fort-500FS_RWP.tools.0.label>-->
+  <!--<Gun_Fort-500FS_RWP.tools.1.label>barrel</Gun_Fort-500FS_RWP.tools.1.label>-->
 
 </LanguageData>

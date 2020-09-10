@@ -1,10 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <Gun_M249_RWP.label>M249</Gun_M249_RWP.label>
-  <Gun_M249_RWP.description>.</Gun_M249_RWP.description>
-  <Gun_M249_RWP.tools.0.label>stock</Gun_M249_RWP.tools.0.label>
-  <Gun_M249_RWP.tools.1.label>barrel</Gun_M249_RWP.tools.1.label>
-
+  <!--<Gun_M249_RWP.label>M249</Gun_M249_RWP.label>-->
+  <!--<Gun_M249_RWP.description>.</Gun_M249_RWP.description>-->
+  <!--<Gun_M249_RWP.tools.0.label>stock</Gun_M249_RWP.tools.0.label>-->
+  <!--<Gun_M249_RWP.tools.1.label>barrel</Gun_M249_RWP.tools.1.label>-->
 
 </LanguageData>

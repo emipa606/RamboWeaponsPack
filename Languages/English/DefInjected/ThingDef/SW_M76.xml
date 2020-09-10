@@ -1,10 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <Gun_SW_M76_RWP.label>S&amp;W M76</Gun_SW_M76_RWP.label>
-  <Gun_SW_M76_RWP.description>.</Gun_SW_M76_RWP.description>
-  <Gun_SW_M76_RWP.tools.0.label>grip</Gun_SW_M76_RWP.tools.0.label>
-  <Gun_SW_M76_RWP.tools.1.label>barrel</Gun_SW_M76_RWP.tools.1.label>
-
+  <!--<Gun_SW_M76_RWP.label>S&amp;W M76</Gun_SW_M76_RWP.label>-->
+  <!--<Gun_SW_M76_RWP.description>.</Gun_SW_M76_RWP.description>-->
+  <!--<Gun_SW_M76_RWP.tools.0.label>grip</Gun_SW_M76_RWP.tools.0.label>-->
+  <!--<Gun_SW_M76_RWP.tools.1.label>barrel</Gun_SW_M76_RWP.tools.1.label>-->
 
 </LanguageData>

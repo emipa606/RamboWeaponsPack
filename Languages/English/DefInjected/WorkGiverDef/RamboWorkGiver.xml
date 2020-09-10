@@ -1,9 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <DoBillsRamboWeaponsTable.label>make things at rambo weapons table</DoBillsRamboWeaponsTable.label>
-  <DoBillsRamboWeaponsTable.verb>work</DoBillsRamboWeaponsTable.verb>
-  <DoBillsRamboWeaponsTable.gerund>working at</DoBillsRamboWeaponsTable.gerund>
-
+  <!--<DoBillsRamboWeaponsTable.label>make things at rambo weapons table</DoBillsRamboWeaponsTable.label>-->
+  <!--<DoBillsRamboWeaponsTable.verb>work</DoBillsRamboWeaponsTable.verb>-->
+  <!--<DoBillsRamboWeaponsTable.gerund>working at</DoBillsRamboWeaponsTable.gerund>-->
 
 </LanguageData>
