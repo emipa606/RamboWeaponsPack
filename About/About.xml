@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>Rambo Weapons Pack (Continued)</name>
   <packageId>Mlie.RamboWeaponsPack</packageId>
@@ -14,14 +14,14 @@
   <loadAfter>
     <li>CETeam.CombatExtended</li>
   </loadAfter>
-  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+  <description>[img]https://i.imgur.com/buuPQel.png[/img]
 Update of Masterjamie9 (AAAAA)s mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1125630361
 
 - Lowered the Charge Rifles amount of work to build a bit since this caused an issue with weapon-generation for raids.
-- Added support for Combat Extended
+- [strike]Added support for Combat Extended[/strike] CE-patches now included in the main CE-mod instead
 
-[img]https://i.imgur.com/7Gzt3Rg.png[/img]
+[img]https://i.imgur.com/pufA0kM.png[/img]
 
 [table]
 	[tr]
@@ -30,25 +30,25 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1125630361
 	[/tr]
 [/table]
 	
-[img]https://i.imgur.com/NOW7jU1.png[/img]
+[img]https://i.imgur.com/Z4GOv8H.png[/img]
 
 Current Version: 1.2.3
 
-Oi you! Do you like a weapon packs that are way too big? Do you enjoy a bills tab so unreasonably large a scrollbar may be required to explore it? Do you like to have large amounts of variants on weapons because that one weapons pack you usually use just doesn&apos;t have the specific MP5 you want? Well have I got the mod for you.
+Oi you! Do you like a weapon packs that are way too big? Do you enjoy a bills tab so unreasonably large a scrollbar may be required to explore it? Do you like to have large amounts of variants on weapons because that one weapons pack you usually use just doesn't have the specific MP5 you want? Well have I got the mod for you.
 
-Introducing Rambo Weapons Pack, containing a fuckhuge amount of weapons from real life. That&apos;s it. It just adds a lot of guns.
+Introducing Rambo Weapons Pack, containing a fuckhuge amount of weapons from real life. That's it. It just adds a lot of guns.
 
 [b]Compatibility[/b]
-This mod modifies vanilla weapons. In the case you have another mod that modifies or removes vanilla weapons, you&apos;re going to come across some compatibility issues.
-RWP IS compatible with CE. The CE version can be found [url=http://steamcommunity.com/sharedfiles/filedetails/?id=1236635699]here[/url], along with older versions in the ludeon forums thread if you&apos;re running A17.
+This mod modifies vanilla weapons. In the case you have another mod that modifies or removes vanilla weapons, you're going to come across some compatibility issues.
+RWP IS compatible with CE. The CE version can be found [url=http://steamcommunity.com/sharedfiles/filedetails/?id=1236635699]here[/url], along with older versions in the ludeon forums thread if you're running A17.
 
 [b]Plans for the future:[/b]
 Explodey guns update
 More guns
 
 [b]Feedback[/b]
-The most important thing I currently need is feedback. Things like balance, if certain guns are overpowered or underpowered. Obviously some guns will always be better than others, but if a certain gun seems to dominates their stage in the game that&apos;s a clear sign of imbalance. An example would be if all other mid-tier guns are ignored over AK&apos;s, simply because they&apos;re cheap to produce. I may tend to do this, but that&apos;s my playstyle. I need feedback from other users to get a general sense if this is actually universal or just me.
-Ofcourse, suggestions for new guns and all that is appreciated as well. It&apos;s always nice to have some attention.
+The most important thing I currently need is feedback. Things like balance, if certain guns are overpowered or underpowered. Obviously some guns will always be better than others, but if a certain gun seems to dominates their stage in the game that's a clear sign of imbalance. An example would be if all other mid-tier guns are ignored over AK's, simply because they're cheap to produce. I may tend to do this, but that's my playstyle. I need feedback from other users to get a general sense if this is actually universal or just me.
+Ofcourse, suggestions for new guns and all that is appreciated as well. It's always nice to have some attention.
 You can post all feedback either on the Ludeon Forums thread or on the RWP discord.
 
 [b]Changelogs[/b]
@@ -59,7 +59,7 @@ You can post all feedback either on the Ludeon Forums thread or on the RWP disco
 [url=https://docs.google.com/spreadsheets/d/14Z028qPCNGVSagf1gpX6KMaJnilg5JvXG1A3hDXmdPs/edit?usp=sharing]Weapons Spreadsheet[/url]
 
 
-[img]https://i.imgur.com/Rs6T6cr.png[/img]
+[img]https://i.imgur.com/PwoNOj4.png[/img]
 [list]
 [*] See if the the error persists if you just have this mod and its requirements active.
 [*] If not, try adding your other mods until it happens again.
@@ -70,4 +70,3 @@ You can post all feedback either on the Ludeon Forums thread or on the RWP disco
 [/list]
 </description>
 </ModMetaData>
-
