@@ -15,5 +15,8 @@
     <weaponTags>
       <li>Gun</li>
     </weaponTags>
+    <tradeTags>
+      <li>WeaponRanged</li>
+    </tradeTags>
   </ThingDef>
 </Defs>
