@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: RPK -->
+  <Gun_RPK_RWP.label>RPK</Gun_RPK_RWP.label>
+  <!-- EN: . -->
+  <Gun_RPK_RWP.description>.</Gun_RPK_RWP.description>
+  <!-- EN: stock -->
+  <Gun_RPK_RWP.tools.stock.label>stock</Gun_RPK_RWP.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_RPK_RWP.tools.barrel.label>barrel</Gun_RPK_RWP.tools.barrel.label>
+  <!-- EN: RPK -->
+  <Gun_RPK_RWP.verbs.Verb_Shoot.label>RPK</Gun_RPK_RWP.verbs.Verb_Shoot.label>
+</LanguageData>

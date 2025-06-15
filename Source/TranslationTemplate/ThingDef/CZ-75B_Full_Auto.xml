@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: CZ 75B Full Auto -->
+  <Gun_CZ_75B_Full_Auto_RWP.label>CZ 75B Full Auto</Gun_CZ_75B_Full_Auto_RWP.label>
+  <!-- EN: . -->
+  <Gun_CZ_75B_Full_Auto_RWP.description>.</Gun_CZ_75B_Full_Auto_RWP.description>
+  <!-- EN: grip -->
+  <Gun_CZ_75B_Full_Auto_RWP.tools.grip.label>grip</Gun_CZ_75B_Full_Auto_RWP.tools.grip.label>
+  <!-- EN: barrel -->
+  <Gun_CZ_75B_Full_Auto_RWP.tools.barrel.label>barrel</Gun_CZ_75B_Full_Auto_RWP.tools.barrel.label>
+  <!-- EN: CZ 75B Full Auto -->
+  <Gun_CZ_75B_Full_Auto_RWP.verbs.Verb_Shoot.label>CZ 75B Full Auto</Gun_CZ_75B_Full_Auto_RWP.verbs.Verb_Shoot.label>
+</LanguageData>

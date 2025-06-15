@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: KRISS Vector Gen1 -->
+  <Gun_KRISS_Vector_Gen1_RWP.label>KRISS Vector Gen1</Gun_KRISS_Vector_Gen1_RWP.label>
+  <!-- EN: . -->
+  <Gun_KRISS_Vector_Gen1_RWP.description>.</Gun_KRISS_Vector_Gen1_RWP.description>
+  <!-- EN: grip -->
+  <Gun_KRISS_Vector_Gen1_RWP.tools.grip.label>grip</Gun_KRISS_Vector_Gen1_RWP.tools.grip.label>
+  <!-- EN: barrel -->
+  <Gun_KRISS_Vector_Gen1_RWP.tools.barrel.label>barrel</Gun_KRISS_Vector_Gen1_RWP.tools.barrel.label>
+  <!-- EN: KRISS Vector Gen1 -->
+  <Gun_KRISS_Vector_Gen1_RWP.verbs.Verb_Shoot.label>KRISS Vector Gen1</Gun_KRISS_Vector_Gen1_RWP.verbs.Verb_Shoot.label>
+</LanguageData>

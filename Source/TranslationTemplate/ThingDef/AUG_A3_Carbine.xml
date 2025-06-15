@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: AUG A3 Carbine -->
+  <Gun_AUG_A3_Carbine_RWP.label>AUG A3 Carbine</Gun_AUG_A3_Carbine_RWP.label>
+  <!-- EN: . -->
+  <Gun_AUG_A3_Carbine_RWP.description>.</Gun_AUG_A3_Carbine_RWP.description>
+  <!-- EN: stock -->
+  <Gun_AUG_A3_Carbine_RWP.tools.stock.label>stock</Gun_AUG_A3_Carbine_RWP.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_AUG_A3_Carbine_RWP.tools.barrel.label>barrel</Gun_AUG_A3_Carbine_RWP.tools.barrel.label>
+  <!-- EN: AUG A3 Carbine -->
+  <Gun_AUG_A3_Carbine_RWP.verbs.Verb_Shoot.label>AUG A3 Carbine</Gun_AUG_A3_Carbine_RWP.verbs.Verb_Shoot.label>
+</LanguageData>

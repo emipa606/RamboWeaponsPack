@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: MAT-49 7.62x25mm -->
+  <Gun_MAT-49_762x25mm_RWP.label>MAT-49 7.62x25mm</Gun_MAT-49_762x25mm_RWP.label>
+  <!-- EN: . -->
+  <Gun_MAT-49_762x25mm_RWP.description>.</Gun_MAT-49_762x25mm_RWP.description>
+  <!-- EN: grip -->
+  <Gun_MAT-49_762x25mm_RWP.tools.grip.label>grip</Gun_MAT-49_762x25mm_RWP.tools.grip.label>
+  <!-- EN: barrel -->
+  <Gun_MAT-49_762x25mm_RWP.tools.barrel.label>barrel</Gun_MAT-49_762x25mm_RWP.tools.barrel.label>
+  <!-- EN: MAT-49 7.62x25mm -->
+  <Gun_MAT-49_762x25mm_RWP.verbs.Verb_Shoot.label>MAT-49 7.62x25mm</Gun_MAT-49_762x25mm_RWP.verbs.Verb_Shoot.label>
+</LanguageData>

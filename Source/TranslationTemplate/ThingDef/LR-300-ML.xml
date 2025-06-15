@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: LR-300-ML -->
+  <Gun_LR-300-ML_RWP.label>LR-300-ML</Gun_LR-300-ML_RWP.label>
+  <!-- EN: . -->
+  <Gun_LR-300-ML_RWP.description>.</Gun_LR-300-ML_RWP.description>
+  <!-- EN: stock -->
+  <Gun_LR-300-ML_RWP.tools.stock.label>stock</Gun_LR-300-ML_RWP.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_LR-300-ML_RWP.tools.barrel.label>barrel</Gun_LR-300-ML_RWP.tools.barrel.label>
+  <!-- EN: LR-300-ML -->
+  <Gun_LR-300-ML_RWP.verbs.Verb_Shoot.label>LR-300-ML</Gun_LR-300-ML_RWP.verbs.Verb_Shoot.label>
+</LanguageData>

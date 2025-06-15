@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Carl Gustav M/45 -->
+  <Gun_Carl_Gustav_M45_RWP.label>Carl Gustav M/45</Gun_Carl_Gustav_M45_RWP.label>
+  <!-- EN: . -->
+  <Gun_Carl_Gustav_M45_RWP.description>.</Gun_Carl_Gustav_M45_RWP.description>
+  <!-- EN: grip -->
+  <Gun_Carl_Gustav_M45_RWP.tools.grip.label>grip</Gun_Carl_Gustav_M45_RWP.tools.grip.label>
+  <!-- EN: barrel -->
+  <Gun_Carl_Gustav_M45_RWP.tools.barrel.label>barrel</Gun_Carl_Gustav_M45_RWP.tools.barrel.label>
+  <!-- EN: Carl Gustav M/45 -->
+  <Gun_Carl_Gustav_M45_RWP.verbs.Verb_Shoot.label>Carl Gustav M/45</Gun_Carl_Gustav_M45_RWP.verbs.Verb_Shoot.label>
+</LanguageData>

@@ -1,4 +1,4 @@
-# RamboWeaponsPack
+# [Rambo Weapons Pack (Continued)](https://steamcommunity.com/sharedfiles/filedetails/?id=2042712482)
 
 ![Image](https://i.imgur.com/buuPQel.png)
 
@@ -6,13 +6,11 @@ Update of Masterjamie9 (AAAAA)s mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1125630361
 
 - Lowered the Charge Rifles amount of work to build a bit since this caused an issue with weapon-generation for raids.
-- [strike]Added support for Combat Extended[/strike] CE-patches now included in the main CE-mod instead
+- ~~Added support for Combat Extended~~ CE-patches now included in the main CE-mod instead
 
 ![Image](https://i.imgur.com/pufA0kM.png)
-
 	
 ![Image](https://i.imgur.com/Z4GOv8H.png)
-
 
 Current Version: 1.2.3
 
@@ -22,7 +20,7 @@ Introducing Rambo Weapons Pack, containing a fuckhuge amount of weapons from rea
 
 **Compatibility**
 This mod modifies vanilla weapons. In the case you have another mod that modifies or removes vanilla weapons, you're going to come across some compatibility issues.
-RWP IS compatible with CE. The CE version can be found http://steamcommunity.com/sharedfiles/filedetails/?id=1236635699]here, along with older versions in the ludeon forums thread if you're running A17.
+RWP IS compatible with CE. The CE version can be found [here](http://steamcommunity.com/sharedfiles/filedetails/?id=1236635699), along with older versions in the ludeon forums thread if you're running A17.
 
 **Plans for the future:**
 Explodey guns update
@@ -34,11 +32,11 @@ Ofcourse, suggestions for new guns and all that is appreciated as well. It's alw
 You can post all feedback either on the Ludeon Forums thread or on the RWP discord.
 
 **Changelogs**
-https://pastebin.com/LdJH9XdW]Version 1.0
+[Version 1.0](https://pastebin.com/LdJH9XdW)
 
 **Links**
-https://ludeon.com/forums/index.php?topic=35431.0]Ludeon Forums Thread
-https://docs.google.com/spreadsheets/d/14Z028qPCNGVSagf1gpX6KMaJnilg5JvXG1A3hDXmdPs/edit?usp=sharing]Weapons Spreadsheet
+[Ludeon Forums Thread](https://ludeon.com/forums/index.php?topic=35431.0)
+[Weapons Spreadsheet](https://docs.google.com/spreadsheets/d/14Z028qPCNGVSagf1gpX6KMaJnilg5JvXG1A3hDXmdPs/edit?usp=sharing)
 
 
 ![Image](https://i.imgur.com/PwoNOj4.png)
@@ -47,13 +45,12 @@ https://docs.google.com/spreadsheets/d/14Z028qPCNGVSagf1gpX6KMaJnilg5JvXG1A3hDXm
 
 -  See if the the error persists if you just have this mod and its requirements active.
 -  If not, try adding your other mods until it happens again.
--  Post your error-log using https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib or the standalone https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404]Uploader and command Ctrl+F12
+-  Post your error-log using [HugsLib](https://steamcommunity.com/workshop/filedetails/?id=818773962) or the standalone [Uploader](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404) and command Ctrl+F12
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
--  Use https://github.com/RimSort/RimSort/releases/latest]RimSort to sort your mods
+-  Use [RimSort](https://github.com/RimSort/RimSort/releases/latest) to sort your mods
 
+ 
 
-
-https://steamcommunity.com/sharedfiles/filedetails/changelog/2042712482]![Image](https://img.shields.io/github/v/release/emipa606/RamboWeaponsPack?label=latest%20version&style=plastic&color=9f1111&labelColor=black)
-
+[![Image](https://img.shields.io/github/v/release/emipa606/RamboWeaponsPack?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2042712482) | tags:  realistic,  guns

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: G3A4 -->
+  <Gun_G3A4_RWP.label>G3A4</Gun_G3A4_RWP.label>
+  <!-- EN: . -->
+  <Gun_G3A4_RWP.description>.</Gun_G3A4_RWP.description>
+  <!-- EN: stock -->
+  <Gun_G3A4_RWP.tools.stock.label>stock</Gun_G3A4_RWP.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_G3A4_RWP.tools.barrel.label>barrel</Gun_G3A4_RWP.tools.barrel.label>
+  <!-- EN: G3A4 -->
+  <Gun_G3A4_RWP.verbs.Verb_Shoot.label>G3A4</Gun_G3A4_RWP.verbs.Verb_Shoot.label>
+</LanguageData>

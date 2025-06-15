@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Remington M870 Police Magnum -->
+  <Gun_PumpShotgun.label>Remington M870 Police Magnum</Gun_PumpShotgun.label>
+  <!-- EN: Ancient design. Deadly, but short range. -->
+  <Gun_PumpShotgun.description>Ancient design. Deadly, but short range.</Gun_PumpShotgun.description>
+  <!-- EN: stock -->
+  <Gun_PumpShotgun.tools.stock.label>stock</Gun_PumpShotgun.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_PumpShotgun.tools.barrel.label>barrel</Gun_PumpShotgun.tools.barrel.label>
+  <!-- EN: Remington M870 Police Magnum -->
+  <Gun_PumpShotgun.verbs.Verb_Shoot.label>Remington M870 Police Magnum</Gun_PumpShotgun.verbs.Verb_Shoot.label>
+</LanguageData>

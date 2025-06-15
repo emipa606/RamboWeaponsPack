@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: China Lake -->
+  <Gun_China_Lake_RWP.label>China Lake</Gun_China_Lake_RWP.label>
+  <!-- EN: . -->
+  <Gun_China_Lake_RWP.description>.</Gun_China_Lake_RWP.description>
+  <!-- EN: stock -->
+  <Gun_China_Lake_RWP.tools.stock.label>stock</Gun_China_Lake_RWP.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_China_Lake_RWP.tools.barrel.label>barrel</Gun_China_Lake_RWP.tools.barrel.label>
+  <!-- EN: China Lake -->
+  <Gun_China_Lake_RWP.verbs.Verb_Shoot.label>China Lake</Gun_China_Lake_RWP.verbs.Verb_Shoot.label>
+</LanguageData>

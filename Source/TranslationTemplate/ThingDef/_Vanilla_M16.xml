@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: M16 -->
+  <Gun_AssaultRifle.label>M16</Gun_AssaultRifle.label>
+  <!-- EN: . -->
+  <Gun_AssaultRifle.description>.</Gun_AssaultRifle.description>
+  <!-- EN: stock -->
+  <Gun_AssaultRifle.tools.stock.label>stock</Gun_AssaultRifle.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_AssaultRifle.tools.barrel.label>barrel</Gun_AssaultRifle.tools.barrel.label>
+  <!-- EN: M16 -->
+  <Gun_AssaultRifle.verbs.Verb_Shoot.label>M16</Gun_AssaultRifle.verbs.Verb_Shoot.label>
+</LanguageData>

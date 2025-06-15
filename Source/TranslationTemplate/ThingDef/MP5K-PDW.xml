@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: MP5K-PDW -->
+  <Gun_MP5K-PDW_RWP.label>MP5K-PDW</Gun_MP5K-PDW_RWP.label>
+  <!-- EN: . -->
+  <Gun_MP5K-PDW_RWP.description>.</Gun_MP5K-PDW_RWP.description>
+  <!-- EN: stock -->
+  <Gun_MP5K-PDW_RWP.tools.stock.label>stock</Gun_MP5K-PDW_RWP.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_MP5K-PDW_RWP.tools.barrel.label>barrel</Gun_MP5K-PDW_RWP.tools.barrel.label>
+  <!-- EN: MP5K-PDW -->
+  <Gun_MP5K-PDW_RWP.verbs.Verb_Shoot.label>MP5K-PDW</Gun_MP5K-PDW_RWP.verbs.Verb_Shoot.label>
+</LanguageData>

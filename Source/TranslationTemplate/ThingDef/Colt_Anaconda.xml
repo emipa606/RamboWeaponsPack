@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Colt Anaconda -->
+  <Gun_Colt_Anaconda_RWP.label>Colt Anaconda</Gun_Colt_Anaconda_RWP.label>
+  <!-- EN: . -->
+  <Gun_Colt_Anaconda_RWP.description>.</Gun_Colt_Anaconda_RWP.description>
+  <!-- EN: grip -->
+  <Gun_Colt_Anaconda_RWP.tools.grip.label>grip</Gun_Colt_Anaconda_RWP.tools.grip.label>
+  <!-- EN: barrel -->
+  <Gun_Colt_Anaconda_RWP.tools.barrel.label>barrel</Gun_Colt_Anaconda_RWP.tools.barrel.label>
+  <!-- EN: Colt Anaconda -->
+  <Gun_Colt_Anaconda_RWP.verbs.Verb_Shoot.label>Colt Anaconda</Gun_Colt_Anaconda_RWP.verbs.Verb_Shoot.label>
+</LanguageData>

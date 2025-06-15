@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Fal 50.00 -->
+  <Gun_Fal_50_00_RWP.label>Fal 50.00</Gun_Fal_50_00_RWP.label>
+  <!-- EN: . -->
+  <Gun_Fal_50_00_RWP.description>.</Gun_Fal_50_00_RWP.description>
+  <!-- EN: stock -->
+  <Gun_Fal_50_00_RWP.tools.stock.label>stock</Gun_Fal_50_00_RWP.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_Fal_50_00_RWP.tools.barrel.label>barrel</Gun_Fal_50_00_RWP.tools.barrel.label>
+  <!-- EN: Fal 50.00 -->
+  <Gun_Fal_50_00_RWP.verbs.Verb_Shoot.label>Fal 50.00</Gun_Fal_50_00_RWP.verbs.Verb_Shoot.label>
+</LanguageData>

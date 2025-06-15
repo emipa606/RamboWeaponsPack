@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: AA-12 -->
+  <Gun_AA-12_RWP.label>AA-12</Gun_AA-12_RWP.label>
+  <!-- EN: . -->
+  <Gun_AA-12_RWP.description>.</Gun_AA-12_RWP.description>
+  <!-- EN: stock -->
+  <Gun_AA-12_RWP.tools.stock.label>stock</Gun_AA-12_RWP.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_AA-12_RWP.tools.barrel.label>barrel</Gun_AA-12_RWP.tools.barrel.label>
+  <!-- EN: AA-12 -->
+  <Gun_AA-12_RWP.verbs.Verb_Shoot.label>AA-12</Gun_AA-12_RWP.verbs.Verb_Shoot.label>
+</LanguageData>

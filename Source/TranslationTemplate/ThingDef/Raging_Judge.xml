@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Raging Judge -->
+  <Gun_Raging_Judge_RWP.label>Raging Judge</Gun_Raging_Judge_RWP.label>
+  <!-- EN: . -->
+  <Gun_Raging_Judge_RWP.description>.</Gun_Raging_Judge_RWP.description>
+  <!-- EN: grip -->
+  <Gun_Raging_Judge_RWP.tools.grip.label>grip</Gun_Raging_Judge_RWP.tools.grip.label>
+  <!-- EN: barrel -->
+  <Gun_Raging_Judge_RWP.tools.barrel.label>barrel</Gun_Raging_Judge_RWP.tools.barrel.label>
+  <!-- EN: Raging Judge -->
+  <Gun_Raging_Judge_RWP.verbs.Verb_Shoot.label>Raging Judge</Gun_Raging_Judge_RWP.verbs.Verb_Shoot.label>
+</LanguageData>

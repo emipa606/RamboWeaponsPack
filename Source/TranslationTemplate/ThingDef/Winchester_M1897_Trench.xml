@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Winchester M1897 Trench -->
+  <Gun_Winchester_M1897_Trench_RWP.label>Winchester M1897 Trench</Gun_Winchester_M1897_Trench_RWP.label>
+  <!-- EN: . -->
+  <Gun_Winchester_M1897_Trench_RWP.description>.</Gun_Winchester_M1897_Trench_RWP.description>
+  <!-- EN: stock -->
+  <Gun_Winchester_M1897_Trench_RWP.tools.stock.label>stock</Gun_Winchester_M1897_Trench_RWP.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_Winchester_M1897_Trench_RWP.tools.barrel.label>barrel</Gun_Winchester_M1897_Trench_RWP.tools.barrel.label>
+  <!-- EN: Winchester M1897 Trench -->
+  <Gun_Winchester_M1897_Trench_RWP.verbs.Verb_Shoot.label>Winchester M1897 Trench</Gun_Winchester_M1897_Trench_RWP.verbs.Verb_Shoot.label>
+</LanguageData>

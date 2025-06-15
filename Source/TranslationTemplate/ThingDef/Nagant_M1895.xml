@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Nagant M1895 -->
+  <Gun_Nagant_M1895_RWP.label>Nagant M1895</Gun_Nagant_M1895_RWP.label>
+  <!-- EN: . -->
+  <Gun_Nagant_M1895_RWP.description>.</Gun_Nagant_M1895_RWP.description>
+  <!-- EN: grip -->
+  <Gun_Nagant_M1895_RWP.tools.grip.label>grip</Gun_Nagant_M1895_RWP.tools.grip.label>
+  <!-- EN: barrel -->
+  <Gun_Nagant_M1895_RWP.tools.barrel.label>barrel</Gun_Nagant_M1895_RWP.tools.barrel.label>
+  <!-- EN: Nagant M1895 -->
+  <Gun_Nagant_M1895_RWP.verbs.Verb_Shoot.label>Nagant M1895</Gun_Nagant_M1895_RWP.verbs.Verb_Shoot.label>
+</LanguageData>

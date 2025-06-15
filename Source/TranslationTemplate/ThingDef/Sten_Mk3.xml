@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Sten Mk III -->
+  <Gun_Sten_Mk_III_RWP.label>Sten Mk III</Gun_Sten_Mk_III_RWP.label>
+  <!-- EN: . -->
+  <Gun_Sten_Mk_III_RWP.description>.</Gun_Sten_Mk_III_RWP.description>
+  <!-- EN: barrel -->
+  <Gun_Sten_Mk_III_RWP.tools.barrel.label>barrel</Gun_Sten_Mk_III_RWP.tools.barrel.label>
+  <!-- EN: Sten Mk III -->
+  <Gun_Sten_Mk_III_RWP.verbs.Verb_Shoot.label>Sten Mk III</Gun_Sten_Mk_III_RWP.verbs.Verb_Shoot.label>
+</LanguageData>

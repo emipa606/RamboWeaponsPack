@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: MP-41 -->
+  <Gun_MP-41_RWP.label>MP-41</Gun_MP-41_RWP.label>
+  <!-- EN: . -->
+  <Gun_MP-41_RWP.description>.</Gun_MP-41_RWP.description>
+  <!-- EN: stock -->
+  <Gun_MP-41_RWP.tools.stock.label>stock</Gun_MP-41_RWP.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_MP-41_RWP.tools.barrel.label>barrel</Gun_MP-41_RWP.tools.barrel.label>
+  <!-- EN: MP-41 -->
+  <Gun_MP-41_RWP.verbs.Verb_Shoot.label>MP-41</Gun_MP-41_RWP.verbs.Verb_Shoot.label>
+</LanguageData>

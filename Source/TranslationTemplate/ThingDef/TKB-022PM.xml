@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: TKB-022PM -->
+  <Gun_TKB-022PM_RWP.label>TKB-022PM</Gun_TKB-022PM_RWP.label>
+  <!-- EN: . -->
+  <Gun_TKB-022PM_RWP.description>.</Gun_TKB-022PM_RWP.description>
+  <!-- EN: barrel -->
+  <Gun_TKB-022PM_RWP.tools.barrel.label>barrel</Gun_TKB-022PM_RWP.tools.barrel.label>
+  <!-- EN: TKB-022PM -->
+  <Gun_TKB-022PM_RWP.verbs.Verb_Shoot.label>TKB-022PM</Gun_TKB-022PM_RWP.verbs.Verb_Shoot.label>
+</LanguageData>

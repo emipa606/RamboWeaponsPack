@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: S&W M76 -->
+  <Gun_SW_M76_RWP.label>S&amp;W M76</Gun_SW_M76_RWP.label>
+  <!-- EN: . -->
+  <Gun_SW_M76_RWP.description>.</Gun_SW_M76_RWP.description>
+  <!-- EN: grip -->
+  <Gun_SW_M76_RWP.tools.grip.label>grip</Gun_SW_M76_RWP.tools.grip.label>
+  <!-- EN: barrel -->
+  <Gun_SW_M76_RWP.tools.barrel.label>barrel</Gun_SW_M76_RWP.tools.barrel.label>
+  <!-- EN: S&W M76 -->
+  <Gun_SW_M76_RWP.verbs.Verb_Shoot.label>S&amp;W M76</Gun_SW_M76_RWP.verbs.Verb_Shoot.label>
+</LanguageData>

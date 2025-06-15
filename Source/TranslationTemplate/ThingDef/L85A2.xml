@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: L85A2 -->
+  <Gun_L85A2_RWP.label>L85A2</Gun_L85A2_RWP.label>
+  <!-- EN: . -->
+  <Gun_L85A2_RWP.description>.</Gun_L85A2_RWP.description>
+  <!-- EN: stock -->
+  <Gun_L85A2_RWP.tools.stock.label>stock</Gun_L85A2_RWP.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_L85A2_RWP.tools.barrel.label>barrel</Gun_L85A2_RWP.tools.barrel.label>
+  <!-- EN: L85A2 -->
+  <Gun_L85A2_RWP.verbs.Verb_Shoot.label>L85A2</Gun_L85A2_RWP.verbs.Verb_Shoot.label>
+</LanguageData>

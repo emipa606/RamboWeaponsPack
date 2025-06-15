@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: XM25 CDTE -->
+  <Gun_XM25_CDTE_RWP.label>XM25 CDTE</Gun_XM25_CDTE_RWP.label>
+  <!-- EN: . -->
+  <Gun_XM25_CDTE_RWP.description>.</Gun_XM25_CDTE_RWP.description>
+  <!-- EN: stock -->
+  <Gun_XM25_CDTE_RWP.tools.stock.label>stock</Gun_XM25_CDTE_RWP.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_XM25_CDTE_RWP.tools.barrel.label>barrel</Gun_XM25_CDTE_RWP.tools.barrel.label>
+  <!-- EN: XM25 CDTE -->
+  <Gun_XM25_CDTE_RWP.verbs.Verb_Shoot.label>XM25 CDTE</Gun_XM25_CDTE_RWP.verbs.Verb_Shoot.label>
+</LanguageData>

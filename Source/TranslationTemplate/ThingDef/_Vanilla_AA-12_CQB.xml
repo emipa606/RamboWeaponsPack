@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: AA-12 CQC -->
+  <Gun_ChainShotgun.label>AA-12 CQC</Gun_ChainShotgun.label>
+  <!-- EN: . -->
+  <Gun_ChainShotgun.description>.</Gun_ChainShotgun.description>
+  <!-- EN: stock -->
+  <Gun_ChainShotgun.tools.stock.label>stock</Gun_ChainShotgun.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_ChainShotgun.tools.barrel.label>barrel</Gun_ChainShotgun.tools.barrel.label>
+  <!-- EN: AA-12 CQC -->
+  <Gun_ChainShotgun.verbs.Verb_Shoot.label>AA-12 CQC</Gun_ChainShotgun.verbs.Verb_Shoot.label>
+</LanguageData>

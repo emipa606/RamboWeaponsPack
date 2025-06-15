@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Beretta 92FS Inox -->
+  <Gun_Beretta_92fs_Inox_RWP.label>Beretta 92FS Inox</Gun_Beretta_92fs_Inox_RWP.label>
+  <!-- EN: . -->
+  <Gun_Beretta_92fs_Inox_RWP.description>.</Gun_Beretta_92fs_Inox_RWP.description>
+  <!-- EN: grip -->
+  <Gun_Beretta_92fs_Inox_RWP.tools.grip.label>grip</Gun_Beretta_92fs_Inox_RWP.tools.grip.label>
+  <!-- EN: barrel -->
+  <Gun_Beretta_92fs_Inox_RWP.tools.barrel.label>barrel</Gun_Beretta_92fs_Inox_RWP.tools.barrel.label>
+  <!-- EN: Beretta 92FS Inox -->
+  <Gun_Beretta_92fs_Inox_RWP.verbs.Verb_Shoot.label>Beretta 92FS Inox</Gun_Beretta_92fs_Inox_RWP.verbs.Verb_Shoot.label>
+</LanguageData>

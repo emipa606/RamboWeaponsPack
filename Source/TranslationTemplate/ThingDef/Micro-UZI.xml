@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Micro-UZI -->
+  <Gun_Micro-UZI_RWP.label>Micro-UZI</Gun_Micro-UZI_RWP.label>
+  <!-- EN: . -->
+  <Gun_Micro-UZI_RWP.description>.</Gun_Micro-UZI_RWP.description>
+  <!-- EN: grip -->
+  <Gun_Micro-UZI_RWP.tools.grip.label>grip</Gun_Micro-UZI_RWP.tools.grip.label>
+  <!-- EN: barrel -->
+  <Gun_Micro-UZI_RWP.tools.barrel.label>barrel</Gun_Micro-UZI_RWP.tools.barrel.label>
+  <!-- EN: Micro-UZI -->
+  <Gun_Micro-UZI_RWP.verbs.Verb_Shoot.label>Micro-UZI</Gun_Micro-UZI_RWP.verbs.Verb_Shoot.label>
+</LanguageData>

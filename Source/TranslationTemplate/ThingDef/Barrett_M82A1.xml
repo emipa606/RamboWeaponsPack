@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Barrett M82A1 -->
+  <Gun_Barret_M82A1_RWP.label>Barrett M82A1</Gun_Barret_M82A1_RWP.label>
+  <!-- EN: . -->
+  <Gun_Barret_M82A1_RWP.description>.</Gun_Barret_M82A1_RWP.description>
+  <!-- EN: stock -->
+  <Gun_Barret_M82A1_RWP.tools.stock.label>stock</Gun_Barret_M82A1_RWP.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_Barret_M82A1_RWP.tools.barrel.label>barrel</Gun_Barret_M82A1_RWP.tools.barrel.label>
+  <!-- EN: Barrett M82A1 -->
+  <Gun_Barret_M82A1_RWP.verbs.Verb_Shoot.label>Barrett M82A1</Gun_Barret_M82A1_RWP.verbs.Verb_Shoot.label>
+</LanguageData>

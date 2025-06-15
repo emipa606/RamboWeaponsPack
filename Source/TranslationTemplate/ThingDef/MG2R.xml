@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: MG2R -->
+  <Gun_MG2R_RWP.label>MG2R</Gun_MG2R_RWP.label>
+  <!-- EN: . -->
+  <Gun_MG2R_RWP.description>.</Gun_MG2R_RWP.description>
+  <!-- EN: grip -->
+  <Gun_MG2R_RWP.tools.grip.label>grip</Gun_MG2R_RWP.tools.grip.label>
+  <!-- EN: barrel -->
+  <Gun_MG2R_RWP.tools.barrel.label>barrel</Gun_MG2R_RWP.tools.barrel.label>
+  <!-- EN: MG2R -->
+  <Gun_MG2R_RWP.verbs.Verb_Shoot.label>MG2R</Gun_MG2R_RWP.verbs.Verb_Shoot.label>
+</LanguageData>

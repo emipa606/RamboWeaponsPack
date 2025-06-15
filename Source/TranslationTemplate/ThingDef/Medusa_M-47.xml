@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Medusa M-47 -->
+  <Gun_Medusa_M-47_RWP.label>Medusa M-47</Gun_Medusa_M-47_RWP.label>
+  <!-- EN: . -->
+  <Gun_Medusa_M-47_RWP.description>.</Gun_Medusa_M-47_RWP.description>
+  <!-- EN: grip -->
+  <Gun_Medusa_M-47_RWP.tools.grip.label>grip</Gun_Medusa_M-47_RWP.tools.grip.label>
+  <!-- EN: barrel -->
+  <Gun_Medusa_M-47_RWP.tools.barrel.label>barrel</Gun_Medusa_M-47_RWP.tools.barrel.label>
+  <!-- EN: Medusa M-47 -->
+  <Gun_Medusa_M-47_RWP.verbs.Verb_Shoot.label>Medusa M-47</Gun_Medusa_M-47_RWP.verbs.Verb_Shoot.label>
+</LanguageData>

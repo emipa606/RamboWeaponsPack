@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Jericho 941R -->
+  <Gun_Jericho_941R_RWP.label>Jericho 941R</Gun_Jericho_941R_RWP.label>
+  <!-- EN: . -->
+  <Gun_Jericho_941R_RWP.description>.</Gun_Jericho_941R_RWP.description>
+  <!-- EN: grip -->
+  <Gun_Jericho_941R_RWP.tools.grip.label>grip</Gun_Jericho_941R_RWP.tools.grip.label>
+  <!-- EN: barrel -->
+  <Gun_Jericho_941R_RWP.tools.barrel.label>barrel</Gun_Jericho_941R_RWP.tools.barrel.label>
+  <!-- EN: Jericho 941R -->
+  <Gun_Jericho_941R_RWP.verbs.Verb_Shoot.label>Jericho 941R</Gun_Jericho_941R_RWP.verbs.Verb_Shoot.label>
+</LanguageData>

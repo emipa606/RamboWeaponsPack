@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: P38K -->
+  <Gun_P38K_RWP.label>P38K</Gun_P38K_RWP.label>
+  <!-- EN: . -->
+  <Gun_P38K_RWP.description>.</Gun_P38K_RWP.description>
+  <!-- EN: grip -->
+  <Gun_P38K_RWP.tools.grip.label>grip</Gun_P38K_RWP.tools.grip.label>
+  <!-- EN: barrel -->
+  <Gun_P38K_RWP.tools.barrel.label>barrel</Gun_P38K_RWP.tools.barrel.label>
+  <!-- EN: P38K -->
+  <Gun_P38K_RWP.verbs.Verb_Shoot.label>P38K</Gun_P38K_RWP.verbs.Verb_Shoot.label>
+</LanguageData>

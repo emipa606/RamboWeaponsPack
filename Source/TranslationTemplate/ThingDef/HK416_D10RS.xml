@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: HK416 D10RS -->
+  <Gun_HK416_D10RS_RWP.label>HK416 D10RS</Gun_HK416_D10RS_RWP.label>
+  <!-- EN: . -->
+  <Gun_HK416_D10RS_RWP.description>.</Gun_HK416_D10RS_RWP.description>
+  <!-- EN: stock -->
+  <Gun_HK416_D10RS_RWP.tools.stock.label>stock</Gun_HK416_D10RS_RWP.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_HK416_D10RS_RWP.tools.barrel.label>barrel</Gun_HK416_D10RS_RWP.tools.barrel.label>
+  <!-- EN: HK416 D10RS -->
+  <Gun_HK416_D10RS_RWP.verbs.Verb_Shoot.label>HK416 D10RS</Gun_HK416_D10RS_RWP.verbs.Verb_Shoot.label>
+</LanguageData>

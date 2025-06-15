@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Patch>
+  <Operation Class="PatchOperationConditional">
+    <xpath>/Defs/PawnKindDef[defName="Mercenary_Gunner_Pig"]</xpath>
+    <success>Always</success>
+    <match Class="PatchOperationAdd">
+      <xpath>Defs/PawnKindDef[defName="Mercenary_Gunner_Pig"]</xpath>
+      <value>
+        <weaponMoney>355~650</weaponMoney>
+      </value>
+    </match>
+  </Operation>
+</Patch>

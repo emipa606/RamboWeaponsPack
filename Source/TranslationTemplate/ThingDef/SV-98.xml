@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: SV-98 -->
+  <Gun_SV-98_RWP.label>SV-98</Gun_SV-98_RWP.label>
+  <!-- EN: . -->
+  <Gun_SV-98_RWP.description>.</Gun_SV-98_RWP.description>
+  <!-- EN: stock -->
+  <Gun_SV-98_RWP.tools.stock.label>stock</Gun_SV-98_RWP.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_SV-98_RWP.tools.barrel.label>barrel</Gun_SV-98_RWP.tools.barrel.label>
+  <!-- EN: SV-98 -->
+  <Gun_SV-98_RWP.verbs.Verb_Shoot.label>SV-98</Gun_SV-98_RWP.verbs.Verb_Shoot.label>
+</LanguageData>

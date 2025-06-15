@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: AK-74M -->
+  <Gun_AK-74M_RWP.label>AK-74M</Gun_AK-74M_RWP.label>
+  <!-- EN: . -->
+  <Gun_AK-74M_RWP.description>.</Gun_AK-74M_RWP.description>
+  <!-- EN: stock -->
+  <Gun_AK-74M_RWP.tools.stock.label>stock</Gun_AK-74M_RWP.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_AK-74M_RWP.tools.barrel.label>barrel</Gun_AK-74M_RWP.tools.barrel.label>
+  <!-- EN: AK-74M -->
+  <Gun_AK-74M_RWP.verbs.Verb_Shoot.label>AK-74M</Gun_AK-74M_RWP.verbs.Verb_Shoot.label>
+</LanguageData>

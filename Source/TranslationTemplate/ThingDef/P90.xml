@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: P90 -->
+  <Gun_P90_RWP.label>P90</Gun_P90_RWP.label>
+  <!-- EN: . -->
+  <Gun_P90_RWP.description>.</Gun_P90_RWP.description>
+  <!-- EN: stock -->
+  <Gun_P90_RWP.tools.stock.label>stock</Gun_P90_RWP.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_P90_RWP.tools.barrel.label>barrel</Gun_P90_RWP.tools.barrel.label>
+  <!-- EN: P90 -->
+  <Gun_P90_RWP.verbs.Verb_Shoot.label>P90</Gun_P90_RWP.verbs.Verb_Shoot.label>
+</LanguageData>

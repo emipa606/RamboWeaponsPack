@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: FAMAS F1 -->
+  <Gun_FAMAS_F1_RWP.label>FAMAS F1</Gun_FAMAS_F1_RWP.label>
+  <!-- EN: . -->
+  <Gun_FAMAS_F1_RWP.description>.</Gun_FAMAS_F1_RWP.description>
+  <!-- EN: stock -->
+  <Gun_FAMAS_F1_RWP.tools.stock.label>stock</Gun_FAMAS_F1_RWP.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_FAMAS_F1_RWP.tools.barrel.label>barrel</Gun_FAMAS_F1_RWP.tools.barrel.label>
+  <!-- EN: FAMAS F1 -->
+  <Gun_FAMAS_F1_RWP.verbs.Verb_Shoot.label>FAMAS F1</Gun_FAMAS_F1_RWP.verbs.Verb_Shoot.label>
+</LanguageData>

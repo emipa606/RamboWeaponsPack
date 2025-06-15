@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Zastava M70 -->
+  <Gun_Zastava_M70_RWP.label>Zastava M70</Gun_Zastava_M70_RWP.label>
+  <!-- EN: . -->
+  <Gun_Zastava_M70_RWP.description>.</Gun_Zastava_M70_RWP.description>
+  <!-- EN: stock -->
+  <Gun_Zastava_M70_RWP.tools.stock.label>stock</Gun_Zastava_M70_RWP.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_Zastava_M70_RWP.tools.barrel.label>barrel</Gun_Zastava_M70_RWP.tools.barrel.label>
+  <!-- EN: Zastava M70 -->
+  <Gun_Zastava_M70_RWP.verbs.Verb_Shoot.label>Zastava M70</Gun_Zastava_M70_RWP.verbs.Verb_Shoot.label>
+</LanguageData>

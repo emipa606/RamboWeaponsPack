@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: TRG-21 -->
+  <Gun_TRG-21_RWP.label>TRG-21</Gun_TRG-21_RWP.label>
+  <!-- EN: . -->
+  <Gun_TRG-21_RWP.description>.</Gun_TRG-21_RWP.description>
+  <!-- EN: stock -->
+  <Gun_TRG-21_RWP.tools.stock.label>stock</Gun_TRG-21_RWP.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_TRG-21_RWP.tools.barrel.label>barrel</Gun_TRG-21_RWP.tools.barrel.label>
+  <!-- EN: TRG-21 -->
+  <Gun_TRG-21_RWP.verbs.Verb_Shoot.label>TRG-21</Gun_TRG-21_RWP.verbs.Verb_Shoot.label>
+</LanguageData>

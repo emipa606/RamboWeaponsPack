@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Colt M1911 -->
+  <Gun_Autopistol.label>Colt M1911</Gun_Autopistol.label>
+  <!-- EN: Ancient pattern automatic pistol. Weak and short range, but quick. -->
+  <Gun_Autopistol.description>Ancient pattern automatic pistol. Weak and short range, but quick.</Gun_Autopistol.description>
+  <!-- EN: grip -->
+  <Gun_Autopistol.tools.grip.label>grip</Gun_Autopistol.tools.grip.label>
+  <!-- EN: barrel -->
+  <Gun_Autopistol.tools.barrel.label>barrel</Gun_Autopistol.tools.barrel.label>
+  <!-- EN: Colt M1911 -->
+  <Gun_Autopistol.verbs.Verb_Shoot.label>Colt M1911</Gun_Autopistol.verbs.Verb_Shoot.label>
+</LanguageData>

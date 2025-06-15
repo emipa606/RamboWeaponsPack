@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: KS-23M -->
+  <Gun_KS-23M_RWP.label>KS-23M</Gun_KS-23M_RWP.label>
+  <!-- EN: . -->
+  <Gun_KS-23M_RWP.description>.</Gun_KS-23M_RWP.description>
+  <!-- EN: grip -->
+  <Gun_KS-23M_RWP.tools.grip.label>grip</Gun_KS-23M_RWP.tools.grip.label>
+  <!-- EN: barrel -->
+  <Gun_KS-23M_RWP.tools.barrel.label>barrel</Gun_KS-23M_RWP.tools.barrel.label>
+  <!-- EN: KS-23M -->
+  <Gun_KS-23M_RWP.verbs.Verb_Shoot.label>KS-23M</Gun_KS-23M_RWP.verbs.Verb_Shoot.label>
+</LanguageData>

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Carl_Gustav_M45_RWP</defName>

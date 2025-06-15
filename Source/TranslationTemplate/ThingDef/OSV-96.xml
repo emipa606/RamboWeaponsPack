@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: OSV-96 -->
+  <Gun_OSV-96_RWP.label>OSV-96</Gun_OSV-96_RWP.label>
+  <!-- EN: . -->
+  <Gun_OSV-96_RWP.description>.</Gun_OSV-96_RWP.description>
+  <!-- EN: stock -->
+  <Gun_OSV-96_RWP.tools.stock.label>stock</Gun_OSV-96_RWP.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_OSV-96_RWP.tools.barrel.label>barrel</Gun_OSV-96_RWP.tools.barrel.label>
+  <!-- EN: OSV-96 -->
+  <Gun_OSV-96_RWP.verbs.Verb_Shoot.label>OSV-96</Gun_OSV-96_RWP.verbs.Verb_Shoot.label>
+</LanguageData>

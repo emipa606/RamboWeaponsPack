@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: M14 -->
+  <Gun_M14_RWP.label>M14</Gun_M14_RWP.label>
+  <!-- EN: . -->
+  <Gun_M14_RWP.description>.</Gun_M14_RWP.description>
+  <!-- EN: stock -->
+  <Gun_M14_RWP.tools.stock.label>stock</Gun_M14_RWP.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_M14_RWP.tools.barrel.label>barrel</Gun_M14_RWP.tools.barrel.label>
+  <!-- EN: M14 -->
+  <Gun_M14_RWP.verbs.Verb_Shoot.label>M14</Gun_M14_RWP.verbs.Verb_Shoot.label>
+</LanguageData>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: SA vz. 58 P -->
+  <Gun_SA_vz58P_RWP.label>SA vz. 58 P</Gun_SA_vz58P_RWP.label>
+  <!-- EN: . -->
+  <Gun_SA_vz58P_RWP.description>.</Gun_SA_vz58P_RWP.description>
+  <!-- EN: stock -->
+  <Gun_SA_vz58P_RWP.tools.stock.label>stock</Gun_SA_vz58P_RWP.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_SA_vz58P_RWP.tools.barrel.label>barrel</Gun_SA_vz58P_RWP.tools.barrel.label>
+  <!-- EN: SA vz. 58 P -->
+  <Gun_SA_vz58P_RWP.verbs.Verb_Shoot.label>SA vz. 58 P</Gun_SA_vz58P_RWP.verbs.Verb_Shoot.label>
+</LanguageData>

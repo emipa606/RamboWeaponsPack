@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Glock 19 -->
+  <Gun_Glock_19_RWP.label>Glock 19</Gun_Glock_19_RWP.label>
+  <!-- EN: . -->
+  <Gun_Glock_19_RWP.description>.</Gun_Glock_19_RWP.description>
+  <!-- EN: grip -->
+  <Gun_Glock_19_RWP.tools.grip.label>grip</Gun_Glock_19_RWP.tools.grip.label>
+  <!-- EN: barrel -->
+  <Gun_Glock_19_RWP.tools.barrel.label>barrel</Gun_Glock_19_RWP.tools.barrel.label>
+  <!-- EN: Glock 19 -->
+  <Gun_Glock_19_RWP.verbs.Verb_Shoot.label>Glock 19</Gun_Glock_19_RWP.verbs.Verb_Shoot.label>
+</LanguageData>

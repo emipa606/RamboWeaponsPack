@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: SCAR-H STD -->
+  <Gun_SCAR-H_STD_RWP.label>SCAR-H STD</Gun_SCAR-H_STD_RWP.label>
+  <!-- EN: . -->
+  <Gun_SCAR-H_STD_RWP.description>.</Gun_SCAR-H_STD_RWP.description>
+  <!-- EN: stock -->
+  <Gun_SCAR-H_STD_RWP.tools.stock.label>stock</Gun_SCAR-H_STD_RWP.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_SCAR-H_STD_RWP.tools.barrel.label>barrel</Gun_SCAR-H_STD_RWP.tools.barrel.label>
+  <!-- EN: SCAR-H STD -->
+  <Gun_SCAR-H_STD_RWP.verbs.Verb_Shoot.label>SCAR-H STD</Gun_SCAR-H_STD_RWP.verbs.Verb_Shoot.label>
+</LanguageData>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: SA vz. 58 V -->
+  <Gun_SA_vz58V_RWP.label>SA vz. 58 V</Gun_SA_vz58V_RWP.label>
+  <!-- EN: . -->
+  <Gun_SA_vz58V_RWP.description>.</Gun_SA_vz58V_RWP.description>
+  <!-- EN: grip -->
+  <Gun_SA_vz58V_RWP.tools.grip.label>grip</Gun_SA_vz58V_RWP.tools.grip.label>
+  <!-- EN: barrel -->
+  <Gun_SA_vz58V_RWP.tools.barrel.label>barrel</Gun_SA_vz58V_RWP.tools.barrel.label>
+  <!-- EN: SA vz. 58 V -->
+  <Gun_SA_vz58V_RWP.verbs.Verb_Shoot.label>SA vz. 58 V</Gun_SA_vz58V_RWP.verbs.Verb_Shoot.label>
+</LanguageData>

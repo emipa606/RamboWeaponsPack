@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: G43 -->
+  <Gun_G43_RWP.label>G43</Gun_G43_RWP.label>
+  <!-- EN: . -->
+  <Gun_G43_RWP.description>.</Gun_G43_RWP.description>
+  <!-- EN: stock -->
+  <Gun_G43_RWP.tools.stock.label>stock</Gun_G43_RWP.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_G43_RWP.tools.barrel.label>barrel</Gun_G43_RWP.tools.barrel.label>
+  <!-- EN: G43 -->
+  <Gun_G43_RWP.verbs.Verb_Shoot.label>G43</Gun_G43_RWP.verbs.Verb_Shoot.label>
+</LanguageData>
