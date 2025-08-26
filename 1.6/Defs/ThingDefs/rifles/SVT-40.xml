@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_SVT-40_RWP</defName>
     <label>SVT-40</label>
-    <description>.</description>
+    <description>The SVT-40 is a semi-automatic battle rifle known for its robustness and reliability. Firing a powerful round, it excels at moderate to long-range combat, making it a favorite among sharpshooters. Despite its age, its precision and stopping power remain formidable on the battlefield.</description>
     <graphicData>
       <texPath>Things/modern/rifles/svt-40</texPath>
       <graphicClass>Graphic_Single</graphicClass>

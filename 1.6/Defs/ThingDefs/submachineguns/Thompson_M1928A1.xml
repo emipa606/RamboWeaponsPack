@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Thompson_M1928A1_RWP</defName>
     <label>Thompson M1928A1</label>
-    <description>.</description>
+    <description>The Thompson M1928A1 is a vintage submachine gun known for its iconic design and rapid rate of fire. Often associated with prohibition-era gangsters and WWII soldiers alike, it delivers a high volume of .45 ACP rounds with reasonable accuracy at short to medium range. However, its heavy weight and considerable recoil require skill to wield effectively.</description>
     <graphicData>
       <texPath>Things/modern/submachineguns/thompson_m1928a1</texPath>
       <graphicClass>Graphic_Single</graphicClass>

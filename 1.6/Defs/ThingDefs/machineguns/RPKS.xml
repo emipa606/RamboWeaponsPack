@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_RPKS_RWP</defName>
     <label>RPKS</label>
-    <description>.</description>
+    <description>The RPKS is a light machine gun known for its durability and reliability. It offers a solid balance of firepower and efficiency, featuring a high rate of fire suitable for suppressing enemies in mid-range combat. Although it has moderate accuracy and recoil, the RPKS excels in sustained engagements where consistent fire is key. A favorite among those who prioritize endurance on the battlefield.</description>
     <graphicData>
       <texPath>Things/modern/machineguns/rpks</texPath>
       <graphicClass>Graphic_Single</graphicClass>

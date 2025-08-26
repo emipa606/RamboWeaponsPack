@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_MN91-30_RWP</defName>
     <label>Mosin Nagant 91/30</label>
-    <description>.</description>
+    <description>A bolt-action rifle of Russian origin, the Mosin Nagant 91/30 is renowned for its accuracy and durability. With a slow firing rate, it excels at long-range engagements, providing a powerful shot that can pierce through armor. Its historical significance and rugged design make it a favorite among survivalists and collectors alike.</description>
     <graphicData>
       <texPath>Things/modern/rifles/mn91-30</texPath>
       <graphicClass>Graphic_Single</graphicClass>

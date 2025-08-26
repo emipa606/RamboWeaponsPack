@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Ithaca_37_Riot_RWP</defName>
     <label>Ithaca 37 Riot</label>
-    <description>.</description>
+    <description>The Ithaca 37 Riot is a pump-action shotgun known for its reliability and durable construction. Ideal for close-quarters combat, it offers significant stopping power and has a fast pump action that ensures quick follow-up shots. Its rugged design makes it a favorite among security forces and anyone in need of a dependable weapon for riot control or self-defense situations.</description>
     <graphicData>
       <texPath>Things/modern/shotguns/ithaca_37_riot</texPath>
       <graphicClass>Graphic_Single</graphicClass>

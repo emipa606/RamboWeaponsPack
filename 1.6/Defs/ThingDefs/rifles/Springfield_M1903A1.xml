@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Springfield_M1903A1_RWP</defName>
     <label>Springfield M1903A1</label>
-    <description>.</description>
+    <description>The Springfield M1903A1 is a bolt-action rifle known for its accuracy and reliability. Preferred by marksmen, this weapon is chambered in .30-06 Springfield, delivering powerful shots over long distances with precision. Its robust build and historical significance make it a favored choice for those who value range and accuracy in their arsenal.</description>
     <graphicData>
       <texPath>Things/modern/rifles/springfield_m1903a1</texPath>
       <graphicClass>Graphic_Single</graphicClass>

@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Welrod_Mk1_RWP</defName>
     <label>Welrod Mk I</label>
-    <description>.</description>
+    <description>The Welrod Mk I is a highly specialized, silenced pistol engineered for covert operations. Its design prioritizes stealth, featuring an integrated suppressor that significantly reduces noise and muzzle flash, making it ideal for takedowns without alerting nearby adversaries. While its rate of fire is slow and magazine capacity limited, its unique ability to quietly incapacitate targets can turn the tide in stealth missions.</description>
     <graphicData>
       <texPath>Things/modern/pistols/welrod_mk1</texPath>
       <graphicClass>Graphic_Single</graphicClass>

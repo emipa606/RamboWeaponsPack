@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_F2000_RWP</defName>
     <label>F2000</label>
-    <description>.</description>
+    <description>The F2000 is a versatile, bullpup assault rifle known for its compact design and reliable performance. Boasting a high rate of fire and commendable accuracy, this weapon is well-suited for mid-range engagements. Its unique modern aesthetics and ergonomic build make it a favored choice among colonists who require both style and substance in combat scenarios.</description>
     <graphicData>
       <texPath>Things/modern/assaultrifles/f2000</texPath>
       <graphicClass>Graphic_Single</graphicClass>

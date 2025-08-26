@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_MP-40_RWP</defName>
     <label>MP-40</label>
-    <description>.</description>
+    <description>The MP-40 is a classic submachine gun known for its compact design and ease of handling. With an effective full-auto capability, it offers moderate damage and rapid fire, making it ideal for close-quarters combat. Its reliability and iconic silhouette make it a popular choice among colonists who prioritize versatility and portability in combat scenarios.</description>
     <graphicData>
       <texPath>Things/modern/submachineguns/mp40</texPath>
       <graphicClass>Graphic_Single</graphicClass>

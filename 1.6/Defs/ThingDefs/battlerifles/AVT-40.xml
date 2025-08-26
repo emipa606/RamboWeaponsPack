@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_AVT-40_RWP</defName>
     <label>AVT-40</label>
-    <description>.</description>
+    <description>The AVT-40 is a semi-automatic rifle known for its long range and high damage output. Originally designed as a versatile combat weapon, it offers colonists a reliable option for engaging enemies at a distance. While it boasts a slower firing rate compared to other firearms, each shot delivers substantial stopping power, making it suitable for skilled sharpshooters. The AVT-40 is prized for its effectiveness in open combat scenarios, though its bulk and recoil may pose a challenge in close quarters or rapid engagements.</description>
     <graphicData>
       <texPath>Things/modern/rifles/svt-40</texPath>
       <graphicClass>Graphic_Single</graphicClass>

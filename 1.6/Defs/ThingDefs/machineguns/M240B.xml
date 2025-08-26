@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_M240B_RWP</defName>
     <label>M240B</label>
-    <description>.</description>
+    <description>The M240B is a powerful, belt-fed machine gun designed for sustained fire. With a high rate of fire and significant stopping power, it excels at suppressing threats and providing covering fire. Its reliability and effectiveness at a range make it a formidable choice for defensive positions and open-field combat. However, it's heavy and cumbersome, requiring careful positioning and support to maximize its efficiency on the battlefield.</description>
     <graphicData>
       <texPath>Things/modern/machineguns/m240b</texPath>
       <graphicClass>Graphic_Single</graphicClass>

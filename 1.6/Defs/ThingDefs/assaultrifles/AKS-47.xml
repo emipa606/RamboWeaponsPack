@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_AKS-47_RWP</defName>
     <label>AKS-47</label>
-    <description>.</description>
+    <description>The AKS-47 is a rugged and reliable assault rifle known for its durability and ease of use. It fires a 7.62mm round, offering a balance of range, power, and rate of fire that excels in mid-range combat scenarios. Its design is time-tested, making it a popular choice for colonists in hostile environments.</description>
     <graphicData>
       <texPath>Things/modern/assaultrifles/aks-47</texPath>
       <graphicClass>Graphic_Single</graphicClass>

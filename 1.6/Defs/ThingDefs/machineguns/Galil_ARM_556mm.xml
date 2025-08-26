@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Galil_ARM_556mm_RWP</defName>
     <label>Galil ARM 5.56mm</label>
-    <description>.</description>
+    <description>The Galil ARM is a versatile 5.56mm assault rifle known for its reliability in harsh environments. Equipped with a bipod and integrated carrying handle, it offers improved stability during sustained fire, making it an excellent choice for mid to long-range engagements. This rugged weapon delivers a balance of accuracy and firepower, suited for colonies facing frequent raids or skirmishes.</description>
     <graphicData>
       <texPath>Things/modern/machineguns/galil_arm_556mm</texPath>
       <graphicClass>Graphic_Single</graphicClass>

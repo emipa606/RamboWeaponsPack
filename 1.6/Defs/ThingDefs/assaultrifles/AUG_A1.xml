@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_AUG_A1_RWP</defName>
     <label>AUG A1</label>
-    <description>.</description>
+    <description>The AUG A1 is an advanced bullpup assault rifle known for its precision and high rate of fire. Featuring an integrated scope for enhanced accuracy, it is a versatile weapon suitable for medium to long-range combat. The design allows for rapid response in the field, making it a favored choice for tactical engagements.</description>
     <graphicData>
       <texPath>Things/modern/assaultrifles/aug_a1</texPath>
       <graphicClass>Graphic_Single</graphicClass>

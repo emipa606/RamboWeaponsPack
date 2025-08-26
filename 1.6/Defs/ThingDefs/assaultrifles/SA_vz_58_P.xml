@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_SA_vz58P_RWP</defName>
     <label>SA vz. 58 P</label>
-    <description>.</description>
+    <description>The SA vz. 58 P is a rugged, semi-automatic rifle known for its reliability and lightweight design. Originally developed in Czechoslovakia, it features a distinctive short-stroke gas piston system, providing impressive accuracy and rapid follow-up shots. Ideal for tribes needing a balance between firepower and maneuverability.</description>
     <graphicData>
       <texPath>Things/modern/assaultrifles/sa_vz58p</texPath>
       <graphicClass>Graphic_Single</graphicClass>

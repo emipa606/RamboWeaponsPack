@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Saiga-12K_RWP</defName>
     <label>Saiga-12K</label>
-    <description>.</description>
+    <description>The Saiga-12K is a rapid-fire, semi-automatic combat shotgun, designed for tactical scenarios. It offers devastating close-range firepower, unleashing a barrage of shells in quick succession. Ideal for clearing rooms or repelling charges, though its effectiveness wanes with distance. Built on a rugged platform, it's reliable under harsh conditions, but its spread requires careful positioning for maximum impact.</description>
     <graphicData>
       <texPath>Things/modern/shotguns/saiga-12k</texPath>
       <graphicClass>Graphic_Single</graphicClass>

@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_MP5SD2_RWP</defName>
     <label>MP5SD2</label>
-    <description>.</description>
+    <description>The MP5SD2 is a compact submachine gun equipped with an integrated suppressor, combining effective close-quarters firepower with stealth. Its 9mm rounds deal moderate damage, and the suppressed design significantly reduces firing noise, making it ideal for covert operations. Lightweight and reliable, it allows for quick maneuverability in tight spaces.</description>
     <graphicData>
       <texPath>Things/modern/submachineguns/mp5sd2</texPath>
       <graphicClass>Graphic_Single</graphicClass>

@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_TOZ-66_RWP</defName>
     <label>TOZ-66</label>
-    <description>.</description>
+    <description>The TOZ-66 is a rugged double-barreled shotgun known for its simplicity and reliability. Designed for close-quarters combat, it delivers devastating firepower with its twin barrels, capable of firing both shots in quick succession. Ideal for hunters and defenses alike, the TOZ-66 excels in tight spaces but suffers from a slower reload time.</description>
     <graphicData>
       <texPath>Things/modern/shotguns/toz-66</texPath>
       <graphicClass>Graphic_Single</graphicClass>

@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Ithaca_37_Trench_RWP</defName>
     <label>Ithaca 37 Trench</label>
-    <description>.</description>
+    <description>The Ithaca 37 Trench is a reliable pump-action shotgun, renowned for its durability and swift operation in close combat situations. Its rugged design and rapid fire make it a formidable choice for defense and assaults within confined spaces.</description>
     <graphicData>
       <texPath>Things/modern/shotguns/ithaca_37_trench</texPath>
       <graphicClass>Graphic_Single</graphicClass>

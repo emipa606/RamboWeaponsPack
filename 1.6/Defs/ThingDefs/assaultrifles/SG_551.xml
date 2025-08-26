@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_SG_551_RWP</defName>
     <label>SG 551</label>
-    <description>.</description>
+    <description>The SG 551 is a reliable, Swiss-made assault rifle known for its accuracy and durability. It fires 5.56mm rounds, making it effective at medium range. With a balanced combination of fire rate and stopping power, it's a versatile choice for both combat and hunting.</description>
     <graphicData>
       <texPath>Things/modern/assaultrifles/sg_551</texPath>
       <graphicClass>Graphic_Single</graphicClass>

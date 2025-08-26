@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_USP45_RWP</defName>
     <label>USP45</label>
-    <description>.</description>
+    <description>The USP45 is a semi-automatic pistol designed for accuracy and reliability. Chambered in .45 ACP, it delivers substantial stopping power with a moderate fire rate. Ideal for self-defense or as a sidearm in combat, its balance of precision and force makes it a valuable choice for any colonist.</description>
     <graphicData>
       <texPath>Things/modern/pistols/usp45</texPath>
       <graphicClass>Graphic_Single</graphicClass>

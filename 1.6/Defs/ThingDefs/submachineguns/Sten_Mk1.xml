@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Sten_Mk_I_RWP</defName>
     <label>Sten Mk I</label>
-    <description>.</description>
+    <description>A simple and rugged submachine gun, the Sten Mk I is known for its ease of manufacture and reliability in battle. Fires 9x19mm rounds in a spray, effective at close to mid-range. Deals moderate damage with a high rate of fire, ideal for overwhelming enemies quickly. Widely used for its practicality and straightforward design.</description>
     <graphicData>
       <texPath>Things/modern/submachineguns/sten_mk1</texPath>
       <graphicClass>Graphic_Single</graphicClass>

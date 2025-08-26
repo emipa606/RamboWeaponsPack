@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Desert_Eagle_44_RWP</defName>
     <label>Desert Eagle .44</label>
-    <description>.</description>
+    <description>A powerful semi-automatic pistol known for its high stopping power. The Desert Eagle .44 fires large caliber rounds, making it effective against armored targets. However, its weight and recoil can affect handling and accuracy, best suited for those who can manage its kick.</description>
     <graphicData>
       <texPath>Things/modern/pistols/desert_eagle</texPath>
       <graphicClass>Graphic_Single</graphicClass>

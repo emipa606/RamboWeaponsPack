@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Thompson_UMP9_RWP</defName>
     <label>UMP9</label>
-    <description>.</description>
+    <description>UMP9 is a compact, lightweight submachine gun known for its reliability and ease of use. It features a moderate rate of fire and is chambered for 9x19mm rounds, making it effective for close to mid-range combat. Ideal for colonists needing a balance of firepower and maneuverability.</description>
     <graphicData>
       <texPath>Things/modern/submachineguns/ump9</texPath>
       <graphicClass>Graphic_Single</graphicClass>

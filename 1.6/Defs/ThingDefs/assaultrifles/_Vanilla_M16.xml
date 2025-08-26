@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_AssaultRifle</defName>
     <label>M16</label>
-    <description>.</description>
+    <description>The M16 is a reliable and accurate assault rifle designed for mid-range combat. Known for its high rate of fire and versatility, this weapon is ideal for colonists seeking a balance between power and precision. Rugged and tested in various conditions, the M16 will serve as a formidable addition to your arsenal.</description>
     <graphicData>
       <texPath>Things/modern/assaultrifles/m16</texPath>
       <graphicClass>Graphic_Single</graphicClass>

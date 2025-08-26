@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_L85A1_RWP</defName>
     <label>L85A1</label>
-    <description>.</description>
+    <description>The L85A1 is an automatic rifle known for its bullpup design, providing a compact form with a full-length barrel. It offers a moderate rate of fire and good accuracy, making it effective for medium-range combat. However, its maintenance can be demanding and reliability issues may arise under harsh conditions. Ideal for colonists who need a balance of firepower and precision.</description>
     <graphicData>
       <texPath>Things/modern/assaultrifles/l85a2</texPath>
       <graphicClass>Graphic_Single</graphicClass>

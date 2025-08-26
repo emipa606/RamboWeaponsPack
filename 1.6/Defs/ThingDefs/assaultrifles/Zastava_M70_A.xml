@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Zastava_M70A_RWP</defName>
     <label>Zastava M70 A</label>
-    <description>.</description>
+    <description>The Zastava M70 A is a rugged, semi-automatic pistol originating from Eastern Europe. Known for its durability and reliability, it boasts a 9mm caliber, offering a solid balance between stopping power and control. Its simple design ensures ease of use and maintenance, making it a trusty sidearm for any colonist.</description>
     <graphicData>
       <texPath>Things/modern/assaultrifles/zastava_m70a</texPath>
       <graphicClass>Graphic_Single</graphicClass>

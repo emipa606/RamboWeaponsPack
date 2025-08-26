@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Thompson_M1921_RWP</defName>
     <label>Thompson M1921</label>
-    <description>.</description>
+    <description>The Thompson M1921 is a classic submachine gun known for its high rate of fire and reliable close-quarters performance. Developed during the early 20th century, this firearm is famed for its use in history by both law enforcement and notorious criminal elements. It uses .45 ACP rounds and is effective at short to medium ranges, offering rapid bursts of firepower to suppress foes swiftly. However, its weight and recoil can be a challenge to manage for extended engagements.</description>
     <graphicData>
       <texPath>Things/modern/submachineguns/thompson_m1921</texPath>
       <graphicClass>Graphic_Single</graphicClass>

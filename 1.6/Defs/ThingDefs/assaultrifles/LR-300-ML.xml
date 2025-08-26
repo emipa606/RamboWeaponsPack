@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_LR-300-ML_RWP</defName>
     <label>LR-300-ML</label>
-    <description>.</description>
+    <description>The LR-300-ML is an advanced, military-grade assault rifle renowned for its precision and modular capabilities. Designed for long-range engagements, it offers a high rate of fire with exceptional accuracy. Includes integrated laser sighting for improved targeting. Ideal for tactical units needing versatility and reliability in combat scenarios.</description>
     <graphicData>
       <texPath>Things/modern/assaultrifles/lr-300-ml</texPath>
       <graphicClass>Graphic_Single</graphicClass>

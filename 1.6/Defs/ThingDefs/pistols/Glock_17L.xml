@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Glock_17L_RWP</defName>
     <label>Glock 17L</label>
-    <description>.</description>
+    <description>"The Glock 17L is a long-barreled variant of the popular Glock 17 pistol. Renowned for its accuracy and reliability, this semi-automatic handgun excels in medium-range engagements. Its extended barrel offers improved ballistic performance, making it a favored choice for marksmen requiring superior precision in a compact package. Though it lacks the stopping power of larger firearms, its rapid rate of fire and manageable recoil make it a versatile sidearm in any colony's arsenal."</description>
     <graphicData>
       <texPath>Things/modern/pistols/glock_17l</texPath>
       <graphicClass>Graphic_Single</graphicClass>

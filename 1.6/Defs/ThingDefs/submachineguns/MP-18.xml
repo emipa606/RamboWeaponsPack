@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_MP-18_RWP</defName>
     <label>MP-18</label>
-    <description>.</description>
+    <description>The MP-18 is an automatic SMG known for its historical significance as one of the first submachine guns used in combat. Designed for close quarters, it offers a rapid rate of fire and moderate accuracy, making it effective for quick skirmishes. While it may lack the power of larger firearms, its lightweight build allows for increased mobility on the battlefield.</description>
     <graphicData>
       <texPath>Things/modern/submachineguns/mp18</texPath>
       <graphicClass>Graphic_Single</graphicClass>

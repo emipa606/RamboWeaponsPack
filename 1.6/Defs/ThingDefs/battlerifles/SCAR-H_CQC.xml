@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_SCAR-H_CQC_RWP</defName>
     <label>SCAR-H CQC</label>
-    <description>.</description>
+    <description>The SCAR-H CQC is a versatile assault rifle with superior stopping power and range. Designed for close-quarters combat, it offers exceptional accuracy and rapid firing capability, making it ideal for tactical engagements. Built with durable materials, it withstands harsh conditions while delivering high damage, making it a formidable choice for any combatant seeking reliability and effectiveness on the battlefield.</description>
     <graphicData>
       <texPath>Things/modern/battlerifles/scar-h_cqc</texPath>
       <graphicClass>Graphic_Single</graphicClass>

@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_AUG_A1_Carbine_RWP</defName>
     <label>AUG A1 Carbine</label>
-    <description>.</description>
+    <description>The AUG A1 Carbine is a compact, lightweight assault rifle famed for its reliability and precision. Featuring a modular bullpup design, it offers enhanced control and accuracy for mid-range combat, making it a trusted firearm on any rimworld battlefield.</description>
     <graphicData>
       <texPath>Things/modern/assaultrifles/aug_a1_carbine</texPath>
       <graphicClass>Graphic_Single</graphicClass>

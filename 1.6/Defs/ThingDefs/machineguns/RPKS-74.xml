@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_RPKS-74_RWP</defName>
     <label>RPKS-74</label>
-    <description>.</description>
+    <description>The RPKS-74 is a robust and reliable light machine gun, designed for sustained fire. Equipped with a folding stock for better maneuverability, it sacrifices some accuracy for a higher rate of fire and a larger magazine capacity, making it ideal for suppressive roles in combat situations. Suitable for both offensive and defensive tactics, this weapon is trusted by those needing consistent performance in prolonged engagements.</description>
     <graphicData>
       <texPath>Things/modern/machineguns/rpks-74</texPath>
       <graphicClass>Graphic_Single</graphicClass>

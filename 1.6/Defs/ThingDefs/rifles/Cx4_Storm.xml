@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Cx4_Storm_RWP</defName>
     <label>Cx4 Storm</label>
-    <description>.</description>
+    <description>The Cx4 Storm is a versatile semi-automatic carbine, known for its reliability and ease of use. Its compact design makes it ideal for close-quarters combat, offering a balanced mix of accuracy and firepower. Rugged enough for various environmental conditions, it's a favorite among colonies needing a dependable ranged weapon.</description>
     <graphicData>
       <texPath>Things/modern/rifles/cx4_storm</texPath>
       <graphicClass>Graphic_Single</graphicClass>

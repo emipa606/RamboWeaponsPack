@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_MAC-11_RWP</defName>
     <label>MAC-11</label>
-    <description>.</description>
+    <description>The MAC-11 is a compact, fully automatic submachine gun known for its high rate of fire. Ideal for short-range combat, it can deliver a barrage of bullets in quick succession but requires frequent reloading. Its lightweight design makes it easy to carry, but its accuracy diminishes rapidly with distance.</description>
     <graphicData>
       <texPath>Things/modern/submachineguns/mac-11</texPath>
       <graphicClass>Graphic_Single</graphicClass>

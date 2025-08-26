@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Galil_SAR_556mm_RWP</defName>
     <label>Galil SAR 5.56mm</label>
-    <description>.</description>
+    <description>The Galil SAR 5.56mm is a compact and reliable assault rifle, known for its durability and effectiveness in various combat situations. Designed with a shorter barrel for increased maneuverability, it offers a balance between power and accuracy, making it ideal for mid-range engagements. With a rapid rate of fire and modest recoil, this weapon is favored by those who value versatility in the heat of battle.</description>
     <graphicData>
       <texPath>Things/modern/assaultrifles/galil_sar_556mm</texPath>
       <graphicClass>Graphic_Single</graphicClass>

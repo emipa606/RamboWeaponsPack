@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_OSV-96_RWP</defName>
     <label>OSV-96</label>
-    <description>.</description>
+    <description>A Russian made semi-automatic anti-materiel rifle designed for long-range engagement. Known for its powerful 12.7mm ammunition, the OSV-96 excels in penetrating armor and taking down large targets from a distance, but can be cumbersome in close quarters.</description>
     <graphicData>
       <texPath>Things/modern/amrifles/osv-96</texPath>
       <graphicClass>Graphic_Single</graphicClass>

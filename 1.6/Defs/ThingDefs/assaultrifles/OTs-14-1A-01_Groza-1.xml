@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_OTs-14-1A-01_Groza-1_RWP</defName>
     <label>OTs-14-1A-01 Groza-1</label>
-    <description>.</description>
+    <description>The OTs-14-1A-01 Groza-1 is a versatile bullpup assault rifle known for its compact design and powerful 7.62x39mm cartridge. This weapon excels in close to mid-range combat, delivering superior stopping power and high penetration. Equipped with a grenade launcher, the Groza-1 allows for tactical flexibility on the battlefield, capable of fulfilling multiple roles in a single package. Ideal for colonists who need reliability and adaptability in intense skirmishes.</description>
     <graphicData>
       <texPath>Things/modern/assaultrifles/ots-14-1a-01_groza-1</texPath>
       <graphicClass>Graphic_Single</graphicClass>

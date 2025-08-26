@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Thompson_UMP45_RWP</defName>
     <label>UMP45</label>
-    <description>.</description>
+    <description>The UMP45 is a compact and reliable submachine gun known for its high stopping power and moderate range. It fires .45 ACP rounds, making it effective in close-quarters combat where accuracy and velocity can dictate survival. Its lightweight design ensures quick maneuverability, ideal for tactical assaults and defensive scenarios.</description>
     <graphicData>
       <texPath>Things/modern/submachineguns/ump45</texPath>
       <graphicClass>Graphic_Single</graphicClass>

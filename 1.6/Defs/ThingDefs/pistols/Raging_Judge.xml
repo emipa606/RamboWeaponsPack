@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Raging_Judge_RWP</defName>
     <label>Raging Judge</label>
-    <description>.</description>
+    <description>Raging Judge is a formidable revolver designed for maximum stopping power. It fires large-caliber rounds with a devastating impact, making it ideal for close-quarters combat. Despite its intimidating force, it maintains a reasonable firing rate and reliability. However, its heavy recoil requires steady handling and careful aim. Perfect for colonists who need sheer brute strength in firefights.</description>
     <graphicData>
       <texPath>Things/modern/pistols/raging_judge</texPath>
       <graphicClass>Graphic_Single</graphicClass>

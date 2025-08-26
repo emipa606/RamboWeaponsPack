@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_M16A2_RWP</defName>
     <label>M16A2</label>
-    <description>.</description>
+    <description>The M16A2 is a military-grade assault rifle known for its accuracy and reliability. It features a burst-fire mode, making it effective at medium range in skilled hands. Widely used and recognized, it offers a balance of firepower and control, suitable for various combat scenarios.</description>
     <graphicData>
       <texPath>Things/modern/assaultrifles/m16a2</texPath>
       <graphicClass>Graphic_Single</graphicClass>

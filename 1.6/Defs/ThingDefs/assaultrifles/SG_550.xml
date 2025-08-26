@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_SG_550_RWP</defName>
     <label>SG 550</label>
-    <description>.</description>
+    <description>The SG 550 is a precision-engineered assault rifle known for its reliability and accuracy. Designed for versatility in mid-range combat, it features a high rate of fire with controlled recoil, making it effective for both defensive and offensive maneuvers. Ideal for marksmen who value precision in the heat of battle.</description>
     <graphicData>
       <texPath>Things/modern/assaultrifles/sg_550</texPath>
       <graphicClass>Graphic_Single</graphicClass>

@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_VSS_Vintorez_RWP</defName>
     <label>VSS Vintorez</label>
-    <description>.</description>
+    <description>The VSS Vintorez is a specialized sniper rifle featuring an integral suppressor, designed for stealth operations. It uses subsonic ammunition to maintain a low noise profile, making it ideal for taking out targets silently from a distance. Despite its modest range compared to other sniper rifles, its high precision and ability to remain undetected make it a favorite for covert missions.</description>
     <graphicData>
       <texPath>Things/modern/assaultrifles/vss_vintorez</texPath>
       <graphicClass>Graphic_Single</graphicClass>

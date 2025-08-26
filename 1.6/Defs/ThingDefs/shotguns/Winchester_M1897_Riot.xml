@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Winchester_M1897_Riot_RWP</defName>
     <label>Winchester M1897 Riot</label>
-    <description>.</description>
+    <description>The Winchester M1897 Riot is a robust, pump-action shotgun renowned for its rapid fire and reliability in close-quarters combat. Designed for urban encounters, its formidable stopping power makes it ideal for suppressing threats at short ranges. Embrace its historic legacy as a trusted tool for law enforcement and military units.</description>
     <graphicData>
       <texPath>Things/modern/shotguns/winchester_m1897_riot</texPath>
       <graphicClass>Graphic_Single</graphicClass>

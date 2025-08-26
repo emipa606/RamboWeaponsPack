@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_StG44_RWP</defName>
     <label>StG.44</label>
-    <description>.</description>
+    <description>The StG.44, a pioneering assault rifle, revolutionizes mid-range combat with its balance of accuracy, fire rate, and stopping power. Combining elements of rifles and submachine guns, this weapon excels in versatility and adaptability, making it a formidable choice for skilled shooters.</description>
     <graphicData>
       <texPath>Things/modern/assaultrifles/stg44</texPath>
       <graphicClass>Graphic_Single</graphicClass>

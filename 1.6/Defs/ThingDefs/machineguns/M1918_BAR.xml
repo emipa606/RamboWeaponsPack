@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_M1918_BAR_RWP</defName>
     <label>M1918 BAR</label>
-    <description>.</description>
+    <description>The M1918 BAR (Browning Automatic Rifle) is a powerful automatic firearm developed during World War I. It features a high rate of fire and good range, making it effective for laying down suppressive fire or dealing with large groups of enemies. It uses .30-06 Springfield ammunition and requires two hands to operate effectively. Though slightly cumbersome, this classic weapon offers reliability and substantial stopping power on the battlefield.</description>
     <graphicData>
       <texPath>Things/modern/machineguns/m1918_bar</texPath>
       <graphicClass>Graphic_Single</graphicClass>

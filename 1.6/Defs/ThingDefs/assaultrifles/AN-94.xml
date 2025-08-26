@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_AN-94_RWP</defName>
     <label>AN-94</label>
-    <description>.</description>
+    <description>The AN-94 is an advanced assault rifle known for its unique two-shot burst mechanism, offering increased accuracy in the first two rounds. With a balance of firepower and precision, it excels in mid-range combat, providing a tactical advantage in engagements. Developed with cutting-edge technology, it is favored by skilled marksmen who appreciate its innovative design.</description>
     <graphicData>
       <texPath>Things/modern/assaultrifles/an-94</texPath>
       <graphicClass>Graphic_Single</graphicClass>

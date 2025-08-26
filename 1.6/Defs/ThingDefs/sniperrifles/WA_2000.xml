@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_WA_2000_RWP</defName>
     <label>WA 2000</label>
-    <description>.</description>
+    <description>The WA 2000 is a precise, high-caliber sniper rifle designed for long-range engagements. It offers exceptional accuracy and stopping power, making it ideal for picking off targets from a distance. However, its fire rate is slow, so choose your shots wisely.</description>
     <graphicData>
       <texPath>Things/modern/sniperrifles/wa2000</texPath>
       <graphicClass>Graphic_Single</graphicClass>

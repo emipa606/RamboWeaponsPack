@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_RPK-74_RWP</defName>
     <label>RPK-74</label>
-    <description>.</description>
+    <description>A Soviet-designed light machine gun, the RPK-74 is an evolution of the AK platform. It offers high firepower with its 5.45x39mm cartridge in a drum magazine, maintaining reliability and accuracy over sustained fire. Ideal for suppression and defending positions, but comes with increased weight.</description>
     <graphicData>
       <texPath>Things/modern/machineguns/rpk-74</texPath>
       <graphicClass>Graphic_Single</graphicClass>

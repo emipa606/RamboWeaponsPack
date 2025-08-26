@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_RPK_RWP</defName>
     <label>RPK</label>
-    <description>.</description>
+    <description>A light machine gun derived from the AK-47, the RPK offers high firepower with moderate recoil. It is designed for sustained, automatic fire, making it ideal for suppressing enemy forces. Suitable for ranged combat specialists, its longer barrel and robust magazine facilitate effective mid-range engagements.</description>
     <graphicData>
       <texPath>Things/modern/machineguns/rpk</texPath>
       <graphicClass>Graphic_Single</graphicClass>

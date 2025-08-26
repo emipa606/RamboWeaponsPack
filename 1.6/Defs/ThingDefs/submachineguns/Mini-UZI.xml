@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Mini-UZI_RWP</defName>
     <label>Mini-UZI</label>
-    <description>.</description>
+    <description>A compact submachine gun, the Mini-Uzi offers rapid-fire capability and high mobility. It's perfect for close-quarters combat, delivering a quick barrage of bullets. Though lacking long-range accuracy, its lightweight design and rate of fire make it ideal for hit-and-run tactics. Be mindful of its high ammo consumption in prolonged engagements.</description>
     <graphicData>
       <texPath>Things/modern/submachineguns/mini-uzi</texPath>
       <graphicClass>Graphic_Single</graphicClass>

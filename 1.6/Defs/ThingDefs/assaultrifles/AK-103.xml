@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_AK-103_RWP</defName>
     <label>AK-103</label>
-    <description>.</description>
+    <description>The AK-103 is a modern assault rifle known for its reliability and versatility. It fires 7.62x39mm rounds, offering greater stopping power compared to smaller calibers. Ideal for mid to long-range combat, the AK-103 is a robust choice for any colony's defense arsenal.</description>
     <graphicData>
       <texPath>Things/modern/assaultrifles/ak-103</texPath>
       <graphicClass>Graphic_Single</graphicClass>

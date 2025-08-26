@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_PPK_RWP</defName>
     <label>Walther PPK</label>
-    <description>.</description>
+    <description>A compact semi-automatic pistol known for its reliability and concealability. Despite its small size, the Walther PPK delivers a respectable punch, making it ideal for close range engagements and personal defense. Its lightweight design ensures quick handling, while its classic styling maintains a timeless appeal.</description>
     <graphicData>
       <texPath>Things/modern/pistols/ppk</texPath>
       <graphicClass>Graphic_Single</graphicClass>

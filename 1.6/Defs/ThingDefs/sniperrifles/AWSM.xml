@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_AWSM_RWP</defName>
     <label>AWSM</label>
-    <description>.</description>
+    <description>A high-powered, long-range sniper rifle known for its exceptional accuracy and stopping power. Designed for elite sharpshooters, the AWSM is perfect for taking out targets at extreme distances with minimal recoil and maximum precision.</description>
     <graphicData>
       <texPath>Things/modern/sniperrifles/awsm</texPath>
       <graphicClass>Graphic_Single</graphicClass>

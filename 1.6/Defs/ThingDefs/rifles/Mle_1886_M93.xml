@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Mle_1886_RWP</defName>
     <label>Mle 1886 M93</label>
-    <description>.</description>
+    <description>The Mle 1886 M93, a bolt-action rifle renowned for its historical significance, offers formidable stopping power with its long-range capabilities. An enduring symbol of late 19th-century military innovation, this firearm is prized for its accuracy, though it sacrifices firing speed for precision. Ideal for marksmen who prioritize distance and impact over rapid fire.</description>
     <graphicData>
       <texPath>Things/modern/rifles/mle_1886_m93</texPath>
       <graphicClass>Graphic_Single</graphicClass>

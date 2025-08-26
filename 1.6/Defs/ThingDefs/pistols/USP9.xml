@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_USP9_RWP</defName>
     <label>USP9</label>
-    <description>.</description>
+    <description>The USP9 is a semi-automatic pistol known for its reliability and ease of use. It strikes a balance between stopping power and magazine capacity, making it a solid choice for colonists needing a dependable sidearm in battle.</description>
     <graphicData>
       <texPath>Things/modern/pistols/usp9</texPath>
       <graphicClass>Graphic_Single</graphicClass>

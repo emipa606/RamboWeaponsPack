@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_MP-3008_RWP</defName>
     <label>MP-3008</label>
-    <description>.</description>
+    <description>The MP-3008 is a compact submachine gun inspired by a historic design, known for its rugged simplicity and ease of manufacture. Designed for close-quarters combat, it offers a high rate of fire at the cost of accuracy over longer distances. Ideal for colonists in need of a reliable automatic weapon for defense and short-range engagements.</description>
     <graphicData>
       <texPath>Things/modern/submachineguns/mp3008</texPath>
       <graphicClass>Graphic_Single</graphicClass>

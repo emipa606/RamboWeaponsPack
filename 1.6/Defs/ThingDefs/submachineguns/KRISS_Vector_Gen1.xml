@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_KRISS_Vector_Gen1_RWP</defName>
     <label>KRISS Vector Gen1</label>
-    <description>.</description>
+    <description>The KRISS Vector Gen1 is a cutting-edge submachine gun known for its unique recoil mitigation design and fast rate of fire. Utilizing a revolutionary Super V system, it redirects recoil energy downwards, allowing for increased accuracy and control. Ideal for short to medium-range engagements, this weapon is lethal in the hands of a skilled shooter.</description>
     <graphicData>
       <texPath>Things/modern/submachineguns/kriss_vector_gen1</texPath>
       <graphicClass>Graphic_Single</graphicClass>

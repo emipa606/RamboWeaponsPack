@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_F2000_Tactical_RWP</defName>
     <label>F2000 Tactical</label>
-    <description>.</description>
+    <description>The F2000 Tactical is an advanced assault rifle, offering high firepower with excellent accuracy and burst capabilities. Engineered for reliability, its sleek design supports a modular setup with tactical attachments, making it a versatile choice for tactical operations in various environments.</description>
     <graphicData>
       <texPath>Things/modern/assaultrifles/f2000_tactical</texPath>
       <graphicClass>Graphic_Single</graphicClass>

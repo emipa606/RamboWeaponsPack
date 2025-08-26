@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_M4_RWP</defName>
     <label>M4</label>
-    <description>.</description>
+    <description>A versatile and reliable assault rifle, the M4 offers a good balance of accuracy, fire rate, and damage, making it effective in both short and long-range engagements. Suitable for skilled marksmen looking to maintain steady fire during combat.</description>
     <graphicData>
       <texPath>Things/modern/assaultrifles/m4</texPath>
       <graphicClass>Graphic_Single</graphicClass>

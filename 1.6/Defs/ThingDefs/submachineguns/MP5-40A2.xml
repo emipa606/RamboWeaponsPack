@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_MP5-40A2_RWP</defName>
     <label>MP5/40A2</label>
-    <description>.</description>
+    <description>A compact and reliable submachine gun. The MP5/40A2 is chambered in .40 S&amp;W, offering a balance of rate of fire and stopping power. Perfect for short to medium-range engagements with its controllable recoil and quick response time. Ideal for close-quarters combat.</description>
     <graphicData>
       <texPath>Things/modern/submachineguns/mp5-40a2</texPath>
       <graphicClass>Graphic_Single</graphicClass>

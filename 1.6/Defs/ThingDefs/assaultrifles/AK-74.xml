@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_AK-74_RWP</defName>
     <label>AK-74</label>
-    <description>.</description>
+    <description>A powerful assault rifle developed from the iconic AK-47 lineage. The AK-74 offers improved accuracy and reduced recoil, making it effective in mid-range combat. Reliable and robust, it remains a favorite choice for survival in harsh environments.</description>
     <graphicData>
       <texPath>Things/modern/assaultrifles/ak-74</texPath>
       <graphicClass>Graphic_Single</graphicClass>

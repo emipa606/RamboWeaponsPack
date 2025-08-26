@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_G36K_RWP</defName>
     <label>G36K</label>
-    <description>.</description>
+    <description>The G36K is a compact, fully-automatic assault rifle known for its reliability and adaptability in combat. Designed with a shorter barrel for enhanced mobility, it maintains excellent accuracy and firepower, making it a versatile option for both ranged skirmishes and close-quarters encounters.</description>
     <graphicData>
       <texPath>Things/modern/assaultrifles/g36k</texPath>
       <graphicClass>Graphic_Single</graphicClass>

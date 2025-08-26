@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_PTRS-41_RWP</defName>
     <label>PTRS-41</label>
-    <description>.</description>
+    <description>A massive Soviet anti-tank rifle designed for piercing armor. The PTRS-41 boasts a long barrel for high accuracy and a powerful 14.5×114mm round capable of penetrating even hardened targets. Ideal for taking down mechanized threats and heavily armored foes, but its weight and slow firing rate require careful positioning and timing in battle.</description>
     <graphicData>
       <texPath>Things/modern/amrifles/ptrs-41</texPath>
       <graphicClass>Graphic_Single</graphicClass>

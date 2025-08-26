@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_SVD_RWP</defName>
     <label>SVD</label>
-    <description>.</description>
+    <description>The SVD is a semi-automatic sniper rifle known for its precision and reliability. Equipped with a telescopic sight, it offers impressive accuracy over long distances. Designed to engage targets with pinpoint precision, the SVD is a formidable choice for any marksman seeking to neutralize threats before they close in.</description>
     <graphicData>
       <texPath>Things/modern/sniperrifles/svd</texPath>
       <graphicClass>Graphic_Single</graphicClass>

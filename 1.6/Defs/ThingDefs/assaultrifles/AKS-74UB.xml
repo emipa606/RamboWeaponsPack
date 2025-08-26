@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_AKS-74UB_RWP</defName>
     <label>AKS-74UB</label>
-    <description>.</description>
+    <description>The AKS-74UB is a compact, silenced assault rifle designed for stealth operations. With its integrated suppressor, this firearm offers excellent noise reduction, making it ideal for ambushes and covert engagements. Despite its compact size, it maintains a high rate of fire and good stopping power, making it a versatile choice for tactical missions.</description>
     <graphicData>
       <texPath>Things/modern/assaultrifles/aks-74ub</texPath>
       <graphicClass>Graphic_Single</graphicClass>

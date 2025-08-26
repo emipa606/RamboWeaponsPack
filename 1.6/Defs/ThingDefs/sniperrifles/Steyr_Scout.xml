@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Steyr_Scout_RWP</defName>
     <label>Steyr Scout</label>
-    <description>.</description>
+    <description>A lightweight and versatile bolt-action sniper rifle known for its accuracy and range. The Steyr Scout is designed for precision shooting, making it a reliable choice for taking down targets from a great distance. Its portability and effectiveness make it a favored tool for hunters and marksmen.</description>
     <graphicData>
       <texPath>Things/modern/sniperrifles/steyr_scout</texPath>
       <graphicClass>Graphic_Single</graphicClass>

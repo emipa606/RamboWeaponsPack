@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_SA_vz58V_RWP</defName>
     <label>SA vz. 58 V</label>
-    <description>.</description>
+    <description>The SA vz. 58 V is a Czech-made selective fire carbine known for its reliability and robustness. Chambered in 7.62×39mm, it features a distinct design with a gas-operated action and a short-stroke piston. While it bears a superficial resemblance to the AK-47, its internal mechanics set it apart. Ideal for medium-range engagements, it offers a balanced mix of firepower and accuracy, making it a versatile choice for skilled operators.</description>
     <graphicData>
       <texPath>Things/modern/assaultrifles/sa_vz58v</texPath>
       <graphicClass>Graphic_Single</graphicClass>

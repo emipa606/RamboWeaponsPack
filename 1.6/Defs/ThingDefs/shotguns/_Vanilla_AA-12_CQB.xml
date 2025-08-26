@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_ChainShotgun</defName>
     <label>AA-12 CQC</label>
-    <description>.</description>
+    <description>The AA-12 CQC is a fully automatic shotgun designed for close-quarters combat. It delivers a rapid barrage of shots, making it ideal for situations where sheer firepower is needed at close range. Built with a robust frame, this weapon prioritizes reliability and ease of use, allowing even less experienced shooters to effectively manage its intense output.</description>
     <graphicData>
       <texPath>Things/modern/shotguns/aa-12_cqc</texPath>
       <graphicClass>Graphic_Single</graphicClass>

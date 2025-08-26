@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Carl_Gustav_M45_RWP</defName>
     <label>Carl Gustav M/45</label>
-    <description>.</description>
+    <description>The Carl Gustav M/45, a Swedish submachine gun known for its simplicity and reliability, is a versatile firearm with moderate range and a high rate of fire. Ideal for close combat, its robust design ensures it can withstand even the harshest conditions. Used by various military forces, it remains a trusted choice for those needing a dependable automatic weapon.</description>
     <graphicData>
       <texPath>Things/modern/submachineguns/carl_gustav_m-45</texPath>
       <graphicClass>Graphic_Single</graphicClass>

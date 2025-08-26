@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_SVU_RWP</defName>
     <label>SVU</label>
-    <description>.</description>
+    <description>The SVU is a semi-automatic marksman rifle designed for precision at long range. It features a sleek design for enhanced mobility and is equipped with a scope for increased accuracy. Ideal for sharpshooters who need to engage targets from a distance, balancing firepower with precision in combat scenarios.</description>
     <graphicData>
       <texPath>Things/modern/sniperrifles/svu</texPath>
       <graphicClass>Graphic_Single</graphicClass>

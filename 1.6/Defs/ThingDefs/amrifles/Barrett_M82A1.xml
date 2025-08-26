@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Barret_M82A1_RWP</defName>
     <label>Barrett M82A1</label>
-    <description>.</description>
+    <description>The Barrett M82A1 is a powerful, long-range anti-materiel sniper rifle. Designed for heavy-duty targets, its large caliber rounds can penetrate armored enemies and damage critical components. With its high stopping power and remarkable precision, it's ideally suited for engaging distant threats on the battlefield.</description>
     <graphicData>
       <texPath>Things/modern/amrifles/barret_m82a1</texPath>
       <graphicClass>Graphic_Single</graphicClass>

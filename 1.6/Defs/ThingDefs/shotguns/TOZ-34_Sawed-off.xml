@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_TOZ-34_Sawed-off_RWP</defName>
     <label>TOZ-34 Sawed-off</label>
-    <description>.</description>
+    <description>The TOZ-34 Sawed-off is a compact, side-by-side break-action shotgun modified for better maneuverability. Its shortened barrels make it ideal for close-quarters combat, offering a wide spread that can deal significant damage at short range. However, its range and accuracy diminish quickly, making it less effective at distance. Perfect for tight spaces where power and speed are essential.</description>
     <graphicData>
       <texPath>Things/modern/shotguns/toz-34_sawed-off</texPath>
       <graphicClass>Graphic_Single</graphicClass>

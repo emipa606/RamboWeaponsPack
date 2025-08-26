@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_SPAS-12_RWP</defName>
     <label>SPAS-12</label>
-    <description>.</description>
+    <description>The SPAS-12 is a combat shotgun known for its versatility and power. Originally designed for military and law enforcement use, it offers both semi-automatic and pump-action firing modes. It features a distinctive folding stock and a high rate of fire, making it effective for close-quarters combat. With moderate range and high stopping power, it can handle various threats swiftly.</description>
     <graphicData>
       <texPath>Things/modern/shotguns/spas-12</texPath>
       <graphicClass>Graphic_Single</graphicClass>

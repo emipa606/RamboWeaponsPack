@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Skorpion_SA_Vz61_RWP</defName>
     <label>Skorpion vz.61</label>
-    <description>.</description>
+    <description>The Skorpion vz.61 is a compact automatic weapon known for its versatility and ease of use. Originally designed for use by military and security forces, it combines elements of a submachine gun and a machine pistol, making it an effective choice for close-quarters combat. Its balanced design offers a moderate firing rate and manageable recoil, suitable for pawns needing a lightweight yet powerful firearm.</description>
     <graphicData>
       <texPath>Things/modern/submachineguns/skorpion_vz61</texPath>
       <graphicClass>Graphic_Single</graphicClass>

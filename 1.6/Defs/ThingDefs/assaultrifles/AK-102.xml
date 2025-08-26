@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_AK-102_RWP</defName>
     <label>AK-102</label>
-    <description>.</description>
+    <description>The AK-102 is a modern assault rifle known for its reliability and adaptability. It fires 5.56x39mm rounds, offering a balance of high accuracy and significant stopping power over medium distances. Ideal for both mid-range combat and quick assaults, this weapon is favored by many for its durability and ease of maintenance in harsh environments.</description>
     <graphicData>
       <texPath>Things/modern/assaultrifles/ak-102</texPath>
       <graphicClass>Graphic_Single</graphicClass>

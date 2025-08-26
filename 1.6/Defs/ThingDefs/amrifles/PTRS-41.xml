@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_PTRD-41_RWP</defName>
     <label>PTRD-41</label>
-    <description>.</description>
+    <description>The PTRD-41 is a powerful anti-tank rifle designed in the early 1940s. While originally intended to penetrate armored vehicles, it is now repurposed for dealing with heavily armored threats in the field. Its immense stopping power comes at the cost of a slow rate of fire and considerable recoil. Ideal for long-range engagements against tough targets, but be aware of its cumbersome handling in close-quarters combat.</description>
     <graphicData>
       <texPath>Things/modern/amrifles/ptrd-41</texPath>
       <graphicClass>Graphic_Single</graphicClass>

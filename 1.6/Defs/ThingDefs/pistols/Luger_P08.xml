@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Luger_P08_RWP</defName>
     <label>Luger P08</label>
-    <description>.</description>
+    <description>A classic semi-automatic pistol, the Luger P08 combines historical charm with reliable performance. It features a toggle-lock mechanism and a modest magazine capacity, suitable for mid-range engagements. Its precision and craftsmanship make it a collector's favorite, though it may not match the stopping power of more modern firearms.</description>
     <graphicData>
       <texPath>Things/modern/pistols/luger_p08</texPath>
       <graphicClass>Graphic_Single</graphicClass>

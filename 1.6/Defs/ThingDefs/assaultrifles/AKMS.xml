@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_AKMS_RWP</defName>
     <label>AKMS</label>
-    <description>.</description>
+    <description>The AKMS is a robust and reliable assault rifle, known for its durability and ease of use. It features a folding metal stock, making it more compact and versatile in various combat scenarios. With a good rate of fire and moderate damage, the AKMS is well-suited for mid-range engagements, offering a balanced performance for any colony's defense needs.</description>
     <graphicData>
       <texPath>Things/modern/assaultrifles/akms</texPath>
       <graphicClass>Graphic_Single</graphicClass>

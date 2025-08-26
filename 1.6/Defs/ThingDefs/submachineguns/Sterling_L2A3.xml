@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Sterling_L2A3_RWP</defName>
     <label>Sterling L2A3</label>
-    <description>.</description>
+    <description>The Sterling L2A3 is a compact, fully-automatic submachine gun known for its reliability and ease of use. Crafted from durable materials, it offers decent stopping power for close-quarter combat with a high rate of fire, making it an effective choice for colonists needing to engage threats at short range.</description>
     <graphicData>
       <texPath>Things/modern/submachineguns/sterling_l2a3</texPath>
       <graphicClass>Graphic_Single</graphicClass>

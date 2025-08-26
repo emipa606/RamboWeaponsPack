@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_FAMAS_F1_RWP</defName>
     <label>FAMAS F1</label>
-    <description>.</description>
+    <description>The FAMAS F1 is a lightweight and versatile bullpup assault rifle, known for its high rate of fire and reliability. Ideal for short to medium-range combat, its compact design allows for quick maneuverability, making it a favored choice in intense firefights. Deploy this weapon to bolster your colony's defense capabilities.</description>
     <graphicData>
       <texPath>Things/modern/assaultrifles/famas_f1</texPath>
       <graphicClass>Graphic_Single</graphicClass>

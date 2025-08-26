@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_M21_RWP</defName>
     <label>M21</label>
-    <description>.</description>
+    <description>The M21 is a high-caliber sniper rifle prized for its exceptional accuracy and stopping power. Originating from mid-20th-century military designs, it is ideal for long-range engagements, allowing a shooter to pick off enemies from a distance with precision. While it lacks the fire rate of more modern weapons, its ability to deliver decisive, one-shot damage makes it a favorite among skilled marksmen. Best used in open or elevated positions, its reliability shines in competent hands.</description>
     <graphicData>
       <texPath>Things/modern/sniperrifles/m21</texPath>
       <graphicClass>Graphic_Single</graphicClass>

@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Colt_Anaconda_RWP</defName>
     <label>Colt Anaconda</label>
-    <description>.</description>
+    <description>The Colt Anaconda is a powerful, large-caliber revolver known for its accuracy and stopping power. Ideal for mid-range combat, it combines rugged design with deadly precision, making it a formidable choice for those facing dangerous wildlife or hostile adversaries. Perfect for those who prefer raw firepower in a reliable, classic form.</description>
     <graphicData>
       <texPath>Things/modern/pistols/colt_anaconda</texPath>
       <graphicClass>Graphic_Single</graphicClass>

@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_MP-41_RWP</defName>
     <label>MP-41</label>
-    <description>.</description>
+    <description>The MP-41 is a well-crafted submachine gun designed for reliability and ease of use. Combining rapid fire with reasonable accuracy, it excels in close to mid-range combat. Its wooden stock adds stability, making it a dependable choice for any colonist facing a firefight.</description>
     <graphicData>
       <texPath>Things/modern/submachineguns/mp41</texPath>
       <graphicClass>Graphic_Single</graphicClass>

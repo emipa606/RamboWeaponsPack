@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Springfield_M1903_RWP</defName>
     <label>Springfield M1903</label>
-    <description>.</description>
+    <description>The Springfield M1903 is a bolt-action rifle renowned for its accuracy and reliability. Originally used during the early 20th century, it is excellent for long-range shooting, making it ideal for picking off enemies from a distance. Its powerful shots can penetrate armor effectively, though its firing rate is slower due to the bolt-action mechanism. Perfect for marksmen who value precision.</description>
     <graphicData>
       <texPath>Things/modern/rifles/springfield_m1903</texPath>
       <graphicClass>Graphic_Single</graphicClass>

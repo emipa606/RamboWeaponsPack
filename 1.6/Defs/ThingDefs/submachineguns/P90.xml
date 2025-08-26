@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_P90_RWP</defName>
     <label>P90</label>
-    <description>.</description>
+    <description>A compact, fully automatic submachine gun known for its high magazine capacity and rapid rate of fire. The P90 excels in close-quarters combat with its unique bullpup design and ergonomic handling. Designed for easy maneuverability and precision, it's a reliable choice for pawns requiring a powerful, versatile firearm in tight spaces.</description>
     <graphicData>
       <texPath>Things/modern/submachineguns/p90</texPath>
       <graphicClass>Graphic_Single</graphicClass>

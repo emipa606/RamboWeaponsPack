@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Beretta_92f_RWP</defName>
     <label>Beretta 92F</label>
-    <description>.</description>
+    <description>The Beretta 92F is a semi-automatic pistol known for its reliability and accuracy. It features a 15-round magazine and a moderate rate of fire, making it a dependable sidearm for both defense and tactical engagements.</description>
     <graphicData>
       <texPath>Things/modern/pistols/beretta_92f</texPath>
       <graphicClass>Graphic_Single</graphicClass>

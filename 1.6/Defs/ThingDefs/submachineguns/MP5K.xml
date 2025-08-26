@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_MP5K_RWP</defName>
     <label>MP5K</label>
-    <description>.</description>
+    <description>The MP5K is a compact submachine gun known for its rapid rate of fire and exceptional handling. Its lightweight design makes it ideal for quick, close-quarters engagements, but its effectiveness decreases at longer ranges. Reliable and efficient, the MP5K is favored by those needing a balance of maneuverability and firepower.</description>
     <graphicData>
       <texPath>Things/modern/submachineguns/mp5k</texPath>
       <graphicClass>Graphic_Single</graphicClass>

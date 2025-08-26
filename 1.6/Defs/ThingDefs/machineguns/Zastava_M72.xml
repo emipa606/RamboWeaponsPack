@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Zastava_M72_RWP</defName>
     <label>Zastava M72</label>
-    <description>.</description>
+    <description>The Zastava M72 is a robust and reliable light machine gun, modeled after the AK family but equipped with a heavier barrel for sustained automatic fire. It's ideal for suppressive roles, providing ample stopping power and accuracy with a high capacity magazine, making it a formidable choice for defense or assault operations.</description>
     <graphicData>
       <texPath>Things/modern/machineguns/zastava_m72</texPath>
       <graphicClass>Graphic_Single</graphicClass>

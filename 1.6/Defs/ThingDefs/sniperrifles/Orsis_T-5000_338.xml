@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Orsis_T-5000_338_RWP</defName>
     <label>Orsis T-5000 .338</label>
-    <description>.</description>
+    <description>The Orsis T-5000 .338 is a high-precision sniper rifle designed for long-range accuracy. Manufactured with advanced materials and an ergonomic design, it excels in penetrating armor and delivering lethal shots from extended distances. Ideal for sharpshooters, this weapon is a formidable choice for neutralizing threats before they get close.</description>
     <graphicData>
       <texPath>Things/modern/sniperrifles/orsis_t-5000_338</texPath>
       <graphicClass>Graphic_Single</graphicClass>

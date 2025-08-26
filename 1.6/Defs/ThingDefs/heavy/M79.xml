@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_M79_RWP</defName>
     <label>M79</label>
-    <description>.</description>
+    <description>The M79 is a single-shot grenade launcher capable of delivering explosive payloads with precision. Ideal for medium-range engagements, it launches 40mm grenades that detonate on impact, causing significant area damage. Handling requires careful aim due to its slow reload time and explosive nature. Suitable for tacticians who value power over speed.</description>
     <graphicData>
       <texPath>Things/modern/heavy/m79</texPath>
       <graphicClass>Graphic_Single</graphicClass>

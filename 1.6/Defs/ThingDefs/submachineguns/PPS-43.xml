@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_PPS-43_RWP</defName>
     <label>PPS-43</label>
-    <description>.</description>
+    <description>A compact submachine gun from the mid-20th century, the PPS-43 is known for its reliability and simplicity. Offering moderate accuracy and a high rate of fire, it's ideal for close-quarters combat against multiple targets. Low recoil makes it easy to handle, but its stopping power is limited compared to modern firearms.</description>
     <graphicData>
       <texPath>Things/modern/submachineguns/pps-43</texPath>
       <graphicClass>Graphic_Single</graphicClass>

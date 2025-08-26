@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Bren_Mk1_RWP</defName>
     <label>Bren Mk I</label>
-    <description>.</description>
+    <description>The Bren Mk I is a reliable light machine gun known for its magazine-fed automatic fire. Originally designed for military use, it boasts a high rate of fire and exceptional accuracy. Ideal for suppressing enemies at range, this weapon is a favorite among colonists seeking a robust addition to their arsenal.</description>
     <graphicData>
       <texPath>Things/modern/machineguns/bren_mk1</texPath>
       <graphicClass>Graphic_Single</graphicClass>

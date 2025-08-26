@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_G36C_RWP</defName>
     <label>G36C</label>
-    <description>.</description>
+    <description>The G36C is a compact, lightweight assault rifle known for its reliability and accuracy. Ideal for close to mid-range combat, it uses 5.56mm ammunition and features a high rate of fire, making it effective in various combat scenarios. Its modular design allows for the attachment of scopes and other tactical accessories.</description>
     <graphicData>
       <texPath>Things/modern/assaultrifles/g36c</texPath>
       <graphicClass>Graphic_Single</graphicClass>

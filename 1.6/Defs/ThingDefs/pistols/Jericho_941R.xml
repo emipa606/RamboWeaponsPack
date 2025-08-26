@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Jericho_941R_RWP</defName>
     <label>Jericho 941R</label>
-    <description>.</description>
+    <description>The Jericho 941R is a robust semi-automatic pistol known for its efficiency and reliability in combat scenarios. It combines solid stopping power with a sleek design, making it a favored sidearm for both law enforcement and survivalists. Its compact size and balanced weight provide ease of use, while its high-quality construction ensures durability on the battlefield. Perfect for short-range engagements requiring precision and quick draw capabilities.</description>
     <graphicData>
       <texPath>Things/modern/pistols/jericho_941r</texPath>
       <graphicClass>Graphic_Single</graphicClass>

@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_HK416_D10RS_RWP</defName>
     <label>HK416 D10RS</label>
-    <description>.</description>
+    <description>The HK416 D10RS is a versatile and reliable assault rifle, favored by elite forces for its durability and accuracy. Engineered for modern combat, it offers a consistent rate of fire and excellent handling, making it an ideal choice for those who demand precision in the field.</description>
     <graphicData>
       <texPath>Things/modern/assaultrifles/hk416_d10rs</texPath>
       <graphicClass>Graphic_Single</graphicClass>

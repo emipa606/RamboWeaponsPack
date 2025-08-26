@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_MP-443_Grach_RWP</defName>
     <label>MP-443 Grach</label>
-    <description>.</description>
+    <description>The MP-443 Grach is a reliable semi-automatic pistol used widely in military and law enforcement. Known for its robust construction, this sidearm combines decent stopping power with high accuracy at short to medium ranges. Ideal for colonists looking for a dependable handgun in combat situations.</description>
     <graphicData>
       <texPath>Things/modern/pistols/mp-443_grach</texPath>
       <graphicClass>Graphic_Single</graphicClass>

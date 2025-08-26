@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_AKS-74_RWP</defName>
     <label>AKS-74</label>
-    <description>.</description>
+    <description>The AKS-74 is a robust and reliable assault rifle of Soviet design. It delivers a high rate of fire and maintains accuracy over medium distances, with a folding stock for improved handling in close quarters. A versatile choice for defense or aggressive maneuvers on the battlefield.</description>
     <graphicData>
       <texPath>Things/modern/assaultrifles/aks-74</texPath>
       <graphicClass>Graphic_Single</graphicClass>

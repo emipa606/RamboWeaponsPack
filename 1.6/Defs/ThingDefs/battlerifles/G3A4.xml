@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_G3A4_RWP</defName>
     <label>G3A4</label>
-    <description>.</description>
+    <description>The G3A4 is a robust automatic rifle known for its reliability and versatility in combat. Featuring a solid rate of fire and impressive range, it is effective for engaging enemies at both medium and long distances. Its durable design makes it a trusted choice for any colony defensive strategy.</description>
     <graphicData>
       <texPath>Things/modern/battlerifles/g3a4</texPath>
       <graphicClass>Graphic_Single</graphicClass>

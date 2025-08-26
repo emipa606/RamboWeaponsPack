@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_TT-33_RWP</defName>
     <label>TT-33</label>
-    <description>.</description>
+    <description>The TT-33 is a semi-automatic pistol, known for its reliability and historical significance. Developed in the early 20th century, it offers moderate damage with a high fire rate, making it effective for defense in close-quarters combat. Though its accuracy falls off at longer ranges, its craftsmanship ensures durability in harsh conditions.</description>
     <graphicData>
       <texPath>Things/modern/pistols/tt-33</texPath>
       <graphicClass>Graphic_Single</graphicClass>

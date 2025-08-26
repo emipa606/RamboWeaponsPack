@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Winchester_M1897_Trench_RWP</defName>
     <label>Winchester M1897 Trench</label>
-    <description>.</description>
+    <description>The Winchester M1897 Trench is a pump-action shotgun known for its reliability in close-quarters combat. With a high rate of fire and formidable stopping power, it excels in short-range encounters. Originally designed for military use, its rugged construction and ability to mount a bayonet make it a versatile weapon for both offense and defense. Perfect for colonists facing frequent skirmishes or manning defensive chokepoints.</description>
     <graphicData>
       <texPath>Things/modern/shotguns/winchester_m1897_trench</texPath>
       <graphicClass>Graphic_Single</graphicClass>

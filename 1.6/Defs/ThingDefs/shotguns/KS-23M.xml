@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_KS-23M_RWP</defName>
     <label>KS-23M</label>
-    <description>.</description>
+    <description>The KS-23M is a powerful shotgun designed for security and riot control. With an oversized bore, it fires large shells capable of inflicting massive damage at close range. Its intimidating presence and destructive potential make it a formidable choice for personal defense and crowd management. However, its effectiveness diminishes at longer distances due to its wide pellet spread.</description>
     <graphicData>
       <texPath>Things/modern/shotguns/ks-23m</texPath>
       <graphicClass>Graphic_Single</graphicClass>

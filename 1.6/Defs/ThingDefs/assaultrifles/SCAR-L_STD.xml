@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_SCAR-L_STD_RWP</defName>
     <label>SCAR-L STD</label>
-    <description>.</description>
+    <description>The SCAR-L STD is a versatile assault rifle known for its reliability and accuracy. With a balanced rate of fire and effective range, it's well-suited for both mid- and long-range engagements. Ideal for colonists needing a dependable weapon in diverse combat scenarios.</description>
     <graphicData>
       <texPath>Things/modern/assaultrifles/scar-l_std</texPath>
       <graphicClass>Graphic_Single</graphicClass>

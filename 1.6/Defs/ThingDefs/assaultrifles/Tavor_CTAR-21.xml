@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Tavor_CTAR-21_RWP</defName>
     <label>Tavor CTAR-21</label>
-    <description>.</description>
+    <description>The Tavor CTAR-21 is a compact and modern bullpup assault rifle, designed for close-quarters engagements. With a high fire rate and excellent handling, it's perfect for navigating tight spaces while delivering rapid firepower. Reliable and effective, this weapon is favored by those who need agility without sacrificing lethality.</description>
     <graphicData>
       <texPath>Things/modern/assaultrifles/tavor_ctar-21</texPath>
       <graphicClass>Graphic_Single</graphicClass>

@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Ithaca_37_Stakeout_RWP</defName>
     <label>Ithaca 37 Stakeout</label>
-    <description>.</description>
+    <description>The Ithaca 37 Stakeout is a compact pump-action shotgun designed for close-quarters combat. With its rapid rate of fire and maneuverability, it's well-suited for tight spaces and quick reactions. Reliable and lethal, it excels in dispatching threats at short range.</description>
     <graphicData>
       <texPath>Things/modern/shotguns/ithaca_37_stakeout</texPath>
       <graphicClass>Graphic_Single</graphicClass>

@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_AK-105_RWP</defName>
     <label>AK-105</label>
-    <description>.</description>
+    <description>The AK-105 is a reliable assault rifle offering balanced performance. With its compact design, it provides excellent accuracy and handling in close to medium-range combat. Durable and easy to maintain, this weapon is ideal for various tactical scenarios, making it a versatile choice for any survivor equipped for a fight.</description>
     <graphicData>
       <texPath>Things/modern/assaultrifles/ak-105</texPath>
       <graphicClass>Graphic_Single</graphicClass>

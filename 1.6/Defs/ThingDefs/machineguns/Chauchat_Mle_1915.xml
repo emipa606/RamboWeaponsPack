@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Chauchat_Mle_1915_RWP</defName>
     <label>Chauchat Mle 1915</label>
-    <description>.</description>
+    <description>The Chauchat Mle 1915 is a light machine gun of early 20th-century design, known for being one of the first automatic rifles used in combat. It features a distinctive crescent-shaped magazine and is capable of providing suppressive fire, albeit with a reputation for reliability issues under adverse conditions. Ideal for colonial squads needing historical weaponry with automatic capabilities.</description>
     <graphicData>
       <texPath>Things/modern/machineguns/chauchat_mle_1915</texPath>
       <graphicClass>Graphic_Single</graphicClass>

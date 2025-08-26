@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_MCM_RWP</defName>
     <label>Margolin MCM</label>
-    <description>.</description>
+    <description>The Margolin MCM is a semi-automatic pistol designed for precision shooting. Known for its excellent accuracy and ease of handling, this weapon is favored by skilled marksmen. While it lacks the stopping power of larger firearms, its reliability and precision make it a valuable asset in tactical situations.</description>
     <graphicData>
       <texPath>Things/modern/pistols/mcm_pistol</texPath>
       <graphicClass>Graphic_Single</graphicClass>

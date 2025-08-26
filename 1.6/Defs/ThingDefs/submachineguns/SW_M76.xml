@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_SW_M76_RWP</defName>
     <label>S&amp;W M76</label>
-    <description>.</description>
+    <description>The S&amp;W M76 is a 9x19mm submachine gun, known for its reliability and simplicity. Designed for close-quarters combat, it offers moderate accuracy and a high rate of fire, making it effective in intense skirmishes. Its robustness and ease of use make it a favorite among various security forces. Ideal for any colonist looking to lay down suppressive fire in tight spaces.</description>
     <graphicData>
       <texPath>Things/modern/submachineguns/sw_m76</texPath>
       <graphicClass>Graphic_Single</graphicClass>

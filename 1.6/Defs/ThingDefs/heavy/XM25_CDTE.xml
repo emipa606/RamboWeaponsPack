@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_XM25_CDTE_RWP</defName>
     <label>XM25 CDTE</label>
-    <description>.</description>
+    <description>The XM25 CDTE is a semi-automatic airburst grenade launcher designed for pinpoint accuracy at range. It fires 25mm smart grenades that detonate midair above targets, making it effective against entrenched enemies and groups. Requires careful handling and skill to operate, but its destructive potential is unmatched in versatile battlefield scenarios.</description>
     <graphicData>
       <texPath>Things/modern/heavy/xm25_cdte</texPath>
       <graphicClass>Graphic_Single</graphicClass>

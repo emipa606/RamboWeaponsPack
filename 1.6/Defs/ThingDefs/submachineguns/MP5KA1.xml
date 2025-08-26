@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_MP5KA1_RWP</defName>
     <label>MP5KA1</label>
-    <description>.</description>
+    <description>The MP5KA1 is a compact, fast-firing submachine gun. It excels in close-quarter combat with a high rate of fire and decent accuracy. However, its shorter barrel limits range and stopping power. Ideal for quickly subduing enemies at close range.</description>
     <graphicData>
       <texPath>Things/modern/submachineguns/mp5ka1</texPath>
       <graphicClass>Graphic_Single</graphicClass>

@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Nagant_M1895_RWP</defName>
     <label>Nagant M1895</label>
-    <description>.</description>
+    <description>"The Nagant M1895 is a vintage revolver known for its distinctive gas-seal system, which provides a modest boost to projectile velocity. Designed in the late 19th century, this sturdy firearm offers a balance of fair accuracy and moderate stopping power, making it a reliable sidearm in various combat situations."</description>
     <graphicData>
       <texPath>Things/modern/pistols/nagant_m1895</texPath>
       <graphicClass>Graphic_Single</graphicClass>

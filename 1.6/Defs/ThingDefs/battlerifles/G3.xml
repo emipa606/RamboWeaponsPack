@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_G3_RWP</defName>
     <label>G3</label>
-    <description>.</description>
+    <description>A robust and versatile battle rifle, the G3 fires 7.62x51mm NATO rounds. Known for its reliability and accuracy, it excels at medium to long-range combat, making it a favored choice among military forces worldwide. Its high stopping power is balanced by moderate recoil and a slower firing rate compared to other firearms.</description>
     <graphicData>
       <texPath>Things/modern/battlerifles/g3</texPath>
       <graphicClass>Graphic_Single</graphicClass>

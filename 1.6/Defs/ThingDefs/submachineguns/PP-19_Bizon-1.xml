@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_PP-19_Bizon-1_RWP</defName>
     <label>PP-19 Bizon-1</label>
-    <description>.</description>
+    <description>The PP-19 Bizon-1 is a compact submachine gun, known for its unique helical magazine that offers high ammunition capacity. Ideal for close-quarters combat, it provides excellent rate of fire and maneuverability, making it a reliable choice for quickly engaging multiple targets. Its lightweight design ensures that it can be easily carried by any colonist needing a rapid-response firearm solution.</description>
     <graphicData>
       <texPath>Things/modern/submachineguns/pp-19_bizon-1</texPath>
       <graphicClass>Graphic_Single</graphicClass>

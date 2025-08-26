@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_M1_Carbine_RWP</defName>
     <label>M1 Carbine</label>
-    <description>.</description>
+    <description>The M1 Carbine is a lightweight, semi-automatic rifle known for its ease of use and high rate of fire. Originally designed for paratroopers and support troops, it offers moderate stopping power and excellent accuracy, making it a versatile choice for mid-range engagements.</description>
     <graphicData>
       <texPath>Things/modern/rifles/m1_carbine</texPath>
       <graphicClass>Graphic_Single</graphicClass>

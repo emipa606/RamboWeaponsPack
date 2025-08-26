@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Tec-9_RWP</defName>
     <label>Tec-9</label>
-    <description>.</description>
+    <description>The Tec-9 is a compact submachine gun notable for its high rate of fire, making it effective in close-quarters combat. Though less accurate than its larger counterparts, it compensates with rapid bursts of bullets, overwhelming targets with sheer volume. Easy to manufacture and maintain, it's a popular choice among improvised militias and raider gangs.</description>
     <graphicData>
       <texPath>Things/modern/pistols/tec-9</texPath>
       <graphicClass>Graphic_Single</graphicClass>

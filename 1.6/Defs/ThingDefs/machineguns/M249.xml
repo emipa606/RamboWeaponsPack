@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_M249_RWP</defName>
     <label>M249</label>
-    <description>.</description>
+    <description>The M249 is a light machine gun designed to provide sustained automatic fire with a high rate of fire and large magazine capacity. Ideal for suppressing enemies or engaging multiple targets, the M249 delivers a balance of firepower and mobility. While it excels in fire rate, its accuracy is moderate, making it most effective at shorter ranges.</description>
     <graphicData>
       <texPath>Things/modern/machineguns/m249</texPath>
       <graphicClass>Graphic_Single</graphicClass>

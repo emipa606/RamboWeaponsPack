@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_MP7_RWP</defName>
     <label>MP7</label>
-    <description>.</description>
+    <description>The MP7 is a compact, lightweight submachine gun designed for close-quarters combat. It offers a high rate of fire with low recoil, making it ideal for short-distance engagements. This weapon's rapid rate of discharge can overwhelm unarmored targets quickly, but its short range limits its effectiveness against distant foes.</description>
     <graphicData>
       <texPath>Things/modern/submachineguns/mp7</texPath>
       <graphicClass>Graphic_Single</graphicClass>

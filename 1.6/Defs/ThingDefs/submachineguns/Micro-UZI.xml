@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Micro-UZI_RWP</defName>
     <label>Micro-UZI</label>
-    <description>.</description>
+    <description>The Micro-UZI is a compact and lightweight submachine gun known for its high rate of fire and ease of handling. Ideal for close combat scenarios, it sacrifices accuracy for speed, making it effective in short-range engagements. Perfect for colonists who need quick defensive measures in tight spaces.</description>
     <graphicData>
       <texPath>Things/modern/submachineguns/micro-uzi</texPath>
       <graphicClass>Graphic_Single</graphicClass>

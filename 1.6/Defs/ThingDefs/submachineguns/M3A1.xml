@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_M3A1_RWP</defName>
     <label>M3A1</label>
-    <description>.</description>
+    <description>The M3A1, also known as the "Grease Gun," is a compact submachine gun known for its simplicity and reliability. It offers moderate stopping power with a high rate of fire, making it effective in close-quarters combat. Though its accuracy decreases over longer distances, its lightweight design allows for increased mobility. Ideal for raids and defensive situations where quick reaction times are crucial.</description>
     <graphicData>
       <texPath>Things/modern/submachineguns/m3</texPath>
       <graphicClass>Graphic_Single</graphicClass>

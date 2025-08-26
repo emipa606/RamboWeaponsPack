@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_PB_RWP</defName>
     <label>PB</label>
-    <description>.</description>
+    <description>PB is a compact, reliable sidearm known for its quiet operation and ease of use. Ideal for close-quarters combat, it features a built-in suppressor that significantly reduces noise, making it perfect for stealth operations. Its low stopping power is countered by its rapid rate of fire, allowing it to quickly subdue targets before they can react.</description>
     <graphicData>
       <texPath>Things/modern/pistols/pb</texPath>
       <graphicClass>Graphic_Single</graphicClass>

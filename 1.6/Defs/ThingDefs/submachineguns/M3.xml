@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_M3_RWP</defName>
     <label>M3</label>
-    <description>.</description>
+    <description>The M3 is a compact, reliable submachine gun. Designed for close-quarters combat, it offers a high rate of fire with decent accuracy at short ranges. Its lightweight construction makes it ideal for quick maneuvers and sustained firefights.</description>
     <graphicData>
       <texPath>Things/modern/submachineguns/m3</texPath>
       <graphicClass>Graphic_Single</graphicClass>

@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_MAS-36_RWP</defName>
     <label>MAS-36</label>
-    <description>.</description>
+    <description>The MAS-36 is a bolt-action rifle known for its durability and simplicity, emanating from a pre-industrial era. Though it lacks the rate of fire typical of modern weaponry, its accuracy and reliability make it a dependable choice for mid-range engagements, ideal for colonists who can take their time to aim carefully.</description>
     <graphicData>
       <texPath>Things/modern/rifles/mas-36</texPath>
       <graphicClass>Graphic_Single</graphicClass>

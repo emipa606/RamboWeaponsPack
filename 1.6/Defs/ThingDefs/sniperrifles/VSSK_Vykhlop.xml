@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_VSSK_Vykhlop_RWP</defName>
     <label>VSSK Vykhlop</label>
-    <description>.</description>
+    <description>The VSSK Vykhlop is a high-caliber, bolt-action sniper rifle designed for stealthy, long-range engagements. Capable of firing powerful, subsonic rounds, it excels in penetrating armor with minimal noise. Ideal for eliminating targets without alerting nearby threats.</description>
     <graphicData>
       <texPath>Things/modern/sniperrifles/vssk_vykhlop</texPath>
       <graphicClass>Graphic_Single</graphicClass>

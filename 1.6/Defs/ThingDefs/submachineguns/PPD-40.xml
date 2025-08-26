@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_PPD-40_RWP</defName>
     <label>PPD-40</label>
-    <description>.</description>
+    <description>The PPD-40 is a rapid-fire submachine gun known for its high rate of fire and drum magazine capacity. Originating from early 20th century Eastern regions, it’s perfect for close-quarters combat. However, its accuracy diminishes at longer ranges, making it ideal for short-range skirmishes and suppression tactics on the battlefield.</description>
     <graphicData>
       <texPath>Things/modern/submachineguns/ppd-40</texPath>
       <graphicClass>Graphic_Single</graphicClass>

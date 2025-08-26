@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_SV-98_RWP</defName>
     <label>SV-98</label>
-    <description>.</description>
+    <description>The SV-98 is a bolt-action sniper rifle renowned for its accuracy and long range. It is ideal for picking off distant targets with precision but has a slow rate of fire, requiring careful aim and timing. Suitable for colonists with high shooting skills, it packs a powerful punch but demands patience and skill to use effectively.</description>
     <graphicData>
       <texPath>Things/modern/sniperrifles/sv-98</texPath>
       <graphicClass>Graphic_Single</graphicClass>

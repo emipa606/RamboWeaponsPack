@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_FAMAS_G1_RWP</defName>
     <label>FAMAS G1</label>
-    <description>.</description>
+    <description>The FAMAS G1 is a compact, French 5.56mm bullpup assault rifle known for its high rate of fire and reliable performance. It excels in close to mid-range combat situations, providing superior burst damage with its three-round burst feature. Lightweight and easy to maneuver, it's ideal for rapid engagements, though its accuracy may drop at long distances.</description>
     <graphicData>
       <texPath>Things/modern/assaultrifles/famas_g1</texPath>
       <graphicClass>Graphic_Single</graphicClass>

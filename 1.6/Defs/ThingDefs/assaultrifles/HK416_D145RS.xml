@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_HK416_D145RS_RWP</defName>
     <label>HK416 D145RS</label>
-    <description>.</description>
+    <description>The HK416 D145RS is an advanced, cutting-edge assault rifle known for its precision and adaptability. Ideal for tactical combat, it offers a high rate of fire and exceptional reliability in various environments. This versatile weapon is favored by elite units, providing superior range, accuracy, and stopping power.</description>
     <graphicData>
       <texPath>Things/modern/assaultrifles/hk416_d145rs</texPath>
       <graphicClass>Graphic_Single</graphicClass>

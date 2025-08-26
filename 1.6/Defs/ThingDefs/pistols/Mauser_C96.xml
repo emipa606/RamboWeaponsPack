@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Mauser_C96_RWP</defName>
     <label>Mauser C96</label>
-    <description>.</description>
+    <description>The Mauser C96 is a semi-automatic pistol with a distinctive boxy design and a wooden stock option, doubling as a holster. Known for its high fire rate and respectable range, this weapon is effective in mid-range combat, providing a balance between power and speed. Originally developed in the late 19th century, it remains a reliable sidearm for skilled shooters.</description>
     <graphicData>
       <texPath>Things/modern/pistols/mauser_c96</texPath>
       <graphicClass>Graphic_Single</graphicClass>

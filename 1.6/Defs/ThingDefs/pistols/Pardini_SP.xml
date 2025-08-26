@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Pardini_SP_RWP</defName>
     <label>Pardini SP</label>
-    <description>.</description>
+    <description>The Pardini SP is a precision-pistol designed for competitive shooting, known for its exceptional accuracy and reliability. Favored by sharpshooters, it offers unparalleled precision at mid-range, making it the ideal choice for colonists who prioritize marksmanship. This sleek firearm combines advanced engineering with a comfortable grip, ensuring a steady hand in even the most intense firefights.</description>
     <graphicData>
       <texPath>Things/modern/pistols/pardini_sp</texPath>
       <graphicClass>Graphic_Single</graphicClass>

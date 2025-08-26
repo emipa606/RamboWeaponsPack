@@ -3,10 +3,17 @@
   "CanAdd": "0",
   "CanRemove": "2",
   "PreviewVersion": "1.6",
-  "LastXmlCleaning": "2025-06-15T21:54:41.0800177+02:00",
+  "LastXmlCleaning": "2025-08-26T20:59:02.5626592+02:00",
   "SocialImageSet": true,
   "SearchTags": [
     " realistic",
     " guns"
-  ]
+  ],
+  "Patches": true,
+  "Defs": true,
+  "SkipDefInjectTranslations": true,
+  "Assemblies": false,
+  "LinesOfCode": 0,
+  "LinesOfXML": 700136,
+  "CodeBaseSize": 91
 }

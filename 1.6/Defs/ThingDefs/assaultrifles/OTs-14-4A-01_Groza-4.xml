@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_OTs-14-4A-01_Groza-4_RWP</defName>
     <label>OTs-14-4A-01 Groza-4</label>
-    <description>.</description>
+    <description>The OTs-14-4A-01 Groza-4 is a versatile bullpup assault rifle with an integrated suppressor, designed for high accuracy and controlled recoil. Its compact structure makes it ideal for close-quarters combat, while the powerful 9x39mm rounds ensure significant damage output against armored targets.</description>
     <graphicData>
       <texPath>Things/modern/assaultrifles/ots-14-4a-01_groza-4</texPath>
       <graphicClass>Graphic_Single</graphicClass>

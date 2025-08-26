@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_M14_RWP</defName>
     <label>M14</label>
-    <description>.</description>
+    <description>The M14 is a robust battle rifle, known for its high durability and powerful 7.62mm rounds. With a long range and moderate firing rate, it excels at mid to long-range engagements, offering precise shots with significant stopping power. Its design makes it slightly heavier but compensates with accuracy and lethal force.</description>
     <graphicData>
       <texPath>Things/modern/battlerifles/m14</texPath>
       <graphicClass>Graphic_Single</graphicClass>

@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Winchester_M1873_RWP</defName>
     <label>Winchester M1873</label>
-    <description>.</description>
+    <description>The Winchester M1873 is a lever-action rifle known for its reliability and ease of use. A legendary firearm of the Old West, it offers a respectable range and accuracy, making it a solid choice for mid-range engagements. Its sturdy design holds up well in combat, proving effective even by modern standards.</description>
     <graphicData>
       <texPath>Things/modern/rifles/winchester_m1873</texPath>
       <graphicClass>Graphic_Single</graphicClass>

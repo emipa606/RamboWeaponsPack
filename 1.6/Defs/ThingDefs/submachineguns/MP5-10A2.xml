@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_MP5-10A2_RWP</defName>
     <label>MP5/10A2</label>
-    <description>.</description>
+    <description>A rapid-fire submachine gun chambered in 10mm Auto. Known for its compact design and high rate of fire, the MP5/10A2 is ideal for close-quarters combat, offering a balance between stopping power and controllability. Perfect for those who need a reliable weapon in cramped conditions.</description>
     <graphicData>
       <texPath>Things/modern/submachineguns/mp5-40a2</texPath>
       <graphicClass>Graphic_Single</graphicClass>

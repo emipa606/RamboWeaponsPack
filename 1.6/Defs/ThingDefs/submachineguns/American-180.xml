@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_American-180_RWP</defName>
     <label>American-180</label>
-    <description>.</description>
+    <description>The American-180 is a remarkable submachine gun renowned for its high-capacity magazine and astonishing rate of fire. Designed for continuous, suppressive action, it features .22 Long Rifle rounds, allowing it to unleash a relentless barrage with minimal recoil. Ideal for keeping enemies under pressure, its compact design and rapid firing make it a unique choice for crowd control and defensive strategies.</description>
     <graphicData>
       <texPath>Things/modern/submachineguns/american-180</texPath>
       <graphicClass>Graphic_Single</graphicClass>

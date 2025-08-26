@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_TRG-21_RWP</defName>
     <label>TRG-21</label>
-    <description>.</description>
+    <description>The TRG-21 is a robust and accurate assault rifle, known for its reliability and medium-range effectiveness. It offers a balanced rate of fire with moderate stopping power, making it a versatile choice for various combat situations. Its precision engineering is ideal for those who value both power and precision in battle.</description>
     <graphicData>
       <texPath>Things/modern/sniperrifles/trg_22</texPath>
       <graphicClass>Graphic_Single</graphicClass>

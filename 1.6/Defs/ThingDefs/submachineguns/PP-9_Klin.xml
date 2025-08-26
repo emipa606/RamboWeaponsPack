@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_PP-9_Klin_RWP</defName>
     <label>PP-9 Klin</label>
-    <description>.</description>
+    <description>The PP-9 Klin is a compact, modern submachine gun known for its excellent balance between firepower, accuracy, and handling. Its lightweight build ensures ease of use, allowing for efficient close-quarter combat. Ideal for rapid engagements, the PP-9 Klin delivers a swift stream of 9mm rounds, packing enough punch to disrupt enemy formations. With its reliable performance and simple design, this weapon is a favorite among those who value maneuverability and speed.</description>
     <graphicData>
       <texPath>Things/modern/submachineguns/pp-91_kedr</texPath>
       <graphicClass>Graphic_Single</graphicClass>

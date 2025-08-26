@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_PSG1_RWP</defName>
     <label>PSG1</label>
-    <description>.</description>
+    <description>The PSG1 is a semi-automatic sniper rifle renowned for its precision and reliability. Originally designed for law enforcement, it features a high-power scope and an ergonomic design, making it highly effective for long-range engagements. Perfect for skilled marksmen looking to take down targets from a distance with superior accuracy.</description>
     <graphicData>
       <texPath>Things/modern/sniperrifles/psg1</texPath>
       <graphicClass>Graphic_Single</graphicClass>

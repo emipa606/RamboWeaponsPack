@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Remington_Model_95_RWP</defName>
     <label>Remington Model 95</label>
-    <description>.</description>
+    <description>The Remington Model 95 is a compact, break-action derringer favored for its simplicity and concealability. While it lacks the stopping power and range of larger firearms, its lightweight and easy handling make it ideal for quick, close-quarters encounters. Highly reliable and easy to maintain, this gun is a common choice for those who prioritize stealth and agility over brute force.</description>
     <graphicData>
       <texPath>Things/modern/pistols/remington_model_95</texPath>
       <graphicClass>Graphic_Single</graphicClass>

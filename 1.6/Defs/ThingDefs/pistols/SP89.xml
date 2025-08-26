@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_SP89_RWP</defName>
     <label>SP89</label>
-    <description>.</description>
+    <description>The SP89 is a compact, easy-to-handle submachine gun, optimized for close-quarters combat. It features a high rate of fire and moderate damage output, making it ideal for skirmishes and room-clearing operations. Its lightweight design allows for excellent maneuverability, but it sacrifices range and accuracy for rapid, close-range engagement. Ideal for those who need to strike fast and retreat quickly.</description>
     <graphicData>
       <texPath>Things/modern/pistols/sp89</texPath>
       <graphicClass>Graphic_Single</graphicClass>

@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_PP-2000_RWP</defName>
     <label>PP-2000</label>
-    <description>.</description>
+    <description>The PP-2000 is a compact submachine gun designed for close quarters and urban combat. It boasts a high rate of fire, making it effective at delivering rapid bursts of ammunition to neutralize threats quickly. Lightweight and easy to handle, it is ideal for quick, agile movements in tight spaces, though its range and armor penetration may be less than larger firearms. Suitable for both defensive and offensive operations where mobility is crucial.</description>
     <graphicData>
       <texPath>Things/modern/submachineguns/pp-2000</texPath>
       <graphicClass>Graphic_Single</graphicClass>

@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_MG34_RWP</defName>
     <label>MG34</label>
-    <description>.</description>
+    <description>The MG34 is a rapid-firing, early 20th-century machine gun known for its versatility and reliability. Originally used by military forces, it is capable of delivering sustained fire support with high precision at medium ranges. Though heavy, it remains a formidable weapon in combat scenarios.</description>
     <graphicData>
       <texPath>Things/modern/machineguns/mg34</texPath>
       <graphicClass>Graphic_Single</graphicClass>

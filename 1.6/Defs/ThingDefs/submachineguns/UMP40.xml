@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Thompson_UMP40_RWP</defName>
     <label>UMP40</label>
-    <description>.</description>
+    <description>The UMP40 is a lightweight submachine gun known for its high fire rate and reliable performance. Chambered for .40 caliber rounds, it delivers significant stopping power in a compact form. Ideal for close-quarters combat, the UMP40 balances firepower and maneuverability, making it a favored choice among colony defenders.</description>
     <graphicData>
       <texPath>Things/modern/submachineguns/ump45</texPath>
       <graphicClass>Graphic_Single</graphicClass>

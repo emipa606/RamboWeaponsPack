@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Zastava_M70_RWP</defName>
     <label>Zastava M70</label>
-    <description>.</description>
+    <description>A reliable assault rifle with a wooden frame, the Zastava M70 offers dependable mid-range firepower. Known for its durability and accuracy, it is well-suited for both offensive engagements and defensive positions. Medium rate of fire with solid stopping power; a versatile choice for skilled marksmen.</description>
     <graphicData>
       <texPath>Things/modern/assaultrifles/zastava_m70</texPath>
       <graphicClass>Graphic_Single</graphicClass>

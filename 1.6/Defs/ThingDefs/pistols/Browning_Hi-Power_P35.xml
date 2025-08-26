@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Browning_Hi-Power_P35_RWP</defName>
     <label>Browning Hi-Power P35</label>
-    <description>.</description>
+    <description>A classic semi-automatic pistol known for its reliability and accuracy. The Browning Hi-Power P35 delivers a balanced rate of fire with moderate stopping power and a high-capacity magazine, making it a versatile sidearm for various combat scenarios.</description>
     <graphicData>
       <texPath>Things/modern/pistols/browning_hi-power_p35</texPath>
       <graphicClass>Graphic_Single</graphicClass>

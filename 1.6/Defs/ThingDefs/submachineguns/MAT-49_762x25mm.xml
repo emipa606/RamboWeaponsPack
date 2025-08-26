@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_MAT-49_762x25mm_RWP</defName>
     <label>MAT-49 7.62x25mm</label>
-    <description>.</description>
+    <description>The MAT-49 7.62x25mm is a compact submachine gun known for its robust design and reliability. Originally designed for close-quarters combat, it features a folding stock and a high rate of fire, making it effective in tight spaces. While its stopping power is moderate, its lightweight build allows for mobility and rapid response, making it a favored choice among colony defenders needing a balance of speed and efficiency in firefights.</description>
     <graphicData>
       <texPath>Things/modern/submachineguns/mat-49_762x25mm</texPath>
       <graphicClass>Graphic_Single</graphicClass>

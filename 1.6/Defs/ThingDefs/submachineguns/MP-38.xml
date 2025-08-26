@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_MP-38_RWP</defName>
     <label>MP-38</label>
-    <description>.</description>
+    <description>The MP-38 is a classic submachine gun known for its reliable performance and ease of use. Featuring a moderate rate of fire, it excels in close to mid-range combat situations. Its sturdy design ensures longevity in harsh conditions, making it a favored choice among soldiers despite its age.</description>
     <graphicData>
       <texPath>Things/modern/submachineguns/mp40</texPath>
       <graphicClass>Graphic_Single</graphicClass>

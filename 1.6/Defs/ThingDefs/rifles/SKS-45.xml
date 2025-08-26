@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_SKS-45_RWP</defName>
     <label>SKS-45</label>
-    <description>.</description>
+    <description>The SKS-45 is a reliable semi-automatic rifle known for its durability and simplicity. Originally designed for military use, it offers moderate stopping power and accuracy, making it a versatile choice for mid-range combat. The integrated bayonet adds a secondary melee option, enhancing its utility in close-quarters skirmishes.</description>
     <graphicData>
       <texPath>Things/modern/rifles/sks-45</texPath>
       <graphicClass>Graphic_Single</graphicClass>

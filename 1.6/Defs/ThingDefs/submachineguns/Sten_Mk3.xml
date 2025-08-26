@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Sten_Mk_III_RWP</defName>
     <label>Sten Mk III</label>
-    <description>.</description>
+    <description>The Sten Mk III is a compact submachine gun known for its simplicity and ease of manufacture. It fires 9mm rounds at a rapid pace, making it effective in close quarters combat. While its accuracy diminishes over longer ranges, it offers a lightweight and reliable option for those needing quick, suppressive firepower.</description>
     <graphicData>
       <texPath>Things/modern/submachineguns/sten_mk3</texPath>
       <graphicClass>Graphic_Single</graphicClass>

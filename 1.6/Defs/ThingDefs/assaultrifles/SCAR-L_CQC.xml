@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_SCAR-L_CQC_RWP</defName>
     <label>SCAR-L CQC</label>
-    <description>.</description>
+    <description>The SCAR-L CQC is a compact and versatile assault rifle designed for short to medium-range combat. Known for its accuracy and reliability, it features a shorter barrel for improved maneuverability in close-quarters combat, while maintaining a high rate of fire. Ideal for tactical engagements, it provides colonists with the firepower needed to control the battlefield in tight spaces.</description>
     <graphicData>
       <texPath>Things/modern/assaultrifles/scar-l_cqc</texPath>
       <graphicClass>Graphic_Single</graphicClass>

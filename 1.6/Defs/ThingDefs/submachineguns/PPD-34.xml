@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_PPD-34_RWP</defName>
     <label>PPD-34</label>
-    <description>.</description>
+    <description>The PPD-34 is a Soviet submachine gun designed in the early 1930s. Featuring a high rate of fire and chambered for 7.62×25mm rounds, it functions as a mid-range weapon suitable for suppressing enemy targets. Its drum magazine allows for sustained fire, though its design may affect handling and accuracy. Ideal for close combat or as a support weapon in raids.</description>
     <graphicData>
       <texPath>Things/modern/submachineguns/ppd-34</texPath>
       <graphicClass>Graphic_Single</graphicClass>

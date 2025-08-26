@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_L1A1_SLR_RWP</defName>
     <label>L1A1 SLR</label>
-    <description>.</description>
+    <description>A battle-tested semi-automatic rifle, the L1A1 SLR boasts reliability and accuracy at long distances. Featuring a 7.62x51mm cartridge, it delivers significant stopping power, making it a favored choice for those who require precision and durability in combat.</description>
     <graphicData>
       <texPath>Things/modern/battlerifles/l1a1_slr</texPath>
       <graphicClass>Graphic_Single</graphicClass>

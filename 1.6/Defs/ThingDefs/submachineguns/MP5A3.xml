@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_MP5A3_RWP</defName>
     <label>MP5A3</label>
-    <description>.</description>
+    <description>The MP5A3 is a compact, automatic submachine gun favored for its reliability and ease of use. With a high rate of fire and manageable recoil, it excels in close-quarters combat, providing consistent performance in raids and skirmishes.</description>
     <graphicData>
       <texPath>Things/modern/submachineguns/mp5a3</texPath>
       <graphicClass>Graphic_Single</graphicClass>

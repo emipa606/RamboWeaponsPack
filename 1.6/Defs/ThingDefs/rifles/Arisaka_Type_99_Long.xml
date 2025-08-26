@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Arisaka_Type_99_Long_RWP</defName>
     <label>Arisaka Type 99 Long</label>
-    <description>.</description>
+    <description>The Arisaka Type 99 Long is a bolt-action rifle known for its durability and high accuracy over long distances. Developed during World War II, it features a powerful cartridge that can deliver significant damage to targets. While it has a slower firing rate compared to semi-automatic rifles, its precision and stopping power make it a reliable choice for marksmen who engage from a distance.</description>
     <graphicData>
       <texPath>Things/modern/rifles/arisaka_type_99_long</texPath>
       <graphicClass>Graphic_Single</graphicClass>

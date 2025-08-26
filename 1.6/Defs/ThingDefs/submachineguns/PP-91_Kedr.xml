@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_PP-91_Kedr_RWP</defName>
     <label>PP-91 Kedr</label>
-    <description>.</description>
+    <description>PP-91 Kedr is a compact, lightweight submachine gun designed for close-quarters combat. Its rapid rate of fire and manageable recoil make it ideal for quick engagements in tight spaces. Though it may lack stopping power at longer ranges, it excels in urban environments where its agility shines. Suitable for colonists who need a reliable firearm for defense within installations or dense terrains.</description>
     <graphicData>
       <texPath>Things/modern/submachineguns/pp-91_kedr</texPath>
       <graphicClass>Graphic_Single</graphicClass>

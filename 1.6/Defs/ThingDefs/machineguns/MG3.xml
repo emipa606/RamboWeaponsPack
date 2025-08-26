@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_MG3_RWP</defName>
     <label>MG3</label>
-    <description>.</description>
+    <description>The MG3 is a powerful, fully automatic machine gun known for its high rate of fire and effective suppressive capabilities. It delivers devastating firepower ideal for overwhelming enemy forces in short bursts. Its design is rugged and reliable, making it a staple in many defense arsenals. While the recoil can be substantial, its ability to lay down continuous fire makes it invaluable in intense combat scenarios.</description>
     <graphicData>
       <texPath>Things/modern/machineguns/mg3</texPath>
       <graphicClass>Graphic_Single</graphicClass>

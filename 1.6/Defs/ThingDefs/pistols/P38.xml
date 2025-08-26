@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_P38_RWP</defName>
     <label>P38</label>
-    <description>.</description>
+    <description>A semi-automatic pistol with a 9mm caliber. Known for its reliability and accuracy, the P38 is an effective sidearm that balances firepower with handling, suitable for mid-range combat situations.</description>
     <graphicData>
       <texPath>Things/modern/pistols/p38</texPath>
       <graphicClass>Graphic_Single</graphicClass>

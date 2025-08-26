@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_FP-45_Liberator_RWP</defName>
     <label>FP-45 Liberator</label>
-    <description>.</description>
+    <description>The FP-45 Liberator is a single-shot pistol designed for simplicity and ease of mass production. While it lacks range and accuracy, its lightweight construction makes it easy to carry. Intended as a last-resort weapon, it delivers low firepower but can be a surprise in the right hands.</description>
     <graphicData>
       <texPath>Things/modern/pistols/fp-45_liberator</texPath>
       <graphicClass>Graphic_Single</graphicClass>

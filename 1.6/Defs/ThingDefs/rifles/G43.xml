@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_G43_RWP</defName>
     <label>G43</label>
-    <description>.</description>
+    <description>The G43 is a mid-range semi-automatic rifle known for its reliability and versatility. It offers decent stopping power with a moderate rate of fire, suitable for both defensive positions and field operations. While not the most advanced rifle in terms of technology, its robust design ensures it remains effective in various combat scenarios.</description>
     <graphicData>
       <texPath>Things/modern/rifles/g43</texPath>
       <graphicClass>Graphic_Single</graphicClass>

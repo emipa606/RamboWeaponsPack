@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Tavor_TAR-21_RWP</defName>
     <label>Tavor TAR-21</label>
-    <description>.</description>
+    <description>The Tavor TAR-21 is a reliable bullpup assault rifle known for its compact design and high rate of fire. Favored in close quarters, its advanced ergonomics offer excellent handling and accuracy, making it a formidable choice for combat engagements.</description>
     <graphicData>
       <texPath>Things/modern/assaultrifles/tavor_tar-21</texPath>
       <graphicClass>Graphic_Single</graphicClass>

@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_PP_RWP</defName>
     <label>Walther PP</label>
-    <description>.</description>
+    <description>The Walther PP is a compact semi-automatic pistol known for its reliability and classic design. It offers moderate stopping power and is favored for its balance between size and performance, making it ideal for personal defense scenarios. Suitable for colonists who prioritize portability without sacrificing firepower.</description>
     <graphicData>
       <texPath>Things/modern/pistols/pp</texPath>
       <graphicClass>Graphic_Single</graphicClass>

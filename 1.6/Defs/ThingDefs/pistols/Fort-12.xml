@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Fort-12_RWP</defName>
     <label>Fort-12</label>
-    <description>.</description>
+    <description>The Fort-12 is a compact semi-automatic pistol, favored for its reliability and ease of use. It fires standard rimfire rounds, making it an accessible sidearm for both novice and experienced shooters. With decent accuracy and a modest damage output, it's well-suited for self-defense in close quarters. Ideal for colonists who need a straightforward and effective firearm in potentially hostile environments.</description>
     <graphicData>
       <texPath>Things/modern/pistols/fort-12</texPath>
       <graphicClass>Graphic_Single</graphicClass>

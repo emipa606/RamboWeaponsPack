@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Fort-500FS_RWP</defName>
     <label>Fort-500FS</label>
-    <description>.</description>
+    <description>The Fort-500FS is a high-caliber firearm designed for unrivaled stopping power. Favored by mercenaries and hunters alike, this weapon combines accuracy with a rugged design, ensuring reliability in the harshest conditions. Its semi-automatic action allows for quick follow-up shots, perfect for incapacitating large targets swiftly. Ideal for those situations where every shot must count.</description>
     <graphicData>
       <texPath>Things/modern/shotguns/fort-500fs</texPath>
       <graphicClass>Graphic_Single</graphicClass>

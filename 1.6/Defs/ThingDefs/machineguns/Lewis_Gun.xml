@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Lewis_Gun_RWP</defName>
     <label>Lewis Gun</label>
-    <description>.</description>
+    <description>The Lewis Gun is a light machine gun featuring a distinctive circular magazine and high fire rate. Designed for sustained cover fire, it offers moderate accuracy and a balanced range, making it effective for suppressing enemy targets. Its notable weight and slower handling time are compensated by its reliability in prolonged engagements.</description>
     <graphicData>
       <texPath>Things/modern/machineguns/lewis_gun</texPath>
       <graphicClass>Graphic_Single</graphicClass>

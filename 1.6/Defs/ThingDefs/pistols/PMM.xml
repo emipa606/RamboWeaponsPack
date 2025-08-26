@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_PMM_RWP</defName>
     <label>PMM</label>
-    <description>.</description>
+    <description>The PMM is a compact semi-automatic pistol known for its reliability and ease of use. Chambered in 9x18mm, it offers decent stopping power for its size, making it a solid sidearm choice for self-defense or short-range combat situations. Its lightweight design ensures quick handling and minimal encumbrance. Perfect for colonists needing a balance between firepower and mobility.</description>
     <graphicData>
       <texPath>Things/modern/pistols/pmm</texPath>
       <graphicClass>Graphic_Single</graphicClass>

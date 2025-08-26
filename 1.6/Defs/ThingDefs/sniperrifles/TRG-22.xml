@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_TRG-22_RWP</defName>
     <label>TRG-22</label>
-    <description>.</description>
+    <description>The TRG-22 is a precision bolt-action sniper rifle, designed for long-range marksmanship and accuracy. Renowned for its high muzzle velocity and exceptional range, this rifle is perfect for taking down targets from a distance. Although it has a slower rate of fire and requires careful aim, the TRG-22 delivers devastating single-shot damage, making it an excellent choice for skilled marksmen on the battlefield.</description>
     <graphicData>
       <texPath>Things/modern/sniperrifles/trg_22</texPath>
       <graphicClass>Graphic_Single</graphicClass>

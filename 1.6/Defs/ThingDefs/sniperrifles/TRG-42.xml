@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_TRG-42_RWP</defName>
     <label>TRG-42</label>
-    <description>.</description>
+    <description>The TRG-42 is a precision bolt-action sniper rifle known for its exceptional accuracy and reliability. It is designed for long-range engagements, capable of delivering powerful shots with high stopping power. Ideal for taking down threats before they even approach your settlement, this rifle is a crucial asset for any marksman looking to dominate the battlefield from a distance.</description>
     <graphicData>
       <texPath>Things/modern/sniperrifles/trg_42</texPath>
       <graphicClass>Graphic_Single</graphicClass>

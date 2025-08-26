@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_KS-23_RWP</defName>
     <label>KS-23</label>
-    <description>.</description>
+    <description>The KS-23 is a formidable heavy shotgun designed for close-quarters combat. Known for its stopping power, it fires large bore shells capable of incapacitating even the toughest adversaries. Though its range is limited, the devastating impact makes it a favorite choice for those who need maximum damage up close. Ideal for breaching and defense situations where power is paramount.</description>
     <graphicData>
       <texPath>Things/modern/shotguns/ks-23</texPath>
       <graphicClass>Graphic_Single</graphicClass>

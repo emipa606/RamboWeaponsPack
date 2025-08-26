@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_DP-28_RWP</defName>
     <label>DP-28</label>
-    <description>.</description>
+    <description>The DP-28 is a light machine gun known for its large pan magazine and robust design. Developed in the early 20th century, it offers reliable automatic fire, making it an effective weapon for suppressing enemies. Its relatively slow rate of fire and manageable recoil make it user-friendly, but its weight can be a drawback for long engagements. Best suited for defense and maintaining pressure on advancing foes.</description>
     <graphicData>
       <texPath>Things/modern/machineguns/dp-28</texPath>
       <graphicClass>Graphic_Single</graphicClass>

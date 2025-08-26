@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_CZ_75B_Full_Auto_RWP</defName>
     <label>CZ 75B Full Auto</label>
-    <description>.</description>
+    <description>A fully automatic variant of the CZ 75B pistol, this weapon combines the stopping power of a handgun with the rapid-fire capability of a submachine gun. It offers high reliability and accuracy, making it ideal for close-quarters combat scenarios. Its rate of fire allows for quick suppression of threats, although its smaller magazine requires frequent reloading.</description>
     <graphicData>
       <texPath>Things/modern/pistols/cz_75b_full_auto</texPath>
       <graphicClass>Graphic_Single</graphicClass>

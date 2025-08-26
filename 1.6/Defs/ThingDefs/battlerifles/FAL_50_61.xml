@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Fal_50_61_RWP</defName>
     <label>Fal 50.61</label>
-    <description>.</description>
+    <description>The FN FAL 50.61 is a selective-fire battle rifle known for its robust construction and reliable performance. Chambered in 7.62x51mm NATO, it delivers powerful shots at moderate range with commendable accuracy. Its folding-stock design improves portability without sacrificing stability, making it a versatile choice for combat scenarios requiring both mobility and firepower.</description>
     <graphicData>
       <texPath>Things/modern/battlerifles/fal_50_61</texPath>
       <graphicClass>Graphic_Single</graphicClass>

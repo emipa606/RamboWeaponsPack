@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Thompson_M1_RWP</defName>
     <label>Thompson M1</label>
-    <description>.</description>
+    <description>A classic submachine gun known for its reliability and iconic design, the Thompson M1 fires .45 caliber rounds with a high rate of fire. While it excels in close-quarters combat with its rapid burst capability, its effective range is limited. A solid choice for any colonist looking to lay down suppressive fire or engage foes at short range.</description>
     <graphicData>
       <texPath>Things/modern/submachineguns/thompson_m1</texPath>
       <graphicClass>Graphic_Single</graphicClass>

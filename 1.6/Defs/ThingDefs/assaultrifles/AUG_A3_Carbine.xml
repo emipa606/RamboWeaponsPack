@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_AUG_A3_Carbine_RWP</defName>
     <label>AUG A3 Carbine</label>
-    <description>.</description>
+    <description>The AUG A3 Carbine is a versatile and reliable firearm, favored for its compact bullpup design. It offers excellent accuracy and control, making it ideal for mid-range engagements. Equipped with advanced optics and a high rate of fire, this weapon ensures a tactical edge during combat scenarios.</description>
     <graphicData>
       <texPath>Things/modern/assaultrifles/aug_a3_carbine</texPath>
       <graphicClass>Graphic_Single</graphicClass>

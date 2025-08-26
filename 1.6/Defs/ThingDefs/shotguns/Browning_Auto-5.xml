@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Browning_Auto-5_RWP</defName>
     <label>Browning Auto-5</label>
-    <description>.</description>
+    <description>The Browning Auto-5 is a semi-automatic shotgun known for its reliability and durability. It features a distinct humpback design that accommodates its unique long recoil action. With a modest fire rate and significant stopping power, this weapon is well-suited for close-quarters combat, making it a valuable choice for hunters and defenders alike.</description>
     <graphicData>
       <texPath>Things/modern/shotguns/browning_auto-5</texPath>
       <graphicClass>Graphic_Single</graphicClass>

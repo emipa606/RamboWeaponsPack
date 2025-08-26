@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_PK_RWP</defName>
     <label>PK</label>
-    <description>.</description>
+    <description>The PK is a powerful Soviet-era machine gun known for its high rate of fire and rugged reliability. It is chambered for 7.62×54mm rounds, making it effective at delivering sustained automatic fire over long distances. Ideal for suppressing enemies and providing heavy support in a firefight, it serves as a formidable addition to any combat outpost. However, its weight and recoil require a strong operator to wield effectively.</description>
     <graphicData>
       <texPath>Things/modern/machineguns/pk</texPath>
       <graphicClass>Graphic_Single</graphicClass>

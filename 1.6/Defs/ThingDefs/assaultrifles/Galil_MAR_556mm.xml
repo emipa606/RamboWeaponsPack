@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Galil_MAR_556mm_RWP</defName>
     <label>Galil MAR 5.56mm</label>
-    <description>.</description>
+    <description>The Galil MAR 5.56mm is a compact, carbine variant of the Galil rifle renowned for its reliability and high rate of fire. Ideal for rapid engagements and close-quarters combat, it delivers precise shots with moderate recoil and offers a balance between stopping power and maneuverability in the field. Perfect for colonists who need a versatile and trusty firearm at their side.</description>
     <graphicData>
       <texPath>Things/modern/assaultrifles/galil_mar_556mm</texPath>
       <graphicClass>Graphic_Single</graphicClass>

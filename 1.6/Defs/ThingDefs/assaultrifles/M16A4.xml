@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_M16A4_RWP</defName>
     <label>M16A4</label>
-    <description>.</description>
+    <description>The M16A4 is a standard-issue military assault rifle known for its accuracy and burst-fire capability. It offers a good balance of rate of fire and range, making it effective at medium distances. Durable and easy to handle, the M16A4 is well-suited for combat in varied terrains.</description>
     <graphicData>
       <texPath>Things/modern/assaultrifles/m16a4</texPath>
       <graphicClass>Graphic_Single</graphicClass>

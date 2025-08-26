@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Desert_Eagle_357_RWP</defName>
     <label>Desert Eagle .357</label>
-    <description>.</description>
+    <description>The Desert Eagle .357 is a high-caliber semi-automatic pistol renowned for its powerful shot and stopping power. Though it has a relatively low fire rate, its significant damage makes it a formidable sidearm in skilled hands. Ideal for colonists with accuracy, the Desert Eagle can effectively neutralize threats with precision. Beware of its slightly heavier weight and slower handling compared to other pistols.</description>
     <graphicData>
       <texPath>Things/modern/pistols/desert_eagle</texPath>
       <graphicClass>Graphic_Single</graphicClass>

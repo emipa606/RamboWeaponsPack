@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Fort-500_RWP</defName>
     <label>Fort-500</label>
-    <description>.</description>
+    <description>The Fort-500 is a pump-action shotgun designed for close-quarters combat. Known for its robust construction and reliable performance, it delivers devastating damage at short range. Ideal for taking down targets swiftly and efficiently, its spread can hit multiple foes but loses effectiveness over distance. A favorite among those who value stopping power over subtlety.</description>
     <graphicData>
       <texPath>Things/modern/shotguns/fort-500</texPath>
       <graphicClass>Graphic_Single</graphicClass>

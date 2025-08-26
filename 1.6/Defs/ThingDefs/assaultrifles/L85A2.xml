@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_L85A2_RWP</defName>
     <label>L85A2</label>
-    <description>.</description>
+    <description>A British-made assault rifle, the L85A2 features a bullpup design that balances accuracy and compactness. With a high rate of fire and good range, it's well-suited for medium to long-range engagements. Rugged and reliable, it's an excellent choice for colonists who need versatility in battle.</description>
     <graphicData>
       <texPath>Things/modern/assaultrifles/l85a2</texPath>
       <graphicClass>Graphic_Single</graphicClass>

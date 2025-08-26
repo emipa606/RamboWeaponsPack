@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_TOZ-34_RWP</defName>
     <label>TOZ-34</label>
-    <description>.</description>
+    <description>The TOZ-34 is a double-barreled shotgun renowned for its reliability and stopping power. Firing two shells in rapid succession, it excels at close-range combat. Ideal for short-range skirmishes, it demands precision and strategic timing.</description>
     <graphicData>
       <texPath>Things/modern/shotguns/toz-34</texPath>
       <graphicClass>Graphic_Single</graphicClass>

@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_De_Lisle_Commando_Carbine_RWP</defName>
     <label>De Lisle Commando Carbine</label>
-    <description>.</description>
+    <description>The De Lisle Commando Carbine is a highly specialized and rare firearm known for its remarkable stealth capabilities. Designed during wartime, this bolt-action carbine features an integral suppressor, making it one of the quietest guns available. Its low noise signature marks it ideal for clandestine operations and hunting, although its rate of fire and stopping power are modest. Suitable for colonists who value subtlety and precision.</description>
     <graphicData>
       <texPath>Things/modern/rifles/de_lisle_commando_carbine</texPath>
       <graphicClass>Graphic_Single</graphicClass>

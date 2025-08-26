@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Skorpion_SA_Vz82_RWP</defName>
     <label>Skorpion vz.82</label>
-    <description>.</description>
+    <description>The Skorpion vz.82 is a compact automatic firearm known for its versatility and ease of handling. Designed with a retractable wire stock, it's ideal for close-quarters combat, offering burst fire capabilities to quickly suppress threats. Despite its small size, it delivers a reliable rate of fire with improved accuracy, making it a favorite for both sidearm roles and primary self-defense.</description>
     <graphicData>
       <texPath>Things/modern/submachineguns/skorpion_vz82</texPath>
       <graphicClass>Graphic_Single</graphicClass>

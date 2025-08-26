@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_SW_Model_500_RWP</defName>
     <label>S&amp;W Model 500</label>
-    <description>.</description>
+    <description>The S&amp;W Model 500 is a powerful revolver designed for devastating impact at close to medium range. Known for its high stopping power, this handgun fires large-caliber rounds capable of penetrating body armor. However, its hefty recoil requires a skilled hand for accurate use. Ideal for those seeking uncompromised firepower in a handgun form.</description>
     <graphicData>
       <texPath>Things/modern/pistols/sw_model_500</texPath>
       <graphicClass>Graphic_Single</graphicClass>

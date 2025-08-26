@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_TOZ-66_Sawed-off_RWP</defName>
     <label>TOZ-66 Sawed-off</label>
-    <description>.</description>
+    <description>The TOZ-66 Sawed-off is a modified double-barrel shotgun with shortened barrels. Its reduced length makes it easier to handle in tight spaces, but the modification sacrifices range and accuracy. It delivers devastating damage at close quarters, making it a brutal choice for personal defense or surprise assaults.</description>
     <graphicData>
       <texPath>Things/modern/shotguns/toz-66_sawed-off</texPath>
       <graphicClass>Graphic_Single</graphicClass>

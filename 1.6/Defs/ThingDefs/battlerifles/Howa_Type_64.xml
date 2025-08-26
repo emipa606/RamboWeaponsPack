@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Howa_Type_64_RWP</defName>
     <label>Howa Type 64</label>
-    <description>.</description>
+    <description>The Howa Type 64 is a Japanese-designed battle rifle known for its reliability and accuracy. Chambered in 7.62x51mm NATO, it delivers powerful, medium-range fire with moderate recoil. Though less advanced than newer models, its well-balanced design makes it a favored choice for those seeking a rugged and dependable weapon in the field.</description>
     <graphicData>
       <texPath>Things/modern/battlerifles/howa_type_64</texPath>
       <graphicClass>Graphic_Single</graphicClass>

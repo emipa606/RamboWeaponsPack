@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_G36_RWP</defName>
     <label>G36</label>
-    <description>.</description>
+    <description>The G36 is a well-engineered assault rifle known for its accuracy and reliability. It fires quick bursts of 5.56mm rounds, making it a formidable mid-range weapon. With a lightweight design and a high rate of fire, it's ideal for colonists who need a versatile and effective firearm in the heat of battle.</description>
     <graphicData>
       <texPath>Things/modern/assaultrifles/g36</texPath>
       <graphicClass>Graphic_Single</graphicClass>

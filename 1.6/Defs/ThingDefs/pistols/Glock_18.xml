@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Glock_18_RWP</defName>
     <label>Glock 18</label>
-    <description>.</description>
+    <description>The Glock 18 is a fully automatic pistol designed for rapid fire. Although it retains the compact frame and caliber of a standard sidearm, its burst capability makes it a formidable close-quarters weapon suitable for overwhelming targets quickly. Ideal for situations where suppressive fire is needed in a pinch.</description>
     <graphicData>
       <texPath>Things/modern/pistols/glock_18</texPath>
       <graphicClass>Graphic_Single</graphicClass>

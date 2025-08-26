@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_MAC-10_RWP</defName>
     <label>MAC-10</label>
-    <description>.</description>
+    <description>The MAC-10 is a compact, fully automatic submachine gun known for its high rate of fire. While its accuracy diminishes at longer ranges, it excels in close-quarters combat due to its lightweight frame and ease of handling. Ideal for quickly overwhelming targets in tight spaces.</description>
     <graphicData>
       <texPath>Things/modern/submachineguns/mac-10</texPath>
       <graphicClass>Graphic_Single</graphicClass>

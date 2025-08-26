@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Glock_17_RWP</defName>
     <label>Glock 17</label>
-    <description>.</description>
+    <description>A semi-automatic pistol, the Glock 17 is known for its reliability and ease of use. It chambers 9x19mm rounds and is favored for its high accuracy and quick firing rate. Ideal for close to medium-range engagements, it provides a stable option for those needing a dependable sidearm in tough situations.</description>
     <graphicData>
       <texPath>Things/modern/pistols/glock_17</texPath>
       <graphicClass>Graphic_Single</graphicClass>

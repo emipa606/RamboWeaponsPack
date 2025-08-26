@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_FAMAS_G2_RWP</defName>
     <label>FAMAS G2</label>
-    <description>.</description>
+    <description>The FAMAS G2 is a compact, bullpup-style assault rifle known for its high rate of fire and reliability. Its 5.56mm caliber rounds deliver rapid shots, making it effective in short to mid-range encounters. Highly valued by colonists for its balance between firepower and maneuverability.</description>
     <graphicData>
       <texPath>Things/modern/assaultrifles/famas_g2</texPath>
       <graphicClass>Graphic_Single</graphicClass>

@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_AK-47_RWP</defName>
     <label>AK-47</label>
-    <description>.</description>
+    <description>A powerful and reliable assault rifle renowned for its simplicity and effectiveness in combat. The AK-47 offers a high rate of fire and great durability, making it a preferred choice for combatants in harsh environments. Its balance of accuracy and stopping power makes it deadly at medium range.</description>
     <graphicData>
       <texPath>Things/modern/assaultrifles/ak-47</texPath>
       <graphicClass>Graphic_Single</graphicClass>

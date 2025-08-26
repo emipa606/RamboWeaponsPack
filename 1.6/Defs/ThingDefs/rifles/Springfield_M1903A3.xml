@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Springfield_M1903A3_RWP</defName>
     <label>Springfield M1903A3</label>
-    <description>.</description>
+    <description>The Springfield M1903A3 is a bolt-action rifle known for its accuracy and reliability. Preferred by marksmen, it offers a high range and precise aim, making it effective at taking down enemies from a distance. Ideal for colonists who prioritize precision over rapid fire.</description>
     <graphicData>
       <texPath>Things/modern/rifles/springfield_m1903a3</texPath>
       <graphicClass>Graphic_Single</graphicClass>

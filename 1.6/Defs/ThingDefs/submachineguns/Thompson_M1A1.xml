@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Thompson_M1A1_RWP</defName>
     <label>Thompson M1A1</label>
-    <description>.</description>
+    <description>The Thompson M1A1 is a classic submachine gun known for its high rate of fire and reliability. Designed during World War II, it delivers rapid bursts of .45 caliber rounds, making it ideal for close-quarters combat. This weapon offers a solid balance of power and control, though its effectiveness diminishes over longer distances due to its spread. Known as the "Tommy Gun," it remains a favorite for battles where speed and impact are critical.</description>
     <graphicData>
       <texPath>Things/modern/submachineguns/thompson_m1a1</texPath>
       <graphicClass>Graphic_Single</graphicClass>

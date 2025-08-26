@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_M2_Carbine_RWP</defName>
     <label>M2 Carbine</label>
-    <description>.</description>
+    <description>The M2 Carbine is a lightweight semi-automatic firearm chambered in .30 caliber. It features a high rate of fire and moderate stopping power, making it versatile for mid-range engagements. Its compact size allows for quick handling while on the move.</description>
     <graphicData>
       <texPath>Things/modern/rifles/m2_carbine</texPath>
       <graphicClass>Graphic_Single</graphicClass>

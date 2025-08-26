@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_MG2R_RWP</defName>
     <label>MG2R</label>
-    <description>.</description>
+    <description>The MG2R is a high-tech rapid-fire gauss rifle with exceptional accuracy and stopping power. Designed for long-range engagements, it fires magnetically accelerated projectiles, delivering devastating damage with reduced recoil. Ideal for skilled marksmen, this advanced weapon combines cutting-edge technology with precision engineering, making it a superior choice for dispatching threats efficiently.</description>
     <graphicData>
       <texPath>Things/modern/pistols/mg2r</texPath>
       <graphicClass>Graphic_Single</graphicClass>

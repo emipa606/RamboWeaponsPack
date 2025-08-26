@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Daewoo_K2_RWP</defName>
     <label>Daewoo K2</label>
-    <description>.</description>
+    <description>The Daewoo K2 is a versatile and reliable assault rifle originating from South Korea. It offers a balanced combination of accuracy, range, and firing rate, making it suitable for a variety of combat situations. Powered by 5.56x45mm NATO rounds, the K2 is known for its durability and effectiveness in the field, providing a dependable choice for colonists looking to enhance their combat capabilities.</description>
     <graphicData>
       <texPath>Things/modern/assaultrifles/daewoo_k2</texPath>
       <graphicClass>Graphic_Single</graphicClass>

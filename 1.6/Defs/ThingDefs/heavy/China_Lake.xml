@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_China_Lake_RWP</defName>
     <label>China Lake</label>
-    <description>.</description>
+    <description>A pump-action grenade launcher, the China Lake can fire grenades quickly and accurately over medium distances. Its design allows for rapid successive shots, making it effective for suppressive fire and dealing with groups of enemies. Due to its explosive payload, care must be taken to avoid collateral damage.</description>
     <graphicData>
       <texPath>Things/modern/heavy/china_lake</texPath>
       <graphicClass>Graphic_Single</graphicClass>

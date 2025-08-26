@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_HK21_RWP</defName>
     <label>HK21</label>
-    <description>.</description>
+    <description>The HK21 is a general-purpose machine gun known for its reliability and versatility. It features a high rate of fire and is effective at providing suppressive fire over long distances. Ideal for supporting squads in prolonged engagements.</description>
     <graphicData>
       <texPath>Things/modern/machineguns/hk21</texPath>
       <graphicClass>Graphic_Single</graphicClass>

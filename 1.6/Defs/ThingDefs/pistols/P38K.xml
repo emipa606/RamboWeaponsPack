@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_P38K_RWP</defName>
     <label>P38K</label>
-    <description>.</description>
+    <description>A compact and lightweight pistol, the P38K is designed for close-quarters combat. With moderate stopping power and a quick firing rate, it is ideal for sidearm duties and personal defense. Its simplicity and reliability make it a popular choice among settlers for day-to-day protection.</description>
     <graphicData>
       <texPath>Things/modern/pistols/p38k</texPath>
       <graphicClass>Graphic_Single</graphicClass>

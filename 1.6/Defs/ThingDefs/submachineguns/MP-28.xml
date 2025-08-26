@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_MP-28_RWP</defName>
     <label>MP-28</label>
-    <description>.</description>
+    <description>The MP-28 is a submachine gun designed for rapid-fire engagements. Originally developed in the early 20th century, it remains a reliable choice for those needing a high rate of fire in short to medium-range combat. With a sturdy wooden stock and a simple blowback operation, it is favored for its ease of use and satisfying stopping power.</description>
     <graphicData>
       <texPath>Things/modern/submachineguns/mp28</texPath>
       <graphicClass>Graphic_Single</graphicClass>

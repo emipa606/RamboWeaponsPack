@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_AK-74M_RWP</defName>
     <label>AK-74M</label>
-    <description>.</description>
+    <description>The AK-74M is a reliable and durable assault rifle used by military forces around the world. It provides a balance of accuracy, power, and rate of fire, making it an effective tool for mid-range combat. Its design ensures consistent performance in various conditions, ideal for any survivalist's arsenal.</description>
     <graphicData>
       <texPath>Things/modern/assaultrifles/ak-74m</texPath>
       <graphicClass>Graphic_Single</graphicClass>

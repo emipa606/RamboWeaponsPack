@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Colt_Python_RWP</defName>
     <label>Colt Python</label>
-    <description>.</description>
+    <description>The Colt Python is a high-powered revolver known for its precision and stopping power. With a solid frame and smooth double-action, it delivers lethal shots even at moderate range. The Colt Python is a prized possession for marksmen seeking reliability and classic craftsmanship.</description>
     <graphicData>
       <texPath>Things/modern/pistols/colt_python</texPath>
       <graphicClass>Graphic_Single</graphicClass>

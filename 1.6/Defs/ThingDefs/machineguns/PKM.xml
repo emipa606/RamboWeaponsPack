@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_PKM_RWP</defName>
     <label>PKM</label>
-    <description>.</description>
+    <description>The PKM is a powerful, belt-fed light machine gun known for its reliability and high rate of fire. Originating from Eastern design, it excels in delivering sustained fire against multiple targets, making it a formidable choice in prolonged engagements. However, its weight can slow down movement, so it's best suited for static defense or suppression roles.</description>
     <graphicData>
       <texPath>Things/modern/machineguns/pkm</texPath>
       <graphicClass>Graphic_Single</graphicClass>

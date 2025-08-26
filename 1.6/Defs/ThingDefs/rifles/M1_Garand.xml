@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_M1_Garand_RWP</defName>
     <label>M1 Garand</label>
-    <description>.</description>
+    <description>The M1 Garand is a semi-automatic battle rifle, renowned for its reliability and accuracy. It fires .30-06 Springfield cartridges and is equipped with an 8-round en bloc clip. Ideal for medium-range engagements, it offers a balanced mix of stopping power and firing speed.</description>
     <graphicData>
       <texPath>Things/modern/rifles/m1_garand</texPath>
       <graphicClass>Graphic_Single</graphicClass>

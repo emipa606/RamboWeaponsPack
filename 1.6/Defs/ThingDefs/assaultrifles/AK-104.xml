@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_AK-104_RWP</defName>
     <label>AK-104</label>
-    <description>.</description>
+    <description>The AK-104 is a compact assault rifle known for its reliability and effectiveness in combat. Featuring a shorter barrel than the traditional AK series, it offers improved maneuverability in tight spaces while maintaining impressive firepower. Ideal for mid-range engagements, this weapon's robust design ensures it withstands the harsh conditions of RimWorld, delivering consistent performance time and again.</description>
     <graphicData>
       <texPath>Things/modern/assaultrifles/ak-104</texPath>
       <graphicClass>Graphic_Single</graphicClass>

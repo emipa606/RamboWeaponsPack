@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Sten_Mk_V_RWP</defName>
     <label>Sten Mk V</label>
-    <description>.</description>
+    <description>The Sten Mk V is a mid-20th century submachine gun known for its simplicity and reliability. Chambered in 9mm, it features a wooden stock and improved sights over its predecessors, offering accurate short to mid-range firepower. An excellent choice for colonists seeking robust weaponry with historical charm.</description>
     <graphicData>
       <texPath>Things/modern/submachineguns/sten_mk5</texPath>
       <graphicClass>Graphic_Single</graphicClass>

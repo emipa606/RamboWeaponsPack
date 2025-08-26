@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_SCAR-H_STD_RWP</defName>
     <label>SCAR-H STD</label>
-    <description>.</description>
+    <description>The SCAR-H STD is a robust and versatile firearm renowned for its accuracy and stopping power. Designed for adaptability on the battlefield, it uses hard-hitting 7.62mm NATO rounds and features a range of firing modes to handle various combat scenarios. Its durable construction ensures reliability in harsh conditions, making it a favored choice for those who demand performance and durability in their weaponry.</description>
     <graphicData>
       <texPath>Things/modern/battlerifles/scar-h_std</texPath>
       <graphicClass>Graphic_Single</graphicClass>

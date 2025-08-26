@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_PKP_Pecheneg_RWP</defName>
     <label>PKP Pecheneg</label>
-    <description>.</description>
+    <description>The PKP Pecheneg is a powerful and reliable Russian-made general-purpose machine gun. It offers exceptional sustained fire capability with high rate of fire and accuracy, making it ideal for suppressing enemies in combat. Equipped with a robust cooling system, it can endure extended firefights without overheating, ensuring continuous operational effectiveness on the battlefield.</description>
     <graphicData>
       <texPath>Things/modern/machineguns/pkp_pecheneg</texPath>
       <graphicClass>Graphic_Single</graphicClass>

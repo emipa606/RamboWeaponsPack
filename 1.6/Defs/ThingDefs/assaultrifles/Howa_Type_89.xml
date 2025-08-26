@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Howa_Type_89_RWP</defName>
     <label>Howa Type 89</label>
-    <description>.</description>
+    <description>The Howa Type 89 is a modern assault rifle known for its reliability and ergonomics. Firing 5.56mm rounds, it offers a balanced blend of accuracy, range, and power, making it an ideal choice for combatants who require a versatile and dependable firearm.</description>
     <graphicData>
       <texPath>Things/modern/assaultrifles/howa_type_89</texPath>
       <graphicClass>Graphic_Single</graphicClass>

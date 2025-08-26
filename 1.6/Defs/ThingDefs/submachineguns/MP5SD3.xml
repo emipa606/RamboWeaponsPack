@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_MP5SD3_RWP</defName>
     <label>MP5SD3</label>
-    <description>.</description>
+    <description>The MP5SD3 is a compact, integrally suppressed submachine gun renowned for its low noise operation and reliability. Designed for stealth and close-quarters combat, it combines a high rate of fire with excellent accuracy, making it a favorite for special operations. Ideal for colonists who prefer to silently eliminate threats without alerting nearby enemies.</description>
     <graphicData>
       <texPath>Things/modern/submachineguns/mp5sd3</texPath>
       <graphicClass>Graphic_Single</graphicClass>

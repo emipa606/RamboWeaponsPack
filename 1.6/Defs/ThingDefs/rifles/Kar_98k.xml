@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Kar_98k_RWP</defName>
     <label>Kar 98k</label>
-    <description>.</description>
+    <description>The Kar 98k is a bolt-action rifle known for its impressive range and accuracy. Originally designed for military use, this weapon delivers a powerful punch with each shot. Ideally suited for mid to long-range combat, the Kar 98k demands a strategic approach due to its slower firing rate and bolt-action mechanism. Its high damage and precision make it a reliable choice for sharpshooters on the battlefield.</description>
     <graphicData>
       <texPath>Things/modern/rifles/kar_98k</texPath>
       <graphicClass>Graphic_Single</graphicClass>

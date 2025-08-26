@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_AA-12_RWP</defName>
     <label>AA-12</label>
-    <description>.</description>
+    <description>The AA-12 is a fully automatic shotgun, known for its devastating firepower and rapid rate of fire. It is capable of unleashing a relentless barrage of shots, making it exceptionally effective in close-quarters combat against clusters of enemies. The weapon's automatic firing mechanism sacrifices some accuracy at longer ranges for sheer stopping power up close, best utilized in defensive positions or for assaulting fortified enemy locations. Due to its heavy and unwieldy nature, it's less suited for long-distance engagements.</description>
     <graphicData>
       <texPath>Things/modern/shotguns/aa-12</texPath>
       <graphicClass>Graphic_Single</graphicClass>

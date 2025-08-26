@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_G3A3_RWP</defName>
     <label>G3A3</label>
-    <description>.</description>
+    <description>The G3A3 is a robust and reliable battle rifle with a powerful punch. Designed for versatility and durability, it boasts a semi-automatic firing mode capable of knocking down foes with its high-caliber rounds. Though it has a slower firing rate compared to assault rifles, its accuracy and stopping power make it an excellent choice for mid to long-range engagements.</description>
     <graphicData>
       <texPath>Things/modern/battlerifles/g3a3</texPath>
       <graphicClass>Graphic_Single</graphicClass>

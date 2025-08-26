@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_M60_RWP</defName>
     <label>M60</label>
-    <description>.</description>
+    <description>The M60 is a powerful, belt-fed machine gun that excels in sustained automatic fire. It delivers high damage against multiple targets, ideal for suppressing enemy forces. However, its weight and slower aim time can be a drawback in fast-paced engagements.</description>
     <graphicData>
       <texPath>Things/modern/machineguns/m60</texPath>
       <graphicClass>Graphic_Single</graphicClass>

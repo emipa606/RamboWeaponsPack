@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_AS_Val_RWP</defName>
     <label>AS Val</label>
-    <description>.</description>
+    <description>The AS Val is a specialized, silent assault rifle designed for stealth operations. Featuring an integrated suppressor, it is perfect for covert engagements and guerrilla tactics. Its high rate of fire and armor-piercing capabilities make it a formidable weapon in skilled hands.</description>
     <graphicData>
       <texPath>Things/modern/assaultrifles/as_val</texPath>
       <graphicClass>Graphic_Single</graphicClass>

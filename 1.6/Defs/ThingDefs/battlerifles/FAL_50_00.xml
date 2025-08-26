@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Fal_50_00_RWP</defName>
     <label>Fal 50.00</label>
-    <description>.</description>
+    <description>The FN FAL 50.00 is a battle rifle admired for its power and reliability. Featuring a 20-round magazine, this semi-automatic weapon excels at medium to long-range engagements, delivering high-caliber stopping power with each shot. Ideal for those who prefer precision with a punch.</description>
     <graphicData>
       <texPath>Things/modern/battlerifles/fal_50_00</texPath>
       <graphicClass>Graphic_Single</graphicClass>

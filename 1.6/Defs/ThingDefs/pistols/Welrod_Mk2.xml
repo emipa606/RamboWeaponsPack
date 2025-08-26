@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Welrod_Mk2_RWP</defName>
     <label>Welrod Mk II</label>
-    <description>.</description>
+    <description>A compact, manually operated bolt-action pistol known for its stealth capabilities, the Welrod Mk II is favored for covert operations. It features an integrated suppressor that significantly reduces noise, making it ideal for silent takedowns. Though its range and rate of fire are limited, its precision and quietness can be crucial in tactical engagements where staying undetected is key.</description>
     <graphicData>
       <texPath>Things/modern/pistols/welrod_mk2</texPath>
       <graphicClass>Graphic_Single</graphicClass>

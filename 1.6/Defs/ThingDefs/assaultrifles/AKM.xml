@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_AKM_RWP</defName>
     <label>AKM</label>
-    <description>.</description>
+    <description>The AKM is a reliable and rugged assault rifle, known for its durability and ease of use in combat. It uses 7.62mm ammunition, providing considerable stopping power. While not the most accurate, its dependability makes it a favorite among many settlers, especially in harsh conditions.</description>
     <graphicData>
       <texPath>Things/modern/assaultrifles/akm</texPath>
       <graphicClass>Graphic_Single</graphicClass>

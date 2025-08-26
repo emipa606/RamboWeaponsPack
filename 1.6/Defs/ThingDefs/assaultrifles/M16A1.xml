@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_M16A1_RWP</defName>
     <label>M16A1</label>
-    <description>.</description>
+    <description>The M16A1 is a reliable automatic rifle known for its versatility. It offers a balanced rate of fire, accuracy, and range, making it suitable for mid-range combat. A standard issue in many military forces, this firearm is durable and effective in most combat scenarios, providing a steady stream of firepower to suppress or engage enemies.</description>
     <graphicData>
       <texPath>Things/modern/assaultrifles/m16a1</texPath>
       <graphicClass>Graphic_Single</graphicClass>

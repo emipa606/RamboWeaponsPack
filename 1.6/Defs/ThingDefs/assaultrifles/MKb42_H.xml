@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_MKb42_H_RWP</defName>
     <label>MKb.42(H)</label>
-    <description>.</description>
+    <description>The MKb.42(H) is a mid-range firearm designed for versatility in combat situations. Offering a balance between accuracy and firepower, it is ideal for engagements where flexibility is key. Its semi-automatic fire mode allows for controlled shots, while its historical design gives a nod to early assault rifle prototypes. Perfect for colonists with moderate shooting skills looking to increase their effectiveness on the battlefield.</description>
     <graphicData>
       <texPath>Things/modern/assaultrifles/mkb42_h</texPath>
       <graphicClass>Graphic_Single</graphicClass>

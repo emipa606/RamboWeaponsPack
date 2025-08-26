@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_MP5A2_RWP</defName>
     <label>MP5A2</label>
-    <description>.</description>
+    <description>The MP5A2 is a compact and reliable submachine gun renowned for its accuracy and rate of fire. Ideal for close to medium-range engagements, it delivers a consistent stream of fire with manageable recoil. The A2 variant features a fixed stock, enhancing stability for marksmen. Despite its age, this weapon remains a popular choice for those requiring a balance between firepower and precision.</description>
     <graphicData>
       <texPath>Things/modern/submachineguns/mp5a2</texPath>
       <graphicClass>Graphic_Single</graphicClass>

@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_SCAR-H_LB_RWP</defName>
     <label>SCAR-H LB</label>
-    <description>.</description>
+    <description>The SCAR-H LB is a versatile battle rifle known for its accuracy and stopping power. Its long barrel increases range, making it effective for engaging targets at a distance. This weapon is highly sought after for its reliability in various combat scenarios.</description>
     <graphicData>
       <texPath>Things/modern/battlerifles/scar-h_lb</texPath>
       <graphicClass>Graphic_Single</graphicClass>

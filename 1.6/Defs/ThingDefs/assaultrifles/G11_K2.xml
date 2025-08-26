@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_G11_K2_RWP</defName>
     <label>G11 K2</label>
-    <description>.</description>
+    <description>The G11 K2 is a revolutionary assault rifle utilizing caseless ammunition for rapid firing. Its advanced design reduces recoil and increases accuracy, making it ideal for sustained engagements. Known for its futuristic look and technological innovation, the G11 K2 stands out as a premium choice for discerning shooters.</description>
     <graphicData>
       <texPath>Things/modern/assaultrifles/g11_k2</texPath>
       <graphicClass>Graphic_Single</graphicClass>

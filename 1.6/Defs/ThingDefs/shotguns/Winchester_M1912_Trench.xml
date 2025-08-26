@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Winchester_M1912_Trench_RWP</defName>
     <label>Winchester M1912 Trench</label>
-    <description>.</description>
+    <description>The Winchester M1912 Trench is a durable pump-action shotgun, designed for close-quarters combat. Known for its reliability and rapid cycling, this weapon excels in dealing with heavily armored targets at short range. Ideal for clearing trenches or defending tight spaces, it delivers devastating power and has a quick reload time, making it a favorite among front-line soldiers.</description>
     <graphicData>
       <texPath>Things/modern/shotguns/winchester_m1912_trench</texPath>
       <graphicClass>Graphic_Single</graphicClass>

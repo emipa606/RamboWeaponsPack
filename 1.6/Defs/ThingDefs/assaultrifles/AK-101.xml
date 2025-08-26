@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_AK-101_RWP</defName>
     <label>AK-101</label>
-    <description>.</description>
+    <description>The AK-101 is a selective-fire assault rifle renowned for its reliability and adaptability. Utilizing 5.56x45mm NATO rounds, it offers a balanced blend of accuracy, range, and stopping power. This weapon is ideal for both close-quarters combat and mid-range engagements, making it a preferred choice for versatile fighters.</description>
     <graphicData>
       <texPath>Things/modern/assaultrifles/ak-101</texPath>
       <graphicClass>Graphic_Single</graphicClass>

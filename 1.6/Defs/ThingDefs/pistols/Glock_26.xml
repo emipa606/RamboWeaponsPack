@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Glock_26_RWP</defName>
     <label>Glock 26</label>
-    <description>.</description>
+    <description>A compact semi-automatic pistol known for its reliability and ease of use. Ideal for close-range combat, the Glock 26 offers a balance between firepower and concealment, making it a versatile sidearm for any colonist.</description>
     <graphicData>
       <texPath>Things/modern/pistols/glock_26</texPath>
       <graphicClass>Graphic_Single</graphicClass>

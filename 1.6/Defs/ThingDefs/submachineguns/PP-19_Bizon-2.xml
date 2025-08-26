@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_PP-19_Bizon-2_RWP</defName>
     <label>PP-19 Bizon-2</label>
-    <description>.</description>
+    <description>The PP-19 Bizon-2 is a Russian-made submachine gun known for its unique helical magazine, allowing for a high capacity of 64 rounds. Lightweight and compact, it excels in close-quarters combat, providing a rapid rate of fire that can quickly suppress threats. Ideal for raids or defense in confined spaces.</description>
     <graphicData>
       <texPath>Things/modern/submachineguns/pp-19_bizon-2</texPath>
       <graphicClass>Graphic_Single</graphicClass>

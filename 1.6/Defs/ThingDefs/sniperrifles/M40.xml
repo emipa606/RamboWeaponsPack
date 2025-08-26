@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_M40_RWP</defName>
     <label>M40</label>
-    <description>.</description>
+    <description>The M40 is a precision sniper rifle, known for its excellent range and accuracy. Ideal for picking off enemies at a distance, it delivers high-powered shots with deadly precision. Though slow to fire and cumbersome at close range, the M40 is a trusty tool for sharpshooters in engagements where staying distant is the key to survival.</description>
     <graphicData>
       <texPath>Things/modern/sniperrifles/m40</texPath>
       <graphicClass>Graphic_Single</graphicClass>

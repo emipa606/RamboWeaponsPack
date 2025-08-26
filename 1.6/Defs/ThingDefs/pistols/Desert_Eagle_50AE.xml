@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Desert_Eagle_50AE_RWP</defName>
     <label>Desert Eagle .50AE</label>
-    <description>.</description>
+    <description>The Desert Eagle .50AE is a semi-automatic pistol known for its impressive power and distinctive design. Chambered in .50 Action Express, it delivers high damage output with each shot. Though it has a slower firing rate and limited range compared to rifles, its sheer stopping power makes it a formidable choice for close to mid-range combat. Its large size and weight can make it cumbersome, but few sidearms can match its impact.</description>
     <graphicData>
       <texPath>Things/modern/pistols/desert_eagle</texPath>
       <graphicClass>Graphic_Single</graphicClass>

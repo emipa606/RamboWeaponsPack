@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Zastava_M53_RWP</defName>
     <label>Zastava M53</label>
-    <description>.</description>
+    <description>The Zastava M53 is a dependable, fully-automatic light machine gun known for its high rate of fire and robust construction. Modeled after the infamous German MG42, this weapon delivers a relentless barrage of bullets, making it effective for suppressing enemies in combat. Be prepared, however, as its rapid fire consumes ammunition quickly and can lead to overheating if not managed carefully. Widely used for its reliability in battle, the M53 is a formidable choice for those who value superior firepower.</description>
     <graphicData>
       <texPath>Things/modern/machineguns/mg42</texPath>
       <graphicClass>Graphic_Single</graphicClass>

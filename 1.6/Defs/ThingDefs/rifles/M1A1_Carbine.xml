@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_M1A1_Carbine_RWP</defName>
     <label>M1A1 Carbine</label>
-    <description>.</description>
+    <description>A lightweight, semi-automatic rifle that excels in short to medium range engagements. Known for its reliability and ease of use, the M1A1 Carbine is perfect for colonists needing a balance between firepower and mobility. Effective against lightly armored targets.</description>
     <graphicData>
       <texPath>Things/modern/rifles/m1a1_carbine</texPath>
       <graphicClass>Graphic_Single</graphicClass>

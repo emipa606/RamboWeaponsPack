@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_AKS-74U_RWP</defName>
     <label>AKS-74U</label>
-    <description>.</description>
+    <description>A compact and lightweight carbine derived from the AK-74, the AKS-74U offers a balanced mix of firepower and maneuverability. Ideal for close-quarters combat, it sacrifices some precision and range for a higher rate of fire, making it a formidable weapon for quick, decisive engagements.</description>
     <graphicData>
       <texPath>Things/modern/assaultrifles/aks-74u</texPath>
       <graphicClass>Graphic_Single</graphicClass>

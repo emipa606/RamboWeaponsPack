@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_UZI_Pistol_RWP</defName>
     <label>UZI Pistol</label>
-    <description>.</description>
+    <description>A compact, fully automatic pistol with a high rate of fire. The UZI Pistol is perfect for close-quarters combat, sacrificing accuracy for rapid bullet spray. Ideal for suppressing enemies and creating chaos in tight spaces.</description>
     <graphicData>
       <texPath>Things/modern/pistols/uzi_pistol</texPath>
       <graphicClass>Graphic_Single</graphicClass>

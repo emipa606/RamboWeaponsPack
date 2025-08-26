@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_MP5SD1_RWP</defName>
     <label>MP5SD1</label>
-    <description>.</description>
+    <description>The MP5SD1 is a compact submachine gun with an integrated suppressor, making it ideal for stealth operations. Its design reduces noise and muzzle flash, allowing for quieter engagements at close range. With moderate stopping power and high accuracy, this weapon is perfect for handling threats discreetly without alerting nearby enemies.</description>
     <graphicData>
       <texPath>Things/modern/submachineguns/mp5sd1</texPath>
       <graphicClass>Graphic_Single</graphicClass>

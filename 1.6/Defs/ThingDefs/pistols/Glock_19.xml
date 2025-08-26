@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Glock_19_RWP</defName>
     <label>Glock 19</label>
-    <description>.</description>
+    <description>The Glock 19 is a reliable semi-automatic pistol known for its durability and compact design. Favored by many for personal defense, it offers a balanced blend of accuracy and capacity, making it effective at close to medium ranges. Its lightweight frame allows for quick handling, ideal for tight combat situations.</description>
     <graphicData>
       <texPath>Things/modern/pistols/glock_19</texPath>
       <graphicClass>Graphic_Single</graphicClass>

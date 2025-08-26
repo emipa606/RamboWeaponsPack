@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_G3KA4_RWP</defName>
     <label>G3KA4</label>
-    <description>.</description>
+    <description>The G3KA4 is a robust and reliable automatic rifle, known for its long-range accuracy and rate of fire. Crafted with precision, this weapon excels in medium to long-range engagements, providing consistent performance on the battlefield. Suitable for colonists who need both power and precision, the G3KA4 is a staple choice for security and combat scenarios.</description>
     <graphicData>
       <texPath>Things/modern/battlerifles/g3ka4</texPath>
       <graphicClass>Graphic_Single</graphicClass>

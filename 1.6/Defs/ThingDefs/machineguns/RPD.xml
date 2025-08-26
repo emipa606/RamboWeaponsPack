@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_RPD_RWP</defName>
     <label>RPD</label>
-    <description>.</description>
+    <description>The RPD is a light machine gun renowned for its reliability and high rate of fire. Designed for sustained suppressive fire, it offers excellent damage output at medium range. Its drum magazine allows for extended periods of firing without frequent reloads, making it ideal for keeping enemies at bay. However, it's bulkier than other firearms, which can slow the wielder's movement. A valuable addition to any colony's arsenal when firepower and intimidation are essential.</description>
     <graphicData>
       <texPath>Things/modern/machineguns/rpd</texPath>
       <graphicClass>Graphic_Single</graphicClass>

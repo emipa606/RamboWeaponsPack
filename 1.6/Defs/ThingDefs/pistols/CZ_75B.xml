@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_CZ_75B_RWP</defName>
     <label>CZ 75B</label>
-    <description>.</description>
+    <description>The CZ 75B is a reliable semi-automatic pistol known for its accuracy and durability. Equipped with a 16-round magazine, it offers a balance of firepower and precision, making it a dependable sidearm for any colonist. Suitable for both defensive and offensive engagements.</description>
     <graphicData>
       <texPath>Things/modern/pistols/cz_75b</texPath>
       <graphicClass>Graphic_Single</graphicClass>

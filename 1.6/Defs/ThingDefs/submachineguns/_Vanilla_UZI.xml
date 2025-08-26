@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_MachinePistol</defName>
     <label>UZI</label>
-    <description>.</description>
+    <description>A compact and fully automatic submachine gun, the UZI is known for its high rate of fire and ease of handling. Perfect for close-quarters combat where rapid bursts of bullets can overwhelm opponents. However, its short barrel limits accuracy and stopping power at long ranges.</description>
     <graphicData>
       <texPath>Things/modern/submachineguns/uzi</texPath>
       <graphicClass>Graphic_Single</graphicClass>

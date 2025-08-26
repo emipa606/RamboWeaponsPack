@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_MP5K-PDW_RWP</defName>
     <label>MP5K-PDW</label>
-    <description>.</description>
+    <description>The MP5K-PDW is a compact submachine gun that offers a high rate of fire, making it ideal for close-quarters combat. Lightweight and easy to handle, it excels at quickly dispatching threats in tight spaces. However, its effective range is limited, and it can struggle against well-armored targets. Perfect for those who need a reliable firearm in confined environments.</description>
     <graphicData>
       <texPath>Things/modern/submachineguns/mp5k-pdw</texPath>
       <graphicClass>Graphic_Single</graphicClass>

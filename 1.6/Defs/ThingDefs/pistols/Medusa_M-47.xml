@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Medusa_M-47_RWP</defName>
     <label>Medusa M-47</label>
-    <description>.</description>
+    <description>The Medusa M-47 is a high-tech pulse rifle that excels in precision and damage output. Designed for long-range combat, its rapid-fire capability and advanced targeting make it deadly in skilled hands. Its sleek design and efficiency ensure it remains a favorite among those who value speed and power on the battlefield.</description>
     <graphicData>
       <texPath>Things/modern/pistols/medusa_m-47</texPath>
       <graphicClass>Graphic_Single</graphicClass>

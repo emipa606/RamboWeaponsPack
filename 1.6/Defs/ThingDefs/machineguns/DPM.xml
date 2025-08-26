@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_DPM_RWP</defName>
     <label>DPM</label>
-    <description>.</description>
+    <description>"DPM is a durable machine gun from the mid-20th century, known for its simple design and reliable performance in combat. It offers a high rate of fire and solid stopping power, ideal for suppressing enemies with continuous bursts of fire. Its weight and recoil make it less suited for quick maneuvers, but in a static defense role, it excels at laying down sustained firepower."</description>
     <graphicData>
       <texPath>Things/modern/machineguns/dpm</texPath>
       <graphicClass>Graphic_Single</graphicClass>
