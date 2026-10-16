@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: Tec-9 -->
   <Gun_Tec-9_RWP.label>Tec-9</Gun_Tec-9_RWP.label>
-  <!-- EN: . -->
-  <Gun_Tec-9_RWP.description>.</Gun_Tec-9_RWP.description>
+  <!-- EN: The Tec-9 is a compact submachine gun notable for its high rate of fire, making it effective in close-quarters combat. Though less accurate than its larger counterparts, it compensates with rapid bursts of bullets, overwhelming targets with sheer volume. Easy to manufacture and maintain, it's a popular choice among improvised militias and raider gangs. -->
+  <Gun_Tec-9_RWP.description>The Tec-9 is a compact submachine gun notable for its high rate of fire, making it effective in close-quarters combat. Though less accurate than its larger counterparts, it compensates with rapid bursts of bullets, overwhelming targets with sheer volume. Easy to manufacture and maintain, it's a popular choice among improvised militias and raider gangs.</Gun_Tec-9_RWP.description>
   <!-- EN: grip -->
   <Gun_Tec-9_RWP.tools.grip.label>grip</Gun_Tec-9_RWP.tools.grip.label>
   <!-- EN: barrel -->

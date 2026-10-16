@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: PPD-34/38 -->
   <Gun_PPD-34-38_RWP.label>PPD-34/38</Gun_PPD-34-38_RWP.label>
-  <!-- EN: . -->
-  <Gun_PPD-34-38_RWP.description>.</Gun_PPD-34-38_RWP.description>
+  <!-- EN: The PPD-34/38 is a Soviet submachine gun with a wooden stock and drum magazine. It offers rapid fire with a moderate accuracy, making it effective in close-quarters combat. Ideal for suppressing enemies and providing infantry firepower. -->
+  <Gun_PPD-34-38_RWP.description>The PPD-34/38 is a Soviet submachine gun with a wooden stock and drum magazine. It offers rapid fire with a moderate accuracy, making it effective in close-quarters combat. Ideal for suppressing enemies and providing infantry firepower.</Gun_PPD-34-38_RWP.description>
   <!-- EN: stock -->
   <Gun_PPD-34-38_RWP.tools.stock.label>stock</Gun_PPD-34-38_RWP.tools.stock.label>
   <!-- EN: barrel -->

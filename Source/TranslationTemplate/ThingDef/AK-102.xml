@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: AK-102 -->
   <Gun_AK-102_RWP.label>AK-102</Gun_AK-102_RWP.label>
-  <!-- EN: . -->
-  <Gun_AK-102_RWP.description>.</Gun_AK-102_RWP.description>
+  <!-- EN: The AK-102 is a modern assault rifle known for its reliability and adaptability. It fires 5.56x39mm rounds, offering a balance of high accuracy and significant stopping power over medium distances. Ideal for both mid-range combat and quick assaults, this weapon is favored by many for its durability and ease of maintenance in harsh environments. -->
+  <Gun_AK-102_RWP.description>The AK-102 is a modern assault rifle known for its reliability and adaptability. It fires 5.56x39mm rounds, offering a balance of high accuracy and significant stopping power over medium distances. Ideal for both mid-range combat and quick assaults, this weapon is favored by many for its durability and ease of maintenance in harsh environments.</Gun_AK-102_RWP.description>
   <!-- EN: stock -->
   <Gun_AK-102_RWP.tools.stock.label>stock</Gun_AK-102_RWP.tools.stock.label>
   <!-- EN: barrel -->

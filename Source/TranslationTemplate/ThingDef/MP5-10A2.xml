@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: MP5/10A2 -->
   <Gun_MP5-10A2_RWP.label>MP5/10A2</Gun_MP5-10A2_RWP.label>
-  <!-- EN: . -->
-  <Gun_MP5-10A2_RWP.description>.</Gun_MP5-10A2_RWP.description>
+  <!-- EN: A rapid-fire submachine gun chambered in 10mm Auto. Known for its compact design and high rate of fire, the MP5/10A2 is ideal for close-quarters combat, offering a balance between stopping power and controllability. Perfect for those who need a reliable weapon in cramped conditions. -->
+  <Gun_MP5-10A2_RWP.description>A rapid-fire submachine gun chambered in 10mm Auto. Known for its compact design and high rate of fire, the MP5/10A2 is ideal for close-quarters combat, offering a balance between stopping power and controllability. Perfect for those who need a reliable weapon in cramped conditions.</Gun_MP5-10A2_RWP.description>
   <!-- EN: stock -->
   <Gun_MP5-10A2_RWP.tools.stock.label>stock</Gun_MP5-10A2_RWP.tools.stock.label>
   <!-- EN: barrel -->

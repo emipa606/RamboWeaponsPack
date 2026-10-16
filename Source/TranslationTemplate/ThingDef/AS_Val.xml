@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: AS Val -->
   <Gun_AS_Val_RWP.label>AS Val</Gun_AS_Val_RWP.label>
-  <!-- EN: . -->
-  <Gun_AS_Val_RWP.description>.</Gun_AS_Val_RWP.description>
+  <!-- EN: The AS Val is a specialized, silent assault rifle designed for stealth operations. Featuring an integrated suppressor, it is perfect for covert engagements and guerrilla tactics. Its high rate of fire and armor-piercing capabilities make it a formidable weapon in skilled hands. -->
+  <Gun_AS_Val_RWP.description>The AS Val is a specialized, silent assault rifle designed for stealth operations. Featuring an integrated suppressor, it is perfect for covert engagements and guerrilla tactics. Its high rate of fire and armor-piercing capabilities make it a formidable weapon in skilled hands.</Gun_AS_Val_RWP.description>
   <!-- EN: stock -->
   <Gun_AS_Val_RWP.tools.stock.label>stock</Gun_AS_Val_RWP.tools.stock.label>
   <!-- EN: barrel -->

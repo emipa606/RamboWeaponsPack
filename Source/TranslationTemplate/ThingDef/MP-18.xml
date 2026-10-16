@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: MP-18 -->
   <Gun_MP-18_RWP.label>MP-18</Gun_MP-18_RWP.label>
-  <!-- EN: . -->
-  <Gun_MP-18_RWP.description>.</Gun_MP-18_RWP.description>
+  <!-- EN: The MP-18 is an automatic SMG known for its historical significance as one of the first submachine guns used in combat. Designed for close quarters, it offers a rapid rate of fire and moderate accuracy, making it effective for quick skirmishes. While it may lack the power of larger firearms, its lightweight build allows for increased mobility on the battlefield. -->
+  <Gun_MP-18_RWP.description>The MP-18 is an automatic SMG known for its historical significance as one of the first submachine guns used in combat. Designed for close quarters, it offers a rapid rate of fire and moderate accuracy, making it effective for quick skirmishes. While it may lack the power of larger firearms, its lightweight build allows for increased mobility on the battlefield.</Gun_MP-18_RWP.description>
   <!-- EN: grip -->
   <Gun_MP-18_RWP.tools.grip.label>grip</Gun_MP-18_RWP.tools.grip.label>
   <!-- EN: barrel -->

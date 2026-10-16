@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: Galil AR 5.56mm -->
   <Gun_Galil_AR_556mm_RWP.label>Galil AR 5.56mm</Gun_Galil_AR_556mm_RWP.label>
-  <!-- EN: . -->
-  <Gun_Galil_AR_556mm_RWP.description>.</Gun_Galil_AR_556mm_RWP.description>
+  <!-- EN: The Galil AR 5.56mm is a reliable assault rifle known for its versatility and durability. Featuring a balanced rate of fire and moderate recoil, it is effective in medium-range combat, offering a good mix of accuracy and stopping power. Built to withstand tough conditions, the Galil AR is a dependable choice for any colonist looking to maintain consistent performance on the battlefield. -->
+  <Gun_Galil_AR_556mm_RWP.description>The Galil AR 5.56mm is a reliable assault rifle known for its versatility and durability. Featuring a balanced rate of fire and moderate recoil, it is effective in medium-range combat, offering a good mix of accuracy and stopping power. Built to withstand tough conditions, the Galil AR is a dependable choice for any colonist looking to maintain consistent performance on the battlefield.</Gun_Galil_AR_556mm_RWP.description>
   <!-- EN: stock -->
   <Gun_Galil_AR_556mm_RWP.tools.stock.label>stock</Gun_Galil_AR_556mm_RWP.tools.stock.label>
   <!-- EN: barrel -->

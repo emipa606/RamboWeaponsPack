@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: SCAR-H CQC -->
   <Gun_SCAR-H_CQC_RWP.label>SCAR-H CQC</Gun_SCAR-H_CQC_RWP.label>
-  <!-- EN: . -->
-  <Gun_SCAR-H_CQC_RWP.description>.</Gun_SCAR-H_CQC_RWP.description>
+  <!-- EN: The SCAR-H CQC is a versatile assault rifle with superior stopping power and range. Designed for close-quarters combat, it offers exceptional accuracy and rapid firing capability, making it ideal for tactical engagements. Built with durable materials, it withstands harsh conditions while delivering high damage, making it a formidable choice for any combatant seeking reliability and effectiveness on the battlefield. -->
+  <Gun_SCAR-H_CQC_RWP.description>The SCAR-H CQC is a versatile assault rifle with superior stopping power and range. Designed for close-quarters combat, it offers exceptional accuracy and rapid firing capability, making it ideal for tactical engagements. Built with durable materials, it withstands harsh conditions while delivering high damage, making it a formidable choice for any combatant seeking reliability and effectiveness on the battlefield.</Gun_SCAR-H_CQC_RWP.description>
   <!-- EN: stock -->
   <Gun_SCAR-H_CQC_RWP.tools.stock.label>stock</Gun_SCAR-H_CQC_RWP.tools.stock.label>
   <!-- EN: barrel -->

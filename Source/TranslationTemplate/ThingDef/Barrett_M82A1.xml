@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: Barrett M82A1 -->
   <Gun_Barret_M82A1_RWP.label>Barrett M82A1</Gun_Barret_M82A1_RWP.label>
-  <!-- EN: . -->
-  <Gun_Barret_M82A1_RWP.description>.</Gun_Barret_M82A1_RWP.description>
+  <!-- EN: The Barrett M82A1 is a powerful, long-range anti-materiel sniper rifle. Designed for heavy-duty targets, its large caliber rounds can penetrate armored enemies and damage critical components. With its high stopping power and remarkable precision, it's ideally suited for engaging distant threats on the battlefield. -->
+  <Gun_Barret_M82A1_RWP.description>The Barrett M82A1 is a powerful, long-range anti-materiel sniper rifle. Designed for heavy-duty targets, its large caliber rounds can penetrate armored enemies and damage critical components. With its high stopping power and remarkable precision, it's ideally suited for engaging distant threats on the battlefield.</Gun_Barret_M82A1_RWP.description>
   <!-- EN: stock -->
   <Gun_Barret_M82A1_RWP.tools.stock.label>stock</Gun_Barret_M82A1_RWP.tools.stock.label>
   <!-- EN: barrel -->

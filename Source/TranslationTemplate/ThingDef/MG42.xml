@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: MG42 -->
   <Gun_MG42_RWP.label>MG42</Gun_MG42_RWP.label>
-  <!-- EN: . -->
-  <Gun_MG42_RWP.description>.</Gun_MG42_RWP.description>
+  <!-- EN: The MG42 is a high-capacity machine gun designed for rapid suppression fire. Renowned for its blistering rate of fire and reliability, it excels in sustained engagements but demands careful handling due to its weight and recoil. Ideal for defending fortifications or cutting down advancing foes, this weapon can dramatically shift the tide of battle with its sheer volume of fire. Suitable for colonists with good shooting skills to maintain control over its formidable output. -->
+  <Gun_MG42_RWP.description>The MG42 is a high-capacity machine gun designed for rapid suppression fire. Renowned for its blistering rate of fire and reliability, it excels in sustained engagements but demands careful handling due to its weight and recoil. Ideal for defending fortifications or cutting down advancing foes, this weapon can dramatically shift the tide of battle with its sheer volume of fire. Suitable for colonists with good shooting skills to maintain control over its formidable output.</Gun_MG42_RWP.description>
   <!-- EN: stock -->
   <Gun_MG42_RWP.tools.stock.label>stock</Gun_MG42_RWP.tools.stock.label>
   <!-- EN: barrel -->

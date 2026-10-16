@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: SA vz. 58 V -->
   <Gun_SA_vz58V_RWP.label>SA vz. 58 V</Gun_SA_vz58V_RWP.label>
-  <!-- EN: . -->
-  <Gun_SA_vz58V_RWP.description>.</Gun_SA_vz58V_RWP.description>
+  <!-- EN: The SA vz. 58 V is a Czech-made selective fire carbine known for its reliability and robustness. Chambered in 7.62×39mm, it features a distinct design with a gas-operated action and a short-stroke piston. While it bears a superficial resemblance to the AK-47, its internal mechanics set it apart. Ideal for medium-range engagements, it offers a balanced mix of firepower and accuracy, making it a versatile choice for skilled operators. -->
+  <Gun_SA_vz58V_RWP.description>The SA vz. 58 V is a Czech-made selective fire carbine known for its reliability and robustness. Chambered in 7.62×39mm, it features a distinct design with a gas-operated action and a short-stroke piston. While it bears a superficial resemblance to the AK-47, its internal mechanics set it apart. Ideal for medium-range engagements, it offers a balanced mix of firepower and accuracy, making it a versatile choice for skilled operators.</Gun_SA_vz58V_RWP.description>
   <!-- EN: grip -->
   <Gun_SA_vz58V_RWP.tools.grip.label>grip</Gun_SA_vz58V_RWP.tools.grip.label>
   <!-- EN: barrel -->

@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: Galil MAR 5.56mm -->
   <Gun_Galil_MAR_556mm_RWP.label>Galil MAR 5.56mm</Gun_Galil_MAR_556mm_RWP.label>
-  <!-- EN: . -->
-  <Gun_Galil_MAR_556mm_RWP.description>.</Gun_Galil_MAR_556mm_RWP.description>
+  <!-- EN: The Galil MAR 5.56mm is a compact, carbine variant of the Galil rifle renowned for its reliability and high rate of fire. Ideal for rapid engagements and close-quarters combat, it delivers precise shots with moderate recoil and offers a balance between stopping power and maneuverability in the field. Perfect for colonists who need a versatile and trusty firearm at their side. -->
+  <Gun_Galil_MAR_556mm_RWP.description>The Galil MAR 5.56mm is a compact, carbine variant of the Galil rifle renowned for its reliability and high rate of fire. Ideal for rapid engagements and close-quarters combat, it delivers precise shots with moderate recoil and offers a balance between stopping power and maneuverability in the field. Perfect for colonists who need a versatile and trusty firearm at their side.</Gun_Galil_MAR_556mm_RWP.description>
   <!-- EN: stock -->
   <Gun_Galil_MAR_556mm_RWP.tools.stock.label>stock</Gun_Galil_MAR_556mm_RWP.tools.stock.label>
   <!-- EN: barrel -->

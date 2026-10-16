@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: SVD -->
   <Gun_SVD_RWP.label>SVD</Gun_SVD_RWP.label>
-  <!-- EN: . -->
-  <Gun_SVD_RWP.description>.</Gun_SVD_RWP.description>
+  <!-- EN: The SVD is a semi-automatic sniper rifle known for its precision and reliability. Equipped with a telescopic sight, it offers impressive accuracy over long distances. Designed to engage targets with pinpoint precision, the SVD is a formidable choice for any marksman seeking to neutralize threats before they close in. -->
+  <Gun_SVD_RWP.description>The SVD is a semi-automatic sniper rifle known for its precision and reliability. Equipped with a telescopic sight, it offers impressive accuracy over long distances. Designed to engage targets with pinpoint precision, the SVD is a formidable choice for any marksman seeking to neutralize threats before they close in.</Gun_SVD_RWP.description>
   <!-- EN: stock -->
   <Gun_SVD_RWP.tools.stock.label>stock</Gun_SVD_RWP.tools.stock.label>
   <!-- EN: barrel -->

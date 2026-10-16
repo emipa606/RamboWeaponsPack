@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: MKb.42(H) -->
   <Gun_MKb42_H_RWP.label>MKb.42(H)</Gun_MKb42_H_RWP.label>
-  <!-- EN: . -->
-  <Gun_MKb42_H_RWP.description>.</Gun_MKb42_H_RWP.description>
+  <!-- EN: The MKb.42(H) is a mid-range firearm designed for versatility in combat situations. Offering a balance between accuracy and firepower, it is ideal for engagements where flexibility is key. Its semi-automatic fire mode allows for controlled shots, while its historical design gives a nod to early assault rifle prototypes. Perfect for colonists with moderate shooting skills looking to increase their effectiveness on the battlefield. -->
+  <Gun_MKb42_H_RWP.description>The MKb.42(H) is a mid-range firearm designed for versatility in combat situations. Offering a balance between accuracy and firepower, it is ideal for engagements where flexibility is key. Its semi-automatic fire mode allows for controlled shots, while its historical design gives a nod to early assault rifle prototypes. Perfect for colonists with moderate shooting skills looking to increase their effectiveness on the battlefield.</Gun_MKb42_H_RWP.description>
   <!-- EN: stock -->
   <Gun_MKb42_H_RWP.tools.stock.label>stock</Gun_MKb42_H_RWP.tools.stock.label>
   <!-- EN: barrel -->

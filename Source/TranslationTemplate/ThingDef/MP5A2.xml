@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: MP5A2 -->
   <Gun_MP5A2_RWP.label>MP5A2</Gun_MP5A2_RWP.label>
-  <!-- EN: . -->
-  <Gun_MP5A2_RWP.description>.</Gun_MP5A2_RWP.description>
+  <!-- EN: The MP5A2 is a compact and reliable submachine gun renowned for its accuracy and rate of fire. Ideal for close to medium-range engagements, it delivers a consistent stream of fire with manageable recoil. The A2 variant features a fixed stock, enhancing stability for marksmen. Despite its age, this weapon remains a popular choice for those requiring a balance between firepower and precision. -->
+  <Gun_MP5A2_RWP.description>The MP5A2 is a compact and reliable submachine gun renowned for its accuracy and rate of fire. Ideal for close to medium-range engagements, it delivers a consistent stream of fire with manageable recoil. The A2 variant features a fixed stock, enhancing stability for marksmen. Despite its age, this weapon remains a popular choice for those requiring a balance between firepower and precision.</Gun_MP5A2_RWP.description>
   <!-- EN: stock -->
   <Gun_MP5A2_RWP.tools.stock.label>stock</Gun_MP5A2_RWP.tools.stock.label>
   <!-- EN: barrel -->

@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: RPKS-74 -->
   <Gun_RPKS-74_RWP.label>RPKS-74</Gun_RPKS-74_RWP.label>
-  <!-- EN: . -->
-  <Gun_RPKS-74_RWP.description>.</Gun_RPKS-74_RWP.description>
+  <!-- EN: The RPKS-74 is a robust and reliable light machine gun, designed for sustained fire. Equipped with a folding stock for better maneuverability, it sacrifices some accuracy for a higher rate of fire and a larger magazine capacity, making it ideal for suppressive roles in combat situations. Suitable for both offensive and defensive tactics, this weapon is trusted by those needing consistent performance in prolonged engagements. -->
+  <Gun_RPKS-74_RWP.description>The RPKS-74 is a robust and reliable light machine gun, designed for sustained fire. Equipped with a folding stock for better maneuverability, it sacrifices some accuracy for a higher rate of fire and a larger magazine capacity, making it ideal for suppressive roles in combat situations. Suitable for both offensive and defensive tactics, this weapon is trusted by those needing consistent performance in prolonged engagements.</Gun_RPKS-74_RWP.description>
   <!-- EN: stock -->
   <Gun_RPKS-74_RWP.tools.stock.label>stock</Gun_RPKS-74_RWP.tools.stock.label>
   <!-- EN: barrel -->

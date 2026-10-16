@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: L85A1 -->
   <Gun_L85A1_RWP.label>L85A1</Gun_L85A1_RWP.label>
-  <!-- EN: . -->
-  <Gun_L85A1_RWP.description>.</Gun_L85A1_RWP.description>
+  <!-- EN: The L85A1 is an automatic rifle known for its bullpup design, providing a compact form with a full-length barrel. It offers a moderate rate of fire and good accuracy, making it effective for medium-range combat. However, its maintenance can be demanding and reliability issues may arise under harsh conditions. Ideal for colonists who need a balance of firepower and precision. -->
+  <Gun_L85A1_RWP.description>The L85A1 is an automatic rifle known for its bullpup design, providing a compact form with a full-length barrel. It offers a moderate rate of fire and good accuracy, making it effective for medium-range combat. However, its maintenance can be demanding and reliability issues may arise under harsh conditions. Ideal for colonists who need a balance of firepower and precision.</Gun_L85A1_RWP.description>
   <!-- EN: stock -->
   <Gun_L85A1_RWP.tools.stock.label>stock</Gun_L85A1_RWP.tools.stock.label>
   <!-- EN: barrel -->

@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: MP7 -->
   <Gun_MP7_RWP.label>MP7</Gun_MP7_RWP.label>
-  <!-- EN: . -->
-  <Gun_MP7_RWP.description>.</Gun_MP7_RWP.description>
+  <!-- EN: The MP7 is a compact, lightweight submachine gun designed for close-quarters combat. It offers a high rate of fire with low recoil, making it ideal for short-distance engagements. This weapon's rapid rate of discharge can overwhelm unarmored targets quickly, but its short range limits its effectiveness against distant foes. -->
+  <Gun_MP7_RWP.description>The MP7 is a compact, lightweight submachine gun designed for close-quarters combat. It offers a high rate of fire with low recoil, making it ideal for short-distance engagements. This weapon's rapid rate of discharge can overwhelm unarmored targets quickly, but its short range limits its effectiveness against distant foes.</Gun_MP7_RWP.description>
   <!-- EN: grip -->
   <Gun_MP7_RWP.tools.grip.label>grip</Gun_MP7_RWP.tools.grip.label>
   <!-- EN: barrel -->

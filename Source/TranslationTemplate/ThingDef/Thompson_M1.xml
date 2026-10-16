@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: Thompson M1 -->
   <Gun_Thompson_M1_RWP.label>Thompson M1</Gun_Thompson_M1_RWP.label>
-  <!-- EN: . -->
-  <Gun_Thompson_M1_RWP.description>.</Gun_Thompson_M1_RWP.description>
+  <!-- EN: A classic submachine gun known for its reliability and iconic design, the Thompson M1 fires .45 caliber rounds with a high rate of fire. While it excels in close-quarters combat with its rapid burst capability, its effective range is limited. A solid choice for any colonist looking to lay down suppressive fire or engage foes at short range. -->
+  <Gun_Thompson_M1_RWP.description>A classic submachine gun known for its reliability and iconic design, the Thompson M1 fires .45 caliber rounds with a high rate of fire. While it excels in close-quarters combat with its rapid burst capability, its effective range is limited. A solid choice for any colonist looking to lay down suppressive fire or engage foes at short range.</Gun_Thompson_M1_RWP.description>
   <!-- EN: stock -->
   <Gun_Thompson_M1_RWP.tools.stock.label>stock</Gun_Thompson_M1_RWP.tools.stock.label>
   <!-- EN: barrel -->

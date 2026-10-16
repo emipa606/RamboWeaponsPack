@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: Skorpion vz.61 -->
   <Gun_Skorpion_SA_Vz61_RWP.label>Skorpion vz.61</Gun_Skorpion_SA_Vz61_RWP.label>
-  <!-- EN: . -->
-  <Gun_Skorpion_SA_Vz61_RWP.description>.</Gun_Skorpion_SA_Vz61_RWP.description>
+  <!-- EN: The Skorpion vz.61 is a compact automatic weapon known for its versatility and ease of use. Originally designed for use by military and security forces, it combines elements of a submachine gun and a machine pistol, making it an effective choice for close-quarters combat. Its balanced design offers a moderate firing rate and manageable recoil, suitable for pawns needing a lightweight yet powerful firearm. -->
+  <Gun_Skorpion_SA_Vz61_RWP.description>The Skorpion vz.61 is a compact automatic weapon known for its versatility and ease of use. Originally designed for use by military and security forces, it combines elements of a submachine gun and a machine pistol, making it an effective choice for close-quarters combat. Its balanced design offers a moderate firing rate and manageable recoil, suitable for pawns needing a lightweight yet powerful firearm.</Gun_Skorpion_SA_Vz61_RWP.description>
   <!-- EN: grip -->
   <Gun_Skorpion_SA_Vz61_RWP.tools.grip.label>grip</Gun_Skorpion_SA_Vz61_RWP.tools.grip.label>
   <!-- EN: barrel -->

@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: AVT-40 -->
   <Gun_AVT-40_RWP.label>AVT-40</Gun_AVT-40_RWP.label>
-  <!-- EN: . -->
-  <Gun_AVT-40_RWP.description>.</Gun_AVT-40_RWP.description>
+  <!-- EN: The AVT-40 is a semi-automatic rifle known for its long range and high damage output. Originally designed as a versatile combat weapon, it offers colonists a reliable option for engaging enemies at a distance. While it boasts a slower firing rate compared to other firearms, each shot delivers substantial stopping power, making it suitable for skilled sharpshooters. The AVT-40 is prized for its effectiveness in open combat scenarios, though its bulk and recoil may pose a challenge in close quarters or rapid engagements. -->
+  <Gun_AVT-40_RWP.description>The AVT-40 is a semi-automatic rifle known for its long range and high damage output. Originally designed as a versatile combat weapon, it offers colonists a reliable option for engaging enemies at a distance. While it boasts a slower firing rate compared to other firearms, each shot delivers substantial stopping power, making it suitable for skilled sharpshooters. The AVT-40 is prized for its effectiveness in open combat scenarios, though its bulk and recoil may pose a challenge in close quarters or rapid engagements.</Gun_AVT-40_RWP.description>
   <!-- EN: stock -->
   <Gun_AVT-40_RWP.tools.stock.label>stock</Gun_AVT-40_RWP.tools.stock.label>
   <!-- EN: barrel -->

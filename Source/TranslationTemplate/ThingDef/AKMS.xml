@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: AKMS -->
   <Gun_AKMS_RWP.label>AKMS</Gun_AKMS_RWP.label>
-  <!-- EN: . -->
-  <Gun_AKMS_RWP.description>.</Gun_AKMS_RWP.description>
+  <!-- EN: The AKMS is a robust and reliable assault rifle, known for its durability and ease of use. It features a folding metal stock, making it more compact and versatile in various combat scenarios. With a good rate of fire and moderate damage, the AKMS is well-suited for mid-range engagements, offering a balanced performance for any colony's defense needs. -->
+  <Gun_AKMS_RWP.description>The AKMS is a robust and reliable assault rifle, known for its durability and ease of use. It features a folding metal stock, making it more compact and versatile in various combat scenarios. With a good rate of fire and moderate damage, the AKMS is well-suited for mid-range engagements, offering a balanced performance for any colony's defense needs.</Gun_AKMS_RWP.description>
   <!-- EN: grip -->
   <Gun_AKMS_RWP.tools.grip.label>grip</Gun_AKMS_RWP.tools.grip.label>
   <!-- EN: barrel -->

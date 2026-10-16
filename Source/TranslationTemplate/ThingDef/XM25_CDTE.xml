@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: XM25 CDTE -->
   <Gun_XM25_CDTE_RWP.label>XM25 CDTE</Gun_XM25_CDTE_RWP.label>
-  <!-- EN: . -->
-  <Gun_XM25_CDTE_RWP.description>.</Gun_XM25_CDTE_RWP.description>
+  <!-- EN: The XM25 CDTE is a semi-automatic airburst grenade launcher designed for pinpoint accuracy at range. It fires 25mm smart grenades that detonate midair above targets, making it effective against entrenched enemies and groups. Requires careful handling and skill to operate, but its destructive potential is unmatched in versatile battlefield scenarios. -->
+  <Gun_XM25_CDTE_RWP.description>The XM25 CDTE is a semi-automatic airburst grenade launcher designed for pinpoint accuracy at range. It fires 25mm smart grenades that detonate midair above targets, making it effective against entrenched enemies and groups. Requires careful handling and skill to operate, but its destructive potential is unmatched in versatile battlefield scenarios.</Gun_XM25_CDTE_RWP.description>
   <!-- EN: stock -->
   <Gun_XM25_CDTE_RWP.tools.stock.label>stock</Gun_XM25_CDTE_RWP.tools.stock.label>
   <!-- EN: barrel -->

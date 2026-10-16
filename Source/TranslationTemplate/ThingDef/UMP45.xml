@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: UMP45 -->
   <Gun_Thompson_UMP45_RWP.label>UMP45</Gun_Thompson_UMP45_RWP.label>
-  <!-- EN: . -->
-  <Gun_Thompson_UMP45_RWP.description>.</Gun_Thompson_UMP45_RWP.description>
+  <!-- EN: The UMP45 is a compact and reliable submachine gun known for its high stopping power and moderate range. It fires .45 ACP rounds, making it effective in close-quarters combat where accuracy and velocity can dictate survival. Its lightweight design ensures quick maneuverability, ideal for tactical assaults and defensive scenarios. -->
+  <Gun_Thompson_UMP45_RWP.description>The UMP45 is a compact and reliable submachine gun known for its high stopping power and moderate range. It fires .45 ACP rounds, making it effective in close-quarters combat where accuracy and velocity can dictate survival. Its lightweight design ensures quick maneuverability, ideal for tactical assaults and defensive scenarios.</Gun_Thompson_UMP45_RWP.description>
   <!-- EN: stock -->
   <Gun_Thompson_UMP45_RWP.tools.stock.label>stock</Gun_Thompson_UMP45_RWP.tools.stock.label>
   <!-- EN: barrel -->

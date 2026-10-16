@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: Mle 1886 M93 -->
   <Gun_Mle_1886_RWP.label>Mle 1886 M93</Gun_Mle_1886_RWP.label>
-  <!-- EN: . -->
-  <Gun_Mle_1886_RWP.description>.</Gun_Mle_1886_RWP.description>
+  <!-- EN: The Mle 1886 M93, a bolt-action rifle renowned for its historical significance, offers formidable stopping power with its long-range capabilities. An enduring symbol of late 19th-century military innovation, this firearm is prized for its accuracy, though it sacrifices firing speed for precision. Ideal for marksmen who prioritize distance and impact over rapid fire. -->
+  <Gun_Mle_1886_RWP.description>The Mle 1886 M93, a bolt-action rifle renowned for its historical significance, offers formidable stopping power with its long-range capabilities. An enduring symbol of late 19th-century military innovation, this firearm is prized for its accuracy, though it sacrifices firing speed for precision. Ideal for marksmen who prioritize distance and impact over rapid fire.</Gun_Mle_1886_RWP.description>
   <!-- EN: stock -->
   <Gun_Mle_1886_RWP.tools.stock.label>stock</Gun_Mle_1886_RWP.tools.stock.label>
   <!-- EN: barrel -->

@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: M1 Garand -->
   <Gun_M1_Garand_RWP.label>M1 Garand</Gun_M1_Garand_RWP.label>
-  <!-- EN: . -->
-  <Gun_M1_Garand_RWP.description>.</Gun_M1_Garand_RWP.description>
+  <!-- EN: The M1 Garand is a semi-automatic battle rifle, renowned for its reliability and accuracy. It fires .30-06 Springfield cartridges and is equipped with an 8-round en bloc clip. Ideal for medium-range engagements, it offers a balanced mix of stopping power and firing speed. -->
+  <Gun_M1_Garand_RWP.description>The M1 Garand is a semi-automatic battle rifle, renowned for its reliability and accuracy. It fires .30-06 Springfield cartridges and is equipped with an 8-round en bloc clip. Ideal for medium-range engagements, it offers a balanced mix of stopping power and firing speed.</Gun_M1_Garand_RWP.description>
   <!-- EN: stock -->
   <Gun_M1_Garand_RWP.tools.stock.label>stock</Gun_M1_Garand_RWP.tools.stock.label>
   <!-- EN: barrel -->

@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: C1A1 SLR -->
   <Gun_C1A1_SLR_RWP.label>C1A1 SLR</Gun_C1A1_SLR_RWP.label>
-  <!-- EN: . -->
-  <Gun_C1A1_SLR_RWP.description>.</Gun_C1A1_SLR_RWP.description>
+  <!-- EN: The C1A1 SLR is a robust and reliable battle rifle developed for harsh environments. Known for its long-range accuracy and stopping power, this semi-automatic firearm fires 7.62x51mm NATO rounds. A favored choice for defenders seeking a balance between fire rate, damage, and precision. -->
+  <Gun_C1A1_SLR_RWP.description>The C1A1 SLR is a robust and reliable battle rifle developed for harsh environments. Known for its long-range accuracy and stopping power, this semi-automatic firearm fires 7.62x51mm NATO rounds. A favored choice for defenders seeking a balance between fire rate, damage, and precision.</Gun_C1A1_SLR_RWP.description>
   <!-- EN: stock -->
   <Gun_C1A1_SLR_RWP.tools.stock.label>stock</Gun_C1A1_SLR_RWP.tools.stock.label>
   <!-- EN: barrel -->

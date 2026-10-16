@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: PPSh-41 (Drum) -->
   <Gun_PPSh-41d_RWP.label>PPSh-41 (Drum)</Gun_PPSh-41d_RWP.label>
-  <!-- EN: . -->
-  <Gun_PPSh-41d_RWP.description>.</Gun_PPSh-41d_RWP.description>
+  <!-- EN: The PPSh-41 (Drum) is a rapid-firing submachine gun renowned for its high rate of fire and durability. Equipped with a large drum magazine, it excels in close-quarters combat, allowing the wielder to unleash a barrage of bullets quickly. Perfect for overwhelming enemies with sheer volume of fire, but its accuracy decreases significantly over longer distances. -->
+  <Gun_PPSh-41d_RWP.description>The PPSh-41 (Drum) is a rapid-firing submachine gun renowned for its high rate of fire and durability. Equipped with a large drum magazine, it excels in close-quarters combat, allowing the wielder to unleash a barrage of bullets quickly. Perfect for overwhelming enemies with sheer volume of fire, but its accuracy decreases significantly over longer distances.</Gun_PPSh-41d_RWP.description>
   <!-- EN: stock -->
   <Gun_PPSh-41d_RWP.tools.stock.label>stock</Gun_PPSh-41d_RWP.tools.stock.label>
   <!-- EN: barrel -->

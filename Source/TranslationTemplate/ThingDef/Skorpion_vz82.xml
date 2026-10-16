@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: Skorpion vz.82 -->
   <Gun_Skorpion_SA_Vz82_RWP.label>Skorpion vz.82</Gun_Skorpion_SA_Vz82_RWP.label>
-  <!-- EN: . -->
-  <Gun_Skorpion_SA_Vz82_RWP.description>.</Gun_Skorpion_SA_Vz82_RWP.description>
+  <!-- EN: The Skorpion vz.82 is a compact automatic firearm known for its versatility and ease of handling. Designed with a retractable wire stock, it's ideal for close-quarters combat, offering burst fire capabilities to quickly suppress threats. Despite its small size, it delivers a reliable rate of fire with improved accuracy, making it a favorite for both sidearm roles and primary self-defense. -->
+  <Gun_Skorpion_SA_Vz82_RWP.description>The Skorpion vz.82 is a compact automatic firearm known for its versatility and ease of handling. Designed with a retractable wire stock, it's ideal for close-quarters combat, offering burst fire capabilities to quickly suppress threats. Despite its small size, it delivers a reliable rate of fire with improved accuracy, making it a favorite for both sidearm roles and primary self-defense.</Gun_Skorpion_SA_Vz82_RWP.description>
   <!-- EN: grip -->
   <Gun_Skorpion_SA_Vz82_RWP.tools.grip.label>grip</Gun_Skorpion_SA_Vz82_RWP.tools.grip.label>
   <!-- EN: barrel -->

@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: MAT-49 9x19mm -->
   <Gun_MAT-49_9x19mm_RWP.label>MAT-49 9x19mm</Gun_MAT-49_9x19mm_RWP.label>
-  <!-- EN: . -->
-  <Gun_MAT-49_9x19mm_RWP.description>.</Gun_MAT-49_9x19mm_RWP.description>
+  <!-- EN: The MAT-49 is a compact submachine gun chambered in 9x19mm. Developed for use by the French army, it offers a decent rate of fire and reliability in close to mid-range encounters. With its folding stock and simple blowback design, the MAT-49 excels in urban battles and tight spaces, providing a balance of accuracy, mobility, and stopping power. -->
+  <Gun_MAT-49_9x19mm_RWP.description>The MAT-49 is a compact submachine gun chambered in 9x19mm. Developed for use by the French army, it offers a decent rate of fire and reliability in close to mid-range encounters. With its folding stock and simple blowback design, the MAT-49 excels in urban battles and tight spaces, providing a balance of accuracy, mobility, and stopping power.</Gun_MAT-49_9x19mm_RWP.description>
   <!-- EN: grip -->
   <Gun_MAT-49_9x19mm_RWP.tools.grip.label>grip</Gun_MAT-49_9x19mm_RWP.tools.grip.label>
   <!-- EN: barrel -->

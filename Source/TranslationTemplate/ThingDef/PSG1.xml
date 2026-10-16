@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: PSG1 -->
   <Gun_PSG1_RWP.label>PSG1</Gun_PSG1_RWP.label>
-  <!-- EN: . -->
-  <Gun_PSG1_RWP.description>.</Gun_PSG1_RWP.description>
+  <!-- EN: The PSG1 is a semi-automatic sniper rifle renowned for its precision and reliability. Originally designed for law enforcement, it features a high-power scope and an ergonomic design, making it highly effective for long-range engagements. Perfect for skilled marksmen looking to take down targets from a distance with superior accuracy. -->
+  <Gun_PSG1_RWP.description>The PSG1 is a semi-automatic sniper rifle renowned for its precision and reliability. Originally designed for law enforcement, it features a high-power scope and an ergonomic design, making it highly effective for long-range engagements. Perfect for skilled marksmen looking to take down targets from a distance with superior accuracy.</Gun_PSG1_RWP.description>
   <!-- EN: stock -->
   <Gun_PSG1_RWP.tools.stock.label>stock</Gun_PSG1_RWP.tools.stock.label>
   <!-- EN: barrel -->

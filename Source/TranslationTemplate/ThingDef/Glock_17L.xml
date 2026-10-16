@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: Glock 17L -->
   <Gun_Glock_17L_RWP.label>Glock 17L</Gun_Glock_17L_RWP.label>
-  <!-- EN: . -->
-  <Gun_Glock_17L_RWP.description>.</Gun_Glock_17L_RWP.description>
+  <!-- EN: "The Glock 17L is a long-barreled variant of the popular Glock 17 pistol. Renowned for its accuracy and reliability, this semi-automatic handgun excels in medium-range engagements. Its extended barrel offers improved ballistic performance, making it a favored choice for marksmen requiring superior precision in a compact package. Though it lacks the stopping power of larger firearms, its rapid rate of fire and manageable recoil make it a versatile sidearm in any colony's arsenal." -->
+  <Gun_Glock_17L_RWP.description>"The Glock 17L is a long-barreled variant of the popular Glock 17 pistol. Renowned for its accuracy and reliability, this semi-automatic handgun excels in medium-range engagements. Its extended barrel offers improved ballistic performance, making it a favored choice for marksmen requiring superior precision in a compact package. Though it lacks the stopping power of larger firearms, its rapid rate of fire and manageable recoil make it a versatile sidearm in any colony's arsenal."</Gun_Glock_17L_RWP.description>
   <!-- EN: grip -->
   <Gun_Glock_17L_RWP.tools.grip.label>grip</Gun_Glock_17L_RWP.tools.grip.label>
   <!-- EN: barrel -->

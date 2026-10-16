@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: AK-103 -->
   <Gun_AK-103_RWP.label>AK-103</Gun_AK-103_RWP.label>
-  <!-- EN: . -->
-  <Gun_AK-103_RWP.description>.</Gun_AK-103_RWP.description>
+  <!-- EN: The AK-103 is a modern assault rifle known for its reliability and versatility. It fires 7.62x39mm rounds, offering greater stopping power compared to smaller calibers. Ideal for mid to long-range combat, the AK-103 is a robust choice for any colony's defense arsenal. -->
+  <Gun_AK-103_RWP.description>The AK-103 is a modern assault rifle known for its reliability and versatility. It fires 7.62x39mm rounds, offering greater stopping power compared to smaller calibers. Ideal for mid to long-range combat, the AK-103 is a robust choice for any colony's defense arsenal.</Gun_AK-103_RWP.description>
   <!-- EN: stock -->
   <Gun_AK-103_RWP.tools.stock.label>stock</Gun_AK-103_RWP.tools.stock.label>
   <!-- EN: barrel -->

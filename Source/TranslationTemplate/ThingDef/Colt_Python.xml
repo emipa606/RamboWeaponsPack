@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: Colt Python -->
   <Gun_Colt_Python_RWP.label>Colt Python</Gun_Colt_Python_RWP.label>
-  <!-- EN: . -->
-  <Gun_Colt_Python_RWP.description>.</Gun_Colt_Python_RWP.description>
+  <!-- EN: The Colt Python is a high-powered revolver known for its precision and stopping power. With a solid frame and smooth double-action, it delivers lethal shots even at moderate range. The Colt Python is a prized possession for marksmen seeking reliability and classic craftsmanship. -->
+  <Gun_Colt_Python_RWP.description>The Colt Python is a high-powered revolver known for its precision and stopping power. With a solid frame and smooth double-action, it delivers lethal shots even at moderate range. The Colt Python is a prized possession for marksmen seeking reliability and classic craftsmanship.</Gun_Colt_Python_RWP.description>
   <!-- EN: grip -->
   <Gun_Colt_Python_RWP.tools.grip.label>grip</Gun_Colt_Python_RWP.tools.grip.label>
   <!-- EN: barrel -->

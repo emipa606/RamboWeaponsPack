@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: Walther PP -->
   <Gun_PP_RWP.label>Walther PP</Gun_PP_RWP.label>
-  <!-- EN: . -->
-  <Gun_PP_RWP.description>.</Gun_PP_RWP.description>
+  <!-- EN: The Walther PP is a compact semi-automatic pistol known for its reliability and classic design. It offers moderate stopping power and is favored for its balance between size and performance, making it ideal for personal defense scenarios. Suitable for colonists who prioritize portability without sacrificing firepower. -->
+  <Gun_PP_RWP.description>The Walther PP is a compact semi-automatic pistol known for its reliability and classic design. It offers moderate stopping power and is favored for its balance between size and performance, making it ideal for personal defense scenarios. Suitable for colonists who prioritize portability without sacrificing firepower.</Gun_PP_RWP.description>
   <!-- EN: grip -->
   <Gun_PP_RWP.tools.grip.label>grip</Gun_PP_RWP.tools.grip.label>
   <!-- EN: barrel -->

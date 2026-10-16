@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: SP89 -->
   <Gun_SP89_RWP.label>SP89</Gun_SP89_RWP.label>
-  <!-- EN: . -->
-  <Gun_SP89_RWP.description>.</Gun_SP89_RWP.description>
+  <!-- EN: The SP89 is a compact, easy-to-handle submachine gun, optimized for close-quarters combat. It features a high rate of fire and moderate damage output, making it ideal for skirmishes and room-clearing operations. Its lightweight design allows for excellent maneuverability, but it sacrifices range and accuracy for rapid, close-range engagement. Ideal for those who need to strike fast and retreat quickly. -->
+  <Gun_SP89_RWP.description>The SP89 is a compact, easy-to-handle submachine gun, optimized for close-quarters combat. It features a high rate of fire and moderate damage output, making it ideal for skirmishes and room-clearing operations. Its lightweight design allows for excellent maneuverability, but it sacrifices range and accuracy for rapid, close-range engagement. Ideal for those who need to strike fast and retreat quickly.</Gun_SP89_RWP.description>
   <!-- EN: grip -->
   <Gun_SP89_RWP.tools.grip.label>grip</Gun_SP89_RWP.tools.grip.label>
   <!-- EN: barrel -->

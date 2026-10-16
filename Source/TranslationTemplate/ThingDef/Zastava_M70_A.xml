@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: Zastava M70 A -->
   <Gun_Zastava_M70A_RWP.label>Zastava M70 A</Gun_Zastava_M70A_RWP.label>
-  <!-- EN: . -->
-  <Gun_Zastava_M70A_RWP.description>.</Gun_Zastava_M70A_RWP.description>
+  <!-- EN: The Zastava M70 A is a rugged, semi-automatic pistol originating from Eastern Europe. Known for its durability and reliability, it boasts a 9mm caliber, offering a solid balance between stopping power and control. Its simple design ensures ease of use and maintenance, making it a trusty sidearm for any colonist. -->
+  <Gun_Zastava_M70A_RWP.description>The Zastava M70 A is a rugged, semi-automatic pistol originating from Eastern Europe. Known for its durability and reliability, it boasts a 9mm caliber, offering a solid balance between stopping power and control. Its simple design ensures ease of use and maintenance, making it a trusty sidearm for any colonist.</Gun_Zastava_M70A_RWP.description>
   <!-- EN: grip -->
   <Gun_Zastava_M70A_RWP.tools.grip.label>grip</Gun_Zastava_M70A_RWP.tools.grip.label>
   <!-- EN: barrel -->

@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: Fort-12 -->
   <Gun_Fort-12_RWP.label>Fort-12</Gun_Fort-12_RWP.label>
-  <!-- EN: . -->
-  <Gun_Fort-12_RWP.description>.</Gun_Fort-12_RWP.description>
+  <!-- EN: The Fort-12 is a compact semi-automatic pistol, favored for its reliability and ease of use. It fires standard rimfire rounds, making it an accessible sidearm for both novice and experienced shooters. With decent accuracy and a modest damage output, it's well-suited for self-defense in close quarters. Ideal for colonists who need a straightforward and effective firearm in potentially hostile environments. -->
+  <Gun_Fort-12_RWP.description>The Fort-12 is a compact semi-automatic pistol, favored for its reliability and ease of use. It fires standard rimfire rounds, making it an accessible sidearm for both novice and experienced shooters. With decent accuracy and a modest damage output, it's well-suited for self-defense in close quarters. Ideal for colonists who need a straightforward and effective firearm in potentially hostile environments.</Gun_Fort-12_RWP.description>
   <!-- EN: grip -->
   <Gun_Fort-12_RWP.tools.grip.label>grip</Gun_Fort-12_RWP.tools.grip.label>
   <!-- EN: barrel -->

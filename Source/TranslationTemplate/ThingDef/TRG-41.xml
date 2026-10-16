@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: TRG-41 -->
   <Gun_TRG-41_RWP.label>TRG-41</Gun_TRG-41_RWP.label>
-  <!-- EN: . -->
-  <Gun_TRG-41_RWP.description>.</Gun_TRG-41_RWP.description>
+  <!-- EN: The TRG-41 is a high-precision sniper rifle known for its exceptional accuracy and long-range capabilities. Designed for distant engagements, this bolt-action weapon delivers powerful shots, making it ideal for skilled marksmen to pick off targets from afar with deadly precision. Its robust construction and reliability under various conditions make it a favored choice for those needing pinpoint accuracy in combat scenarios. -->
+  <Gun_TRG-41_RWP.description>The TRG-41 is a high-precision sniper rifle known for its exceptional accuracy and long-range capabilities. Designed for distant engagements, this bolt-action weapon delivers powerful shots, making it ideal for skilled marksmen to pick off targets from afar with deadly precision. Its robust construction and reliability under various conditions make it a favored choice for those needing pinpoint accuracy in combat scenarios.</Gun_TRG-41_RWP.description>
   <!-- EN: stock -->
   <Gun_TRG-41_RWP.tools.stock.label>stock</Gun_TRG-41_RWP.tools.stock.label>
   <!-- EN: barrel -->

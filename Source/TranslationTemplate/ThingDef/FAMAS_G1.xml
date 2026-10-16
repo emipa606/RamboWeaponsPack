@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: FAMAS G1 -->
   <Gun_FAMAS_G1_RWP.label>FAMAS G1</Gun_FAMAS_G1_RWP.label>
-  <!-- EN: . -->
-  <Gun_FAMAS_G1_RWP.description>.</Gun_FAMAS_G1_RWP.description>
+  <!-- EN: The FAMAS G1 is a compact, French 5.56mm bullpup assault rifle known for its high rate of fire and reliable performance. It excels in close to mid-range combat situations, providing superior burst damage with its three-round burst feature. Lightweight and easy to maneuver, it's ideal for rapid engagements, though its accuracy may drop at long distances. -->
+  <Gun_FAMAS_G1_RWP.description>The FAMAS G1 is a compact, French 5.56mm bullpup assault rifle known for its high rate of fire and reliable performance. It excels in close to mid-range combat situations, providing superior burst damage with its three-round burst feature. Lightweight and easy to maneuver, it's ideal for rapid engagements, though its accuracy may drop at long distances.</Gun_FAMAS_G1_RWP.description>
   <!-- EN: stock -->
   <Gun_FAMAS_G1_RWP.tools.stock.label>stock</Gun_FAMAS_G1_RWP.tools.stock.label>
   <!-- EN: barrel -->

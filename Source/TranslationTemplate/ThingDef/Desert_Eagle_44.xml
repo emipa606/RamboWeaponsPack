@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: Desert Eagle .44 -->
   <Gun_Desert_Eagle_44_RWP.label>Desert Eagle .44</Gun_Desert_Eagle_44_RWP.label>
-  <!-- EN: . -->
-  <Gun_Desert_Eagle_44_RWP.description>.</Gun_Desert_Eagle_44_RWP.description>
+  <!-- EN: A powerful semi-automatic pistol known for its high stopping power. The Desert Eagle .44 fires large caliber rounds, making it effective against armored targets. However, its weight and recoil can affect handling and accuracy, best suited for those who can manage its kick. -->
+  <Gun_Desert_Eagle_44_RWP.description>A powerful semi-automatic pistol known for its high stopping power. The Desert Eagle .44 fires large caliber rounds, making it effective against armored targets. However, its weight and recoil can affect handling and accuracy, best suited for those who can manage its kick.</Gun_Desert_Eagle_44_RWP.description>
   <!-- EN: grip -->
   <Gun_Desert_Eagle_44_RWP.tools.grip.label>grip</Gun_Desert_Eagle_44_RWP.tools.grip.label>
   <!-- EN: barrel -->

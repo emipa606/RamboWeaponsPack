@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: SCAR-L STD -->
   <Gun_SCAR-L_STD_RWP.label>SCAR-L STD</Gun_SCAR-L_STD_RWP.label>
-  <!-- EN: . -->
-  <Gun_SCAR-L_STD_RWP.description>.</Gun_SCAR-L_STD_RWP.description>
+  <!-- EN: The SCAR-L STD is a versatile assault rifle known for its reliability and accuracy. With a balanced rate of fire and effective range, it's well-suited for both mid- and long-range engagements. Ideal for colonists needing a dependable weapon in diverse combat scenarios. -->
+  <Gun_SCAR-L_STD_RWP.description>The SCAR-L STD is a versatile assault rifle known for its reliability and accuracy. With a balanced rate of fire and effective range, it's well-suited for both mid- and long-range engagements. Ideal for colonists needing a dependable weapon in diverse combat scenarios.</Gun_SCAR-L_STD_RWP.description>
   <!-- EN: stock -->
   <Gun_SCAR-L_STD_RWP.tools.stock.label>stock</Gun_SCAR-L_STD_RWP.tools.stock.label>
   <!-- EN: barrel -->

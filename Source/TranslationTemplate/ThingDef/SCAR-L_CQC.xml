@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: SCAR-L CQC -->
   <Gun_SCAR-L_CQC_RWP.label>SCAR-L CQC</Gun_SCAR-L_CQC_RWP.label>
-  <!-- EN: . -->
-  <Gun_SCAR-L_CQC_RWP.description>.</Gun_SCAR-L_CQC_RWP.description>
+  <!-- EN: The SCAR-L CQC is a compact and versatile assault rifle designed for short to medium-range combat. Known for its accuracy and reliability, it features a shorter barrel for improved maneuverability in close-quarters combat, while maintaining a high rate of fire. Ideal for tactical engagements, it provides colonists with the firepower needed to control the battlefield in tight spaces. -->
+  <Gun_SCAR-L_CQC_RWP.description>The SCAR-L CQC is a compact and versatile assault rifle designed for short to medium-range combat. Known for its accuracy and reliability, it features a shorter barrel for improved maneuverability in close-quarters combat, while maintaining a high rate of fire. Ideal for tactical engagements, it provides colonists with the firepower needed to control the battlefield in tight spaces.</Gun_SCAR-L_CQC_RWP.description>
   <!-- EN: stock -->
   <Gun_SCAR-L_CQC_RWP.tools.stock.label>stock</Gun_SCAR-L_CQC_RWP.tools.stock.label>
   <!-- EN: barrel -->

@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: VSSK Vykhlop -->
   <Gun_VSSK_Vykhlop_RWP.label>VSSK Vykhlop</Gun_VSSK_Vykhlop_RWP.label>
-  <!-- EN: . -->
-  <Gun_VSSK_Vykhlop_RWP.description>.</Gun_VSSK_Vykhlop_RWP.description>
+  <!-- EN: The VSSK Vykhlop is a high-caliber, bolt-action sniper rifle designed for stealthy, long-range engagements. Capable of firing powerful, subsonic rounds, it excels in penetrating armor with minimal noise. Ideal for eliminating targets without alerting nearby threats. -->
+  <Gun_VSSK_Vykhlop_RWP.description>The VSSK Vykhlop is a high-caliber, bolt-action sniper rifle designed for stealthy, long-range engagements. Capable of firing powerful, subsonic rounds, it excels in penetrating armor with minimal noise. Ideal for eliminating targets without alerting nearby threats.</Gun_VSSK_Vykhlop_RWP.description>
   <!-- EN: stock -->
   <Gun_VSSK_Vykhlop_RWP.tools.stock.label>stock</Gun_VSSK_Vykhlop_RWP.tools.stock.label>
   <!-- EN: barrel -->

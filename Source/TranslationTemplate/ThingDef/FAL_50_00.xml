@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: Fal 50.00 -->
   <Gun_Fal_50_00_RWP.label>Fal 50.00</Gun_Fal_50_00_RWP.label>
-  <!-- EN: . -->
-  <Gun_Fal_50_00_RWP.description>.</Gun_Fal_50_00_RWP.description>
+  <!-- EN: The FN FAL 50.00 is a battle rifle admired for its power and reliability. Featuring a 20-round magazine, this semi-automatic weapon excels at medium to long-range engagements, delivering high-caliber stopping power with each shot. Ideal for those who prefer precision with a punch. -->
+  <Gun_Fal_50_00_RWP.description>The FN FAL 50.00 is a battle rifle admired for its power and reliability. Featuring a 20-round magazine, this semi-automatic weapon excels at medium to long-range engagements, delivering high-caliber stopping power with each shot. Ideal for those who prefer precision with a punch.</Gun_Fal_50_00_RWP.description>
   <!-- EN: stock -->
   <Gun_Fal_50_00_RWP.tools.stock.label>stock</Gun_Fal_50_00_RWP.tools.stock.label>
   <!-- EN: barrel -->

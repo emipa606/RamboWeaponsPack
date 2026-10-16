@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: MP5A1 -->
   <Gun_MP5A1_RWP.label>MP5A1</Gun_MP5A1_RWP.label>
-  <!-- EN: . -->
-  <Gun_MP5A1_RWP.description>.</Gun_MP5A1_RWP.description>
+  <!-- EN: The MP5A1 is a compact submachine gun known for its reliability and accuracy in close quarters combat. Its rapid fire rate and manageable recoil make it a favored choice for tactical operations, offering a balance of speed and control for short to medium range engagements. -->
+  <Gun_MP5A1_RWP.description>The MP5A1 is a compact submachine gun known for its reliability and accuracy in close quarters combat. Its rapid fire rate and manageable recoil make it a favored choice for tactical operations, offering a balance of speed and control for short to medium range engagements.</Gun_MP5A1_RWP.description>
   <!-- EN: grip -->
   <Gun_MP5A1_RWP.tools.grip.label>grip</Gun_MP5A1_RWP.tools.grip.label>
   <!-- EN: barrel -->

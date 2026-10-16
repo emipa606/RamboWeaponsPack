@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: Luger P08 -->
   <Gun_Luger_P08_RWP.label>Luger P08</Gun_Luger_P08_RWP.label>
-  <!-- EN: . -->
-  <Gun_Luger_P08_RWP.description>.</Gun_Luger_P08_RWP.description>
+  <!-- EN: A classic semi-automatic pistol, the Luger P08 combines historical charm with reliable performance. It features a toggle-lock mechanism and a modest magazine capacity, suitable for mid-range engagements. Its precision and craftsmanship make it a collector's favorite, though it may not match the stopping power of more modern firearms. -->
+  <Gun_Luger_P08_RWP.description>A classic semi-automatic pistol, the Luger P08 combines historical charm with reliable performance. It features a toggle-lock mechanism and a modest magazine capacity, suitable for mid-range engagements. Its precision and craftsmanship make it a collector's favorite, though it may not match the stopping power of more modern firearms.</Gun_Luger_P08_RWP.description>
   <!-- EN: grip -->
   <Gun_Luger_P08_RWP.tools.grip.label>grip</Gun_Luger_P08_RWP.tools.grip.label>
   <!-- EN: barrel -->

@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: MP-41 -->
   <Gun_MP-41_RWP.label>MP-41</Gun_MP-41_RWP.label>
-  <!-- EN: . -->
-  <Gun_MP-41_RWP.description>.</Gun_MP-41_RWP.description>
+  <!-- EN: The MP-41 is a well-crafted submachine gun designed for reliability and ease of use. Combining rapid fire with reasonable accuracy, it excels in close to mid-range combat. Its wooden stock adds stability, making it a dependable choice for any colonist facing a firefight. -->
+  <Gun_MP-41_RWP.description>The MP-41 is a well-crafted submachine gun designed for reliability and ease of use. Combining rapid fire with reasonable accuracy, it excels in close to mid-range combat. Its wooden stock adds stability, making it a dependable choice for any colonist facing a firefight.</Gun_MP-41_RWP.description>
   <!-- EN: stock -->
   <Gun_MP-41_RWP.tools.stock.label>stock</Gun_MP-41_RWP.tools.stock.label>
   <!-- EN: barrel -->

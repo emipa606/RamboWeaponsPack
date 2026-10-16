@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: Daewoo K2 -->
   <Gun_Daewoo_K2_RWP.label>Daewoo K2</Gun_Daewoo_K2_RWP.label>
-  <!-- EN: . -->
-  <Gun_Daewoo_K2_RWP.description>.</Gun_Daewoo_K2_RWP.description>
+  <!-- EN: The Daewoo K2 is a versatile and reliable assault rifle originating from South Korea. It offers a balanced combination of accuracy, range, and firing rate, making it suitable for a variety of combat situations. Powered by 5.56x45mm NATO rounds, the K2 is known for its durability and effectiveness in the field, providing a dependable choice for colonists looking to enhance their combat capabilities. -->
+  <Gun_Daewoo_K2_RWP.description>The Daewoo K2 is a versatile and reliable assault rifle originating from South Korea. It offers a balanced combination of accuracy, range, and firing rate, making it suitable for a variety of combat situations. Powered by 5.56x45mm NATO rounds, the K2 is known for its durability and effectiveness in the field, providing a dependable choice for colonists looking to enhance their combat capabilities.</Gun_Daewoo_K2_RWP.description>
   <!-- EN: stock -->
   <Gun_Daewoo_K2_RWP.tools.stock.label>stock</Gun_Daewoo_K2_RWP.tools.stock.label>
   <!-- EN: barrel -->

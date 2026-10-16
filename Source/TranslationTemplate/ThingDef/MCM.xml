@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: Margolin MCM -->
   <Gun_MCM_RWP.label>Margolin MCM</Gun_MCM_RWP.label>
-  <!-- EN: . -->
-  <Gun_MCM_RWP.description>.</Gun_MCM_RWP.description>
+  <!-- EN: The Margolin MCM is a semi-automatic pistol designed for precision shooting. Known for its excellent accuracy and ease of handling, this weapon is favored by skilled marksmen. While it lacks the stopping power of larger firearms, its reliability and precision make it a valuable asset in tactical situations. -->
+  <Gun_MCM_RWP.description>The Margolin MCM is a semi-automatic pistol designed for precision shooting. Known for its excellent accuracy and ease of handling, this weapon is favored by skilled marksmen. While it lacks the stopping power of larger firearms, its reliability and precision make it a valuable asset in tactical situations.</Gun_MCM_RWP.description>
   <!-- EN: grip -->
   <Gun_MCM_RWP.tools.grip.label>grip</Gun_MCM_RWP.tools.grip.label>
   <!-- EN: barrel -->

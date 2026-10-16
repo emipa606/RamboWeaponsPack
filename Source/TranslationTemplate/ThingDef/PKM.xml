@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: PKM -->
   <Gun_PKM_RWP.label>PKM</Gun_PKM_RWP.label>
-  <!-- EN: . -->
-  <Gun_PKM_RWP.description>.</Gun_PKM_RWP.description>
+  <!-- EN: The PKM is a powerful, belt-fed light machine gun known for its reliability and high rate of fire. Originating from Eastern design, it excels in delivering sustained fire against multiple targets, making it a formidable choice in prolonged engagements. However, its weight can slow down movement, so it's best suited for static defense or suppression roles. -->
+  <Gun_PKM_RWP.description>The PKM is a powerful, belt-fed light machine gun known for its reliability and high rate of fire. Originating from Eastern design, it excels in delivering sustained fire against multiple targets, making it a formidable choice in prolonged engagements. However, its weight can slow down movement, so it's best suited for static defense or suppression roles.</Gun_PKM_RWP.description>
   <!-- EN: stock -->
   <Gun_PKM_RWP.tools.stock.label>stock</Gun_PKM_RWP.tools.stock.label>
   <!-- EN: barrel -->

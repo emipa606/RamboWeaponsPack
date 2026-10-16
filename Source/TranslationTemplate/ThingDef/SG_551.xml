@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: SG 551 -->
   <Gun_SG_551_RWP.label>SG 551</Gun_SG_551_RWP.label>
-  <!-- EN: . -->
-  <Gun_SG_551_RWP.description>.</Gun_SG_551_RWP.description>
+  <!-- EN: The SG 551 is a reliable, Swiss-made assault rifle known for its accuracy and durability. It fires 5.56mm rounds, making it effective at medium range. With a balanced combination of fire rate and stopping power, it's a versatile choice for both combat and hunting. -->
+  <Gun_SG_551_RWP.description>The SG 551 is a reliable, Swiss-made assault rifle known for its accuracy and durability. It fires 5.56mm rounds, making it effective at medium range. With a balanced combination of fire rate and stopping power, it's a versatile choice for both combat and hunting.</Gun_SG_551_RWP.description>
   <!-- EN: stock -->
   <Gun_SG_551_RWP.tools.stock.label>stock</Gun_SG_551_RWP.tools.stock.label>
   <!-- EN: barrel -->

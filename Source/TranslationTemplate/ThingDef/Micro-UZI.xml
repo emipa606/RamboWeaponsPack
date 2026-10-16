@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: Micro-UZI -->
   <Gun_Micro-UZI_RWP.label>Micro-UZI</Gun_Micro-UZI_RWP.label>
-  <!-- EN: . -->
-  <Gun_Micro-UZI_RWP.description>.</Gun_Micro-UZI_RWP.description>
+  <!-- EN: The Micro-UZI is a compact and lightweight submachine gun known for its high rate of fire and ease of handling. Ideal for close combat scenarios, it sacrifices accuracy for speed, making it effective in short-range engagements. Perfect for colonists who need quick defensive measures in tight spaces. -->
+  <Gun_Micro-UZI_RWP.description>The Micro-UZI is a compact and lightweight submachine gun known for its high rate of fire and ease of handling. Ideal for close combat scenarios, it sacrifices accuracy for speed, making it effective in short-range engagements. Perfect for colonists who need quick defensive measures in tight spaces.</Gun_Micro-UZI_RWP.description>
   <!-- EN: grip -->
   <Gun_Micro-UZI_RWP.tools.grip.label>grip</Gun_Micro-UZI_RWP.tools.grip.label>
   <!-- EN: barrel -->

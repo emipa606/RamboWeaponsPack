@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: SG 552 -->
   <Gun_SG_552_RWP.label>SG 552</Gun_SG_552_RWP.label>
-  <!-- EN: . -->
-  <Gun_SG_552_RWP.description>.</Gun_SG_552_RWP.description>
+  <!-- EN: The SG 552 is a compact assault rifle known for its high rate of fire and accuracy. Suitable for medium-range engagements, it's favored by those who need precision and reliability. Capable of burst or single-shot firing modes, this weapon can effectively handle a variety of combat situations. -->
+  <Gun_SG_552_RWP.description>The SG 552 is a compact assault rifle known for its high rate of fire and accuracy. Suitable for medium-range engagements, it's favored by those who need precision and reliability. Capable of burst or single-shot firing modes, this weapon can effectively handle a variety of combat situations.</Gun_SG_552_RWP.description>
   <!-- EN: stock -->
   <Gun_SG_552_RWP.tools.stock.label>stock</Gun_SG_552_RWP.tools.stock.label>
   <!-- EN: barrel -->

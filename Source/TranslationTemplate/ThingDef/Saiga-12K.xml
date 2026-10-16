@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: Saiga-12K -->
   <Gun_Saiga-12K_RWP.label>Saiga-12K</Gun_Saiga-12K_RWP.label>
-  <!-- EN: . -->
-  <Gun_Saiga-12K_RWP.description>.</Gun_Saiga-12K_RWP.description>
+  <!-- EN: The Saiga-12K is a rapid-fire, semi-automatic combat shotgun, designed for tactical scenarios. It offers devastating close-range firepower, unleashing a barrage of shells in quick succession. Ideal for clearing rooms or repelling charges, though its effectiveness wanes with distance. Built on a rugged platform, it's reliable under harsh conditions, but its spread requires careful positioning for maximum impact. -->
+  <Gun_Saiga-12K_RWP.description>The Saiga-12K is a rapid-fire, semi-automatic combat shotgun, designed for tactical scenarios. It offers devastating close-range firepower, unleashing a barrage of shells in quick succession. Ideal for clearing rooms or repelling charges, though its effectiveness wanes with distance. Built on a rugged platform, it's reliable under harsh conditions, but its spread requires careful positioning for maximum impact.</Gun_Saiga-12K_RWP.description>
   <!-- EN: stock -->
   <Gun_Saiga-12K_RWP.tools.stock.label>stock</Gun_Saiga-12K_RWP.tools.stock.label>
   <!-- EN: barrel -->

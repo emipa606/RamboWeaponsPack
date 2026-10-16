@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: TT-33 -->
   <Gun_TT-33_RWP.label>TT-33</Gun_TT-33_RWP.label>
-  <!-- EN: . -->
-  <Gun_TT-33_RWP.description>.</Gun_TT-33_RWP.description>
+  <!-- EN: The TT-33 is a semi-automatic pistol, known for its reliability and historical significance. Developed in the early 20th century, it offers moderate damage with a high fire rate, making it effective for defense in close-quarters combat. Though its accuracy falls off at longer ranges, its craftsmanship ensures durability in harsh conditions. -->
+  <Gun_TT-33_RWP.description>The TT-33 is a semi-automatic pistol, known for its reliability and historical significance. Developed in the early 20th century, it offers moderate damage with a high fire rate, making it effective for defense in close-quarters combat. Though its accuracy falls off at longer ranges, its craftsmanship ensures durability in harsh conditions.</Gun_TT-33_RWP.description>
   <!-- EN: grip -->
   <Gun_TT-33_RWP.tools.grip.label>grip</Gun_TT-33_RWP.tools.grip.label>
   <!-- EN: barrel -->

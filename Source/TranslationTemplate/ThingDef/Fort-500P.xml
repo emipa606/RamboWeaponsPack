@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: Fort-500P -->
   <Gun_Fort-500P_RWP.label>Fort-500P</Gun_Fort-500P_RWP.label>
-  <!-- EN: . -->
-  <Gun_Fort-500P_RWP.description>.</Gun_Fort-500P_RWP.description>
+  <!-- EN: The Fort-500P is a high-powered revolver, known for its incredible stopping power and reliability. It features a six-round cylinder and a reinforced frame, making it a favorite among frontier law enforcers and mercenaries. Its bulk and recoil are balanced by its unmatched ability to incapacitate targets with a single, well-placed shot. Ideal for those who prioritize damage over subtlety. -->
+  <Gun_Fort-500P_RWP.description>The Fort-500P is a high-powered revolver, known for its incredible stopping power and reliability. It features a six-round cylinder and a reinforced frame, making it a favorite among frontier law enforcers and mercenaries. Its bulk and recoil are balanced by its unmatched ability to incapacitate targets with a single, well-placed shot. Ideal for those who prioritize damage over subtlety.</Gun_Fort-500P_RWP.description>
   <!-- EN: grip -->
   <Gun_Fort-500P_RWP.tools.grip.label>grip</Gun_Fort-500P_RWP.tools.grip.label>
   <!-- EN: barrel -->

@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: P38 -->
   <Gun_P38_RWP.label>P38</Gun_P38_RWP.label>
-  <!-- EN: . -->
-  <Gun_P38_RWP.description>.</Gun_P38_RWP.description>
+  <!-- EN: A semi-automatic pistol with a 9mm caliber. Known for its reliability and accuracy, the P38 is an effective sidearm that balances firepower with handling, suitable for mid-range combat situations. -->
+  <Gun_P38_RWP.description>A semi-automatic pistol with a 9mm caliber. Known for its reliability and accuracy, the P38 is an effective sidearm that balances firepower with handling, suitable for mid-range combat situations.</Gun_P38_RWP.description>
   <!-- EN: grip -->
   <Gun_P38_RWP.tools.grip.label>grip</Gun_P38_RWP.tools.grip.label>
   <!-- EN: barrel -->

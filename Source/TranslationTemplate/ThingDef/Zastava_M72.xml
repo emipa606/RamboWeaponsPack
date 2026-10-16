@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: Zastava M72 -->
   <Gun_Zastava_M72_RWP.label>Zastava M72</Gun_Zastava_M72_RWP.label>
-  <!-- EN: . -->
-  <Gun_Zastava_M72_RWP.description>.</Gun_Zastava_M72_RWP.description>
+  <!-- EN: The Zastava M72 is a robust and reliable light machine gun, modeled after the AK family but equipped with a heavier barrel for sustained automatic fire. It's ideal for suppressive roles, providing ample stopping power and accuracy with a high capacity magazine, making it a formidable choice for defense or assault operations. -->
+  <Gun_Zastava_M72_RWP.description>The Zastava M72 is a robust and reliable light machine gun, modeled after the AK family but equipped with a heavier barrel for sustained automatic fire. It's ideal for suppressive roles, providing ample stopping power and accuracy with a high capacity magazine, making it a formidable choice for defense or assault operations.</Gun_Zastava_M72_RWP.description>
   <!-- EN: stock -->
   <Gun_Zastava_M72_RWP.tools.stock.label>stock</Gun_Zastava_M72_RWP.tools.stock.label>
   <!-- EN: barrel -->

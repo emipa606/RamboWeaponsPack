@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: CZ 75B -->
   <Gun_CZ_75B_RWP.label>CZ 75B</Gun_CZ_75B_RWP.label>
-  <!-- EN: . -->
-  <Gun_CZ_75B_RWP.description>.</Gun_CZ_75B_RWP.description>
+  <!-- EN: The CZ 75B is a reliable semi-automatic pistol known for its accuracy and durability. Equipped with a 16-round magazine, it offers a balance of firepower and precision, making it a dependable sidearm for any colonist. Suitable for both defensive and offensive engagements. -->
+  <Gun_CZ_75B_RWP.description>The CZ 75B is a reliable semi-automatic pistol known for its accuracy and durability. Equipped with a 16-round magazine, it offers a balance of firepower and precision, making it a dependable sidearm for any colonist. Suitable for both defensive and offensive engagements.</Gun_CZ_75B_RWP.description>
   <!-- EN: grip -->
   <Gun_CZ_75B_RWP.tools.grip.label>grip</Gun_CZ_75B_RWP.tools.grip.label>
   <!-- EN: barrel -->

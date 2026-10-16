@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: Galil SAR 5.56mm -->
   <Gun_Galil_SAR_556mm_RWP.label>Galil SAR 5.56mm</Gun_Galil_SAR_556mm_RWP.label>
-  <!-- EN: . -->
-  <Gun_Galil_SAR_556mm_RWP.description>.</Gun_Galil_SAR_556mm_RWP.description>
+  <!-- EN: The Galil SAR 5.56mm is a compact and reliable assault rifle, known for its durability and effectiveness in various combat situations. Designed with a shorter barrel for increased maneuverability, it offers a balance between power and accuracy, making it ideal for mid-range engagements. With a rapid rate of fire and modest recoil, this weapon is favored by those who value versatility in the heat of battle. -->
+  <Gun_Galil_SAR_556mm_RWP.description>The Galil SAR 5.56mm is a compact and reliable assault rifle, known for its durability and effectiveness in various combat situations. Designed with a shorter barrel for increased maneuverability, it offers a balance between power and accuracy, making it ideal for mid-range engagements. With a rapid rate of fire and modest recoil, this weapon is favored by those who value versatility in the heat of battle.</Gun_Galil_SAR_556mm_RWP.description>
   <!-- EN: stock -->
   <Gun_Galil_SAR_556mm_RWP.tools.stock.label>stock</Gun_Galil_SAR_556mm_RWP.tools.stock.label>
   <!-- EN: barrel -->

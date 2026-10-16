@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: F2000 Tactical -->
   <Gun_F2000_Tactical_RWP.label>F2000 Tactical</Gun_F2000_Tactical_RWP.label>
-  <!-- EN: . -->
-  <Gun_F2000_Tactical_RWP.description>.</Gun_F2000_Tactical_RWP.description>
+  <!-- EN: The F2000 Tactical is an advanced assault rifle, offering high firepower with excellent accuracy and burst capabilities. Engineered for reliability, its sleek design supports a modular setup with tactical attachments, making it a versatile choice for tactical operations in various environments. -->
+  <Gun_F2000_Tactical_RWP.description>The F2000 Tactical is an advanced assault rifle, offering high firepower with excellent accuracy and burst capabilities. Engineered for reliability, its sleek design supports a modular setup with tactical attachments, making it a versatile choice for tactical operations in various environments.</Gun_F2000_Tactical_RWP.description>
   <!-- EN: stock -->
   <Gun_F2000_Tactical_RWP.tools.stock.label>stock</Gun_F2000_Tactical_RWP.tools.stock.label>
   <!-- EN: barrel -->

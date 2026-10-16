@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: LR-300-ML -->
   <Gun_LR-300-ML_RWP.label>LR-300-ML</Gun_LR-300-ML_RWP.label>
-  <!-- EN: . -->
-  <Gun_LR-300-ML_RWP.description>.</Gun_LR-300-ML_RWP.description>
+  <!-- EN: The LR-300-ML is an advanced, military-grade assault rifle renowned for its precision and modular capabilities. Designed for long-range engagements, it offers a high rate of fire with exceptional accuracy. Includes integrated laser sighting for improved targeting. Ideal for tactical units needing versatility and reliability in combat scenarios. -->
+  <Gun_LR-300-ML_RWP.description>The LR-300-ML is an advanced, military-grade assault rifle renowned for its precision and modular capabilities. Designed for long-range engagements, it offers a high rate of fire with exceptional accuracy. Includes integrated laser sighting for improved targeting. Ideal for tactical units needing versatility and reliability in combat scenarios.</Gun_LR-300-ML_RWP.description>
   <!-- EN: stock -->
   <Gun_LR-300-ML_RWP.tools.stock.label>stock</Gun_LR-300-ML_RWP.tools.stock.label>
   <!-- EN: barrel -->

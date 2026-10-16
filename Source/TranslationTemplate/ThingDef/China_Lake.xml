@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: China Lake -->
   <Gun_China_Lake_RWP.label>China Lake</Gun_China_Lake_RWP.label>
-  <!-- EN: . -->
-  <Gun_China_Lake_RWP.description>.</Gun_China_Lake_RWP.description>
+  <!-- EN: A pump-action grenade launcher, the China Lake can fire grenades quickly and accurately over medium distances. Its design allows for rapid successive shots, making it effective for suppressive fire and dealing with groups of enemies. Due to its explosive payload, care must be taken to avoid collateral damage. -->
+  <Gun_China_Lake_RWP.description>A pump-action grenade launcher, the China Lake can fire grenades quickly and accurately over medium distances. Its design allows for rapid successive shots, making it effective for suppressive fire and dealing with groups of enemies. Due to its explosive payload, care must be taken to avoid collateral damage.</Gun_China_Lake_RWP.description>
   <!-- EN: stock -->
   <Gun_China_Lake_RWP.tools.stock.label>stock</Gun_China_Lake_RWP.tools.stock.label>
   <!-- EN: barrel -->

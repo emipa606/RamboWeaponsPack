@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: PKP Pecheneg -->
   <Gun_PKP_Pecheneg_RWP.label>PKP Pecheneg</Gun_PKP_Pecheneg_RWP.label>
-  <!-- EN: . -->
-  <Gun_PKP_Pecheneg_RWP.description>.</Gun_PKP_Pecheneg_RWP.description>
+  <!-- EN: The PKP Pecheneg is a powerful and reliable Russian-made general-purpose machine gun. It offers exceptional sustained fire capability with high rate of fire and accuracy, making it ideal for suppressing enemies in combat. Equipped with a robust cooling system, it can endure extended firefights without overheating, ensuring continuous operational effectiveness on the battlefield. -->
+  <Gun_PKP_Pecheneg_RWP.description>The PKP Pecheneg is a powerful and reliable Russian-made general-purpose machine gun. It offers exceptional sustained fire capability with high rate of fire and accuracy, making it ideal for suppressing enemies in combat. Equipped with a robust cooling system, it can endure extended firefights without overheating, ensuring continuous operational effectiveness on the battlefield.</Gun_PKP_Pecheneg_RWP.description>
   <!-- EN: stock -->
   <Gun_PKP_Pecheneg_RWP.tools.stock.label>stock</Gun_PKP_Pecheneg_RWP.tools.stock.label>
   <!-- EN: barrel -->

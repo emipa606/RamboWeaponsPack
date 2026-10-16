@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: SVT-40 -->
   <Gun_SVT-40_RWP.label>SVT-40</Gun_SVT-40_RWP.label>
-  <!-- EN: . -->
-  <Gun_SVT-40_RWP.description>.</Gun_SVT-40_RWP.description>
+  <!-- EN: The SVT-40 is a semi-automatic battle rifle known for its robustness and reliability. Firing a powerful round, it excels at moderate to long-range combat, making it a favorite among sharpshooters. Despite its age, its precision and stopping power remain formidable on the battlefield. -->
+  <Gun_SVT-40_RWP.description>The SVT-40 is a semi-automatic battle rifle known for its robustness and reliability. Firing a powerful round, it excels at moderate to long-range combat, making it a favorite among sharpshooters. Despite its age, its precision and stopping power remain formidable on the battlefield.</Gun_SVT-40_RWP.description>
   <!-- EN: stock -->
   <Gun_SVT-40_RWP.tools.stock.label>stock</Gun_SVT-40_RWP.tools.stock.label>
   <!-- EN: barrel -->

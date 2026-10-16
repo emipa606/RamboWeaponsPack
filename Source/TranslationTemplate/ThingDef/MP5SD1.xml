@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: MP5SD1 -->
   <Gun_MP5SD1_RWP.label>MP5SD1</Gun_MP5SD1_RWP.label>
-  <!-- EN: . -->
-  <Gun_MP5SD1_RWP.description>.</Gun_MP5SD1_RWP.description>
+  <!-- EN: The MP5SD1 is a compact submachine gun with an integrated suppressor, making it ideal for stealth operations. Its design reduces noise and muzzle flash, allowing for quieter engagements at close range. With moderate stopping power and high accuracy, this weapon is perfect for handling threats discreetly without alerting nearby enemies. -->
+  <Gun_MP5SD1_RWP.description>The MP5SD1 is a compact submachine gun with an integrated suppressor, making it ideal for stealth operations. Its design reduces noise and muzzle flash, allowing for quieter engagements at close range. With moderate stopping power and high accuracy, this weapon is perfect for handling threats discreetly without alerting nearby enemies.</Gun_MP5SD1_RWP.description>
   <!-- EN: grip -->
   <Gun_MP5SD1_RWP.tools.grip.label>grip</Gun_MP5SD1_RWP.tools.grip.label>
   <!-- EN: barrel -->

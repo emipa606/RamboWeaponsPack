@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: Arisaka Type 38 -->
   <Gun_Arisaka_Type_38_RWP.label>Arisaka Type 38</Gun_Arisaka_Type_38_RWP.label>
-  <!-- EN: . -->
-  <Gun_Arisaka_Type_38_RWP.description>.</Gun_Arisaka_Type_38_RWP.description>
+  <!-- EN: A battle rifle from the early 20th century, the Arisaka Type 38 features a bolt-action mechanism with a 5-round internal magazine. Known for its reliability and strong construction, this weapon delivers moderate damage with commendable accuracy. Ideal for mid-range engagements, it's a testament to historical precision and sturdy design. -->
+  <Gun_Arisaka_Type_38_RWP.description>A battle rifle from the early 20th century, the Arisaka Type 38 features a bolt-action mechanism with a 5-round internal magazine. Known for its reliability and strong construction, this weapon delivers moderate damage with commendable accuracy. Ideal for mid-range engagements, it's a testament to historical precision and sturdy design.</Gun_Arisaka_Type_38_RWP.description>
   <!-- EN: stock -->
   <Gun_Arisaka_Type_38_RWP.tools.stock.label>stock</Gun_Arisaka_Type_38_RWP.tools.stock.label>
   <!-- EN: barrel -->

@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: SCAR-H LB -->
   <Gun_SCAR-H_LB_RWP.label>SCAR-H LB</Gun_SCAR-H_LB_RWP.label>
-  <!-- EN: . -->
-  <Gun_SCAR-H_LB_RWP.description>.</Gun_SCAR-H_LB_RWP.description>
+  <!-- EN: The SCAR-H LB is a versatile battle rifle known for its accuracy and stopping power. Its long barrel increases range, making it effective for engaging targets at a distance. This weapon is highly sought after for its reliability in various combat scenarios. -->
+  <Gun_SCAR-H_LB_RWP.description>The SCAR-H LB is a versatile battle rifle known for its accuracy and stopping power. Its long barrel increases range, making it effective for engaging targets at a distance. This weapon is highly sought after for its reliability in various combat scenarios.</Gun_SCAR-H_LB_RWP.description>
   <!-- EN: stock -->
   <Gun_SCAR-H_LB_RWP.tools.stock.label>stock</Gun_SCAR-H_LB_RWP.tools.stock.label>
   <!-- EN: barrel -->

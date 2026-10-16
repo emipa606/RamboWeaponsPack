@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: PTRS-41 -->
   <Gun_PTRS-41_RWP.label>PTRS-41</Gun_PTRS-41_RWP.label>
-  <!-- EN: . -->
-  <Gun_PTRS-41_RWP.description>.</Gun_PTRS-41_RWP.description>
+  <!-- EN: A massive Soviet anti-tank rifle designed for piercing armor. The PTRS-41 boasts a long barrel for high accuracy and a powerful 14.5×114mm round capable of penetrating even hardened targets. Ideal for taking down mechanized threats and heavily armored foes, but its weight and slow firing rate require careful positioning and timing in battle. -->
+  <Gun_PTRS-41_RWP.description>A massive Soviet anti-tank rifle designed for piercing armor. The PTRS-41 boasts a long barrel for high accuracy and a powerful 14.5×114mm round capable of penetrating even hardened targets. Ideal for taking down mechanized threats and heavily armored foes, but its weight and slow firing rate require careful positioning and timing in battle.</Gun_PTRS-41_RWP.description>
   <!-- EN: stock -->
   <Gun_PTRS-41_RWP.tools.stock.label>stock</Gun_PTRS-41_RWP.tools.stock.label>
   <!-- EN: barrel -->

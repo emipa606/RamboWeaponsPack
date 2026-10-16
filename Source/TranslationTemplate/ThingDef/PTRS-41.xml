@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: PTRD-41 -->
   <Gun_PTRD-41_RWP.label>PTRD-41</Gun_PTRD-41_RWP.label>
-  <!-- EN: . -->
-  <Gun_PTRD-41_RWP.description>.</Gun_PTRD-41_RWP.description>
+  <!-- EN: The PTRD-41 is a powerful anti-tank rifle designed in the early 1940s. While originally intended to penetrate armored vehicles, it is now repurposed for dealing with heavily armored threats in the field. Its immense stopping power comes at the cost of a slow rate of fire and considerable recoil. Ideal for long-range engagements against tough targets, but be aware of its cumbersome handling in close-quarters combat. -->
+  <Gun_PTRD-41_RWP.description>The PTRD-41 is a powerful anti-tank rifle designed in the early 1940s. While originally intended to penetrate armored vehicles, it is now repurposed for dealing with heavily armored threats in the field. Its immense stopping power comes at the cost of a slow rate of fire and considerable recoil. Ideal for long-range engagements against tough targets, but be aware of its cumbersome handling in close-quarters combat.</Gun_PTRD-41_RWP.description>
   <!-- EN: grip -->
   <Gun_PTRD-41_RWP.tools.grip.label>grip</Gun_PTRD-41_RWP.tools.grip.label>
   <!-- EN: barrel -->

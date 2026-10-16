@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: PPS-43 -->
   <Gun_PPS-43_RWP.label>PPS-43</Gun_PPS-43_RWP.label>
-  <!-- EN: . -->
-  <Gun_PPS-43_RWP.description>.</Gun_PPS-43_RWP.description>
+  <!-- EN: A compact submachine gun from the mid-20th century, the PPS-43 is known for its reliability and simplicity. Offering moderate accuracy and a high rate of fire, it's ideal for close-quarters combat against multiple targets. Low recoil makes it easy to handle, but its stopping power is limited compared to modern firearms. -->
+  <Gun_PPS-43_RWP.description>A compact submachine gun from the mid-20th century, the PPS-43 is known for its reliability and simplicity. Offering moderate accuracy and a high rate of fire, it's ideal for close-quarters combat against multiple targets. Low recoil makes it easy to handle, but its stopping power is limited compared to modern firearms.</Gun_PPS-43_RWP.description>
   <!-- EN: grip -->
   <Gun_PPS-43_RWP.tools.grip.label>grip</Gun_PPS-43_RWP.tools.grip.label>
   <!-- EN: barrel -->

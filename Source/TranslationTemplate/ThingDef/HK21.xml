@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: HK21 -->
   <Gun_HK21_RWP.label>HK21</Gun_HK21_RWP.label>
-  <!-- EN: . -->
-  <Gun_HK21_RWP.description>.</Gun_HK21_RWP.description>
+  <!-- EN: The HK21 is a general-purpose machine gun known for its reliability and versatility. It features a high rate of fire and is effective at providing suppressive fire over long distances. Ideal for supporting squads in prolonged engagements. -->
+  <Gun_HK21_RWP.description>The HK21 is a general-purpose machine gun known for its reliability and versatility. It features a high rate of fire and is effective at providing suppressive fire over long distances. Ideal for supporting squads in prolonged engagements.</Gun_HK21_RWP.description>
   <!-- EN: stock -->
   <Gun_HK21_RWP.tools.stock.label>stock</Gun_HK21_RWP.tools.stock.label>
   <!-- EN: barrel -->

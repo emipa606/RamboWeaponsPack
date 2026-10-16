@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: SPAS-12 -->
   <Gun_SPAS-12_RWP.label>SPAS-12</Gun_SPAS-12_RWP.label>
-  <!-- EN: . -->
-  <Gun_SPAS-12_RWP.description>.</Gun_SPAS-12_RWP.description>
+  <!-- EN: The SPAS-12 is a combat shotgun known for its versatility and power. Originally designed for military and law enforcement use, it offers both semi-automatic and pump-action firing modes. It features a distinctive folding stock and a high rate of fire, making it effective for close-quarters combat. With moderate range and high stopping power, it can handle various threats swiftly. -->
+  <Gun_SPAS-12_RWP.description>The SPAS-12 is a combat shotgun known for its versatility and power. Originally designed for military and law enforcement use, it offers both semi-automatic and pump-action firing modes. It features a distinctive folding stock and a high rate of fire, making it effective for close-quarters combat. With moderate range and high stopping power, it can handle various threats swiftly.</Gun_SPAS-12_RWP.description>
   <!-- EN: grip -->
   <Gun_SPAS-12_RWP.tools.grip.label>grip</Gun_SPAS-12_RWP.tools.grip.label>
   <!-- EN: barrel -->

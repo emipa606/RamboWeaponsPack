@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: MP5KA1 -->
   <Gun_MP5KA1_RWP.label>MP5KA1</Gun_MP5KA1_RWP.label>
-  <!-- EN: . -->
-  <Gun_MP5KA1_RWP.description>.</Gun_MP5KA1_RWP.description>
+  <!-- EN: The MP5KA1 is a compact, fast-firing submachine gun. It excels in close-quarter combat with a high rate of fire and decent accuracy. However, its shorter barrel limits range and stopping power. Ideal for quickly subduing enemies at close range. -->
+  <Gun_MP5KA1_RWP.description>The MP5KA1 is a compact, fast-firing submachine gun. It excels in close-quarter combat with a high rate of fire and decent accuracy. However, its shorter barrel limits range and stopping power. Ideal for quickly subduing enemies at close range.</Gun_MP5KA1_RWP.description>
   <!-- EN: grip -->
   <Gun_MP5KA1_RWP.tools.grip.label>grip</Gun_MP5KA1_RWP.tools.grip.label>
   <!-- EN: barrel -->

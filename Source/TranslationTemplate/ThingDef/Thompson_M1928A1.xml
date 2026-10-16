@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: Thompson M1928A1 -->
   <Gun_Thompson_M1928A1_RWP.label>Thompson M1928A1</Gun_Thompson_M1928A1_RWP.label>
-  <!-- EN: . -->
-  <Gun_Thompson_M1928A1_RWP.description>.</Gun_Thompson_M1928A1_RWP.description>
+  <!-- EN: The Thompson M1928A1 is a vintage submachine gun known for its iconic design and rapid rate of fire. Often associated with prohibition-era gangsters and WWII soldiers alike, it delivers a high volume of .45 ACP rounds with reasonable accuracy at short to medium range. However, its heavy weight and considerable recoil require skill to wield effectively. -->
+  <Gun_Thompson_M1928A1_RWP.description>The Thompson M1928A1 is a vintage submachine gun known for its iconic design and rapid rate of fire. Often associated with prohibition-era gangsters and WWII soldiers alike, it delivers a high volume of .45 ACP rounds with reasonable accuracy at short to medium range. However, its heavy weight and considerable recoil require skill to wield effectively.</Gun_Thompson_M1928A1_RWP.description>
   <!-- EN: stock -->
   <Gun_Thompson_M1928A1_RWP.tools.stock.label>stock</Gun_Thompson_M1928A1_RWP.tools.stock.label>
   <!-- EN: barrel -->

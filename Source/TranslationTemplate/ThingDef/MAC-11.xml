@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: MAC-11 -->
   <Gun_MAC-11_RWP.label>MAC-11</Gun_MAC-11_RWP.label>
-  <!-- EN: . -->
-  <Gun_MAC-11_RWP.description>.</Gun_MAC-11_RWP.description>
+  <!-- EN: The MAC-11 is a compact, fully automatic submachine gun known for its high rate of fire. Ideal for short-range combat, it can deliver a barrage of bullets in quick succession but requires frequent reloading. Its lightweight design makes it easy to carry, but its accuracy diminishes rapidly with distance. -->
+  <Gun_MAC-11_RWP.description>The MAC-11 is a compact, fully automatic submachine gun known for its high rate of fire. Ideal for short-range combat, it can deliver a barrage of bullets in quick succession but requires frequent reloading. Its lightweight design makes it easy to carry, but its accuracy diminishes rapidly with distance.</Gun_MAC-11_RWP.description>
   <!-- EN: grip -->
   <Gun_MAC-11_RWP.tools.grip.label>grip</Gun_MAC-11_RWP.tools.grip.label>
   <!-- EN: barrel -->

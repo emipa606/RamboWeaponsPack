@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: MP5SD3 -->
   <Gun_MP5SD3_RWP.label>MP5SD3</Gun_MP5SD3_RWP.label>
-  <!-- EN: . -->
-  <Gun_MP5SD3_RWP.description>.</Gun_MP5SD3_RWP.description>
+  <!-- EN: The MP5SD3 is a compact, integrally suppressed submachine gun renowned for its low noise operation and reliability. Designed for stealth and close-quarters combat, it combines a high rate of fire with excellent accuracy, making it a favorite for special operations. Ideal for colonists who prefer to silently eliminate threats without alerting nearby enemies. -->
+  <Gun_MP5SD3_RWP.description>The MP5SD3 is a compact, integrally suppressed submachine gun renowned for its low noise operation and reliability. Designed for stealth and close-quarters combat, it combines a high rate of fire with excellent accuracy, making it a favorite for special operations. Ideal for colonists who prefer to silently eliminate threats without alerting nearby enemies.</Gun_MP5SD3_RWP.description>
   <!-- EN: grip -->
   <Gun_MP5SD3_RWP.tools.grip.label>grip</Gun_MP5SD3_RWP.tools.grip.label>
   <!-- EN: barrel -->

@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: AK-74M -->
   <Gun_AK-74M_RWP.label>AK-74M</Gun_AK-74M_RWP.label>
-  <!-- EN: . -->
-  <Gun_AK-74M_RWP.description>.</Gun_AK-74M_RWP.description>
+  <!-- EN: The AK-74M is a reliable and durable assault rifle used by military forces around the world. It provides a balance of accuracy, power, and rate of fire, making it an effective tool for mid-range combat. Its design ensures consistent performance in various conditions, ideal for any survivalist's arsenal. -->
+  <Gun_AK-74M_RWP.description>The AK-74M is a reliable and durable assault rifle used by military forces around the world. It provides a balance of accuracy, power, and rate of fire, making it an effective tool for mid-range combat. Its design ensures consistent performance in various conditions, ideal for any survivalist's arsenal.</Gun_AK-74M_RWP.description>
   <!-- EN: stock -->
   <Gun_AK-74M_RWP.tools.stock.label>stock</Gun_AK-74M_RWP.tools.stock.label>
   <!-- EN: barrel -->

@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: PPD-34 -->
   <Gun_PPD-34_RWP.label>PPD-34</Gun_PPD-34_RWP.label>
-  <!-- EN: . -->
-  <Gun_PPD-34_RWP.description>.</Gun_PPD-34_RWP.description>
+  <!-- EN: The PPD-34 is a Soviet submachine gun designed in the early 1930s. Featuring a high rate of fire and chambered for 7.62×25mm rounds, it functions as a mid-range weapon suitable for suppressing enemy targets. Its drum magazine allows for sustained fire, though its design may affect handling and accuracy. Ideal for close combat or as a support weapon in raids. -->
+  <Gun_PPD-34_RWP.description>The PPD-34 is a Soviet submachine gun designed in the early 1930s. Featuring a high rate of fire and chambered for 7.62×25mm rounds, it functions as a mid-range weapon suitable for suppressing enemy targets. Its drum magazine allows for sustained fire, though its design may affect handling and accuracy. Ideal for close combat or as a support weapon in raids.</Gun_PPD-34_RWP.description>
   <!-- EN: stock -->
   <Gun_PPD-34_RWP.tools.stock.label>stock</Gun_PPD-34_RWP.tools.stock.label>
   <!-- EN: barrel -->

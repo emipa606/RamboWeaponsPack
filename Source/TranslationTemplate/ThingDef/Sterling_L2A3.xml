@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: Sterling L2A3 -->
   <Gun_Sterling_L2A3_RWP.label>Sterling L2A3</Gun_Sterling_L2A3_RWP.label>
-  <!-- EN: . -->
-  <Gun_Sterling_L2A3_RWP.description>.</Gun_Sterling_L2A3_RWP.description>
+  <!-- EN: The Sterling L2A3 is a compact, fully-automatic submachine gun known for its reliability and ease of use. Crafted from durable materials, it offers decent stopping power for close-quarter combat with a high rate of fire, making it an effective choice for colonists needing to engage threats at short range. -->
+  <Gun_Sterling_L2A3_RWP.description>The Sterling L2A3 is a compact, fully-automatic submachine gun known for its reliability and ease of use. Crafted from durable materials, it offers decent stopping power for close-quarter combat with a high rate of fire, making it an effective choice for colonists needing to engage threats at short range.</Gun_Sterling_L2A3_RWP.description>
   <!-- EN: stock -->
   <Gun_Sterling_L2A3_RWP.tools.stock.label>stock</Gun_Sterling_L2A3_RWP.tools.stock.label>
   <!-- EN: barrel -->

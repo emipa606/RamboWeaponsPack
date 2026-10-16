@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: PP-2000 -->
   <Gun_PP-2000_RWP.label>PP-2000</Gun_PP-2000_RWP.label>
-  <!-- EN: . -->
-  <Gun_PP-2000_RWP.description>.</Gun_PP-2000_RWP.description>
+  <!-- EN: The PP-2000 is a compact submachine gun designed for close quarters and urban combat. It boasts a high rate of fire, making it effective at delivering rapid bursts of ammunition to neutralize threats quickly. Lightweight and easy to handle, it is ideal for quick, agile movements in tight spaces, though its range and armor penetration may be less than larger firearms. Suitable for both defensive and offensive operations where mobility is crucial. -->
+  <Gun_PP-2000_RWP.description>The PP-2000 is a compact submachine gun designed for close quarters and urban combat. It boasts a high rate of fire, making it effective at delivering rapid bursts of ammunition to neutralize threats quickly. Lightweight and easy to handle, it is ideal for quick, agile movements in tight spaces, though its range and armor penetration may be less than larger firearms. Suitable for both defensive and offensive operations where mobility is crucial.</Gun_PP-2000_RWP.description>
   <!-- EN: grip -->
   <Gun_PP-2000_RWP.tools.grip.label>grip</Gun_PP-2000_RWP.tools.grip.label>
   <!-- EN: barrel -->

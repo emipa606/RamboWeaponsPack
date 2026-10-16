@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: PPSh-41 (Stick) -->
   <Gun_PPSh-41s_RWP.label>PPSh-41 (Stick)</Gun_PPSh-41s_RWP.label>
-  <!-- EN: . -->
-  <Gun_PPSh-41s_RWP.description>.</Gun_PPSh-41s_RWP.description>
+  <!-- EN: The PPSh-41 (Stick) is a rapid-firing submachine gun, originally designed in the Soviet Union during World War II. Featuring a high rate of fire and a simple design, this compact weapon is effective at short to medium range, making it a formidable choice against multiple foes in combat. Its signature stick magazine offers reliability and ease of reloading, ideal for sustained engagements on the battlefield. -->
+  <Gun_PPSh-41s_RWP.description>The PPSh-41 (Stick) is a rapid-firing submachine gun, originally designed in the Soviet Union during World War II. Featuring a high rate of fire and a simple design, this compact weapon is effective at short to medium range, making it a formidable choice against multiple foes in combat. Its signature stick magazine offers reliability and ease of reloading, ideal for sustained engagements on the battlefield.</Gun_PPSh-41s_RWP.description>
   <!-- EN: stock -->
   <Gun_PPSh-41s_RWP.tools.stock.label>stock</Gun_PPSh-41s_RWP.tools.stock.label>
   <!-- EN: barrel -->

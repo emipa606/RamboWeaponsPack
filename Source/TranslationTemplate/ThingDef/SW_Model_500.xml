@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: S&W Model 500 -->
   <Gun_SW_Model_500_RWP.label>S&amp;W Model 500</Gun_SW_Model_500_RWP.label>
-  <!-- EN: . -->
-  <Gun_SW_Model_500_RWP.description>.</Gun_SW_Model_500_RWP.description>
+  <!-- EN: The S&W Model 500 is a powerful revolver designed for devastating impact at close to medium range. Known for its high stopping power, this handgun fires large-caliber rounds capable of penetrating body armor. However, its hefty recoil requires a skilled hand for accurate use. Ideal for those seeking uncompromised firepower in a handgun form. -->
+  <Gun_SW_Model_500_RWP.description>The S&amp;W Model 500 is a powerful revolver designed for devastating impact at close to medium range. Known for its high stopping power, this handgun fires large-caliber rounds capable of penetrating body armor. However, its hefty recoil requires a skilled hand for accurate use. Ideal for those seeking uncompromised firepower in a handgun form.</Gun_SW_Model_500_RWP.description>
   <!-- EN: grip -->
   <Gun_SW_Model_500_RWP.tools.grip.label>grip</Gun_SW_Model_500_RWP.tools.grip.label>
   <!-- EN: barrel -->

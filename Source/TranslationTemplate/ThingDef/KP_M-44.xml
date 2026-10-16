@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: KP M/44 -->
   <Gun_KP_M44_RWP.label>KP M/44</Gun_KP_M44_RWP.label>
-  <!-- EN: . -->
-  <Gun_KP_M44_RWP.description>.</Gun_KP_M44_RWP.description>
+  <!-- EN: The KP M/44 is a robust and reliable submachine gun known for its high rate of fire and compact design. Originating from a rugged frontier, it's favored by those who require a blend of power and maneuverability in close-quarters combat. Its simplicity and durability make it a trusted companion in skirmishes, though its accuracy diminishes over longer distances. Ideal for short-range firefights where rapid firing can be a decisive advantage. -->
+  <Gun_KP_M44_RWP.description>The KP M/44 is a robust and reliable submachine gun known for its high rate of fire and compact design. Originating from a rugged frontier, it's favored by those who require a blend of power and maneuverability in close-quarters combat. Its simplicity and durability make it a trusted companion in skirmishes, though its accuracy diminishes over longer distances. Ideal for short-range firefights where rapid firing can be a decisive advantage.</Gun_KP_M44_RWP.description>
   <!-- EN: grip -->
   <Gun_KP_M44_RWP.tools.grip.label>grip</Gun_KP_M44_RWP.tools.grip.label>
   <!-- EN: barrel -->

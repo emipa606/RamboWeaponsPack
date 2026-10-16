@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: RPKS -->
   <Gun_RPKS_RWP.label>RPKS</Gun_RPKS_RWP.label>
-  <!-- EN: . -->
-  <Gun_RPKS_RWP.description>.</Gun_RPKS_RWP.description>
+  <!-- EN: The RPKS is a light machine gun known for its durability and reliability. It offers a solid balance of firepower and efficiency, featuring a high rate of fire suitable for suppressing enemies in mid-range combat. Although it has moderate accuracy and recoil, the RPKS excels in sustained engagements where consistent fire is key. A favorite among those who prioritize endurance on the battlefield. -->
+  <Gun_RPKS_RWP.description>The RPKS is a light machine gun known for its durability and reliability. It offers a solid balance of firepower and efficiency, featuring a high rate of fire suitable for suppressing enemies in mid-range combat. Although it has moderate accuracy and recoil, the RPKS excels in sustained engagements where consistent fire is key. A favorite among those who prioritize endurance on the battlefield.</Gun_RPKS_RWP.description>
   <!-- EN: stock -->
   <Gun_RPKS_RWP.tools.stock.label>stock</Gun_RPKS_RWP.tools.stock.label>
   <!-- EN: barrel -->

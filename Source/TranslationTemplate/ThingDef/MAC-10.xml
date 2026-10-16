@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: MAC-10 -->
   <Gun_MAC-10_RWP.label>MAC-10</Gun_MAC-10_RWP.label>
-  <!-- EN: . -->
-  <Gun_MAC-10_RWP.description>.</Gun_MAC-10_RWP.description>
+  <!-- EN: The MAC-10 is a compact, fully automatic submachine gun known for its high rate of fire. While its accuracy diminishes at longer ranges, it excels in close-quarters combat due to its lightweight frame and ease of handling. Ideal for quickly overwhelming targets in tight spaces. -->
+  <Gun_MAC-10_RWP.description>The MAC-10 is a compact, fully automatic submachine gun known for its high rate of fire. While its accuracy diminishes at longer ranges, it excels in close-quarters combat due to its lightweight frame and ease of handling. Ideal for quickly overwhelming targets in tight spaces.</Gun_MAC-10_RWP.description>
   <!-- EN: grip -->
   <Gun_MAC-10_RWP.tools.grip.label>grip</Gun_MAC-10_RWP.tools.grip.label>
   <!-- EN: barrel -->

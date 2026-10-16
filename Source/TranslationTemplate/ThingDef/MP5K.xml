@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: MP5K -->
   <Gun_MP5K_RWP.label>MP5K</Gun_MP5K_RWP.label>
-  <!-- EN: . -->
-  <Gun_MP5K_RWP.description>.</Gun_MP5K_RWP.description>
+  <!-- EN: The MP5K is a compact submachine gun known for its rapid rate of fire and exceptional handling. Its lightweight design makes it ideal for quick, close-quarters engagements, but its effectiveness decreases at longer ranges. Reliable and efficient, the MP5K is favored by those needing a balance of maneuverability and firepower. -->
+  <Gun_MP5K_RWP.description>The MP5K is a compact submachine gun known for its rapid rate of fire and exceptional handling. Its lightweight design makes it ideal for quick, close-quarters engagements, but its effectiveness decreases at longer ranges. Reliable and efficient, the MP5K is favored by those needing a balance of maneuverability and firepower.</Gun_MP5K_RWP.description>
   <!-- EN: grip -->
   <Gun_MP5K_RWP.tools.grip.label>grip</Gun_MP5K_RWP.tools.grip.label>
   <!-- EN: barrel -->

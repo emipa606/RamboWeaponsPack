@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: M2 Carbine -->
   <Gun_M2_Carbine_RWP.label>M2 Carbine</Gun_M2_Carbine_RWP.label>
-  <!-- EN: . -->
-  <Gun_M2_Carbine_RWP.description>.</Gun_M2_Carbine_RWP.description>
+  <!-- EN: The M2 Carbine is a lightweight semi-automatic firearm chambered in .30 caliber. It features a high rate of fire and moderate stopping power, making it versatile for mid-range engagements. Its compact size allows for quick handling while on the move. -->
+  <Gun_M2_Carbine_RWP.description>The M2 Carbine is a lightweight semi-automatic firearm chambered in .30 caliber. It features a high rate of fire and moderate stopping power, making it versatile for mid-range engagements. Its compact size allows for quick handling while on the move.</Gun_M2_Carbine_RWP.description>
   <!-- EN: stock -->
   <Gun_M2_Carbine_RWP.tools.stock.label>stock</Gun_M2_Carbine_RWP.tools.stock.label>
   <!-- EN: barrel -->

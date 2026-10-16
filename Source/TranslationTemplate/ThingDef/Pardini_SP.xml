@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: Pardini SP -->
   <Gun_Pardini_SP_RWP.label>Pardini SP</Gun_Pardini_SP_RWP.label>
-  <!-- EN: . -->
-  <Gun_Pardini_SP_RWP.description>.</Gun_Pardini_SP_RWP.description>
+  <!-- EN: The Pardini SP is a precision-pistol designed for competitive shooting, known for its exceptional accuracy and reliability. Favored by sharpshooters, it offers unparalleled precision at mid-range, making it the ideal choice for colonists who prioritize marksmanship. This sleek firearm combines advanced engineering with a comfortable grip, ensuring a steady hand in even the most intense firefights. -->
+  <Gun_Pardini_SP_RWP.description>The Pardini SP is a precision-pistol designed for competitive shooting, known for its exceptional accuracy and reliability. Favored by sharpshooters, it offers unparalleled precision at mid-range, making it the ideal choice for colonists who prioritize marksmanship. This sleek firearm combines advanced engineering with a comfortable grip, ensuring a steady hand in even the most intense firefights.</Gun_Pardini_SP_RWP.description>
   <!-- EN: grip -->
   <Gun_Pardini_SP_RWP.tools.grip.label>grip</Gun_Pardini_SP_RWP.tools.grip.label>
   <!-- EN: barrel -->

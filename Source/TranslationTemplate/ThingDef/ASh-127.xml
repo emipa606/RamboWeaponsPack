@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: ASh-12.7 -->
   <Gun_ASh-127_RWP.label>ASh-12.7</Gun_ASh-127_RWP.label>
-  <!-- EN: . -->
-  <Gun_ASh-127_RWP.description>.</Gun_ASh-127_RWP.description>
+  <!-- EN: The ASh-12.7 is a powerful bullpup battle rifle designed for short-range urban combat. It fires 12.7x55mm cartridges, delivering immense stopping power capable of penetrating heavy armor and causing devastating damage. Its compact design makes it unusually maneuverable, but the substantial recoil and limited magazine size require careful aim and thoughtful use. Ideal for colonists needing a heavy-hitting firearm for close-quarters engagements. -->
+  <Gun_ASh-127_RWP.description>The ASh-12.7 is a powerful bullpup battle rifle designed for short-range urban combat. It fires 12.7x55mm cartridges, delivering immense stopping power capable of penetrating heavy armor and causing devastating damage. Its compact design makes it unusually maneuverable, but the substantial recoil and limited magazine size require careful aim and thoughtful use. Ideal for colonists needing a heavy-hitting firearm for close-quarters engagements.</Gun_ASh-127_RWP.description>
   <!-- EN: stock -->
   <Gun_ASh-127_RWP.tools.stock.label>stock</Gun_ASh-127_RWP.tools.stock.label>
   <!-- EN: barrel -->

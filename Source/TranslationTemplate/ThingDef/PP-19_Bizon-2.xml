@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: PP-19 Bizon-2 -->
   <Gun_PP-19_Bizon-2_RWP.label>PP-19 Bizon-2</Gun_PP-19_Bizon-2_RWP.label>
-  <!-- EN: . -->
-  <Gun_PP-19_Bizon-2_RWP.description>.</Gun_PP-19_Bizon-2_RWP.description>
+  <!-- EN: The PP-19 Bizon-2 is a Russian-made submachine gun known for its unique helical magazine, allowing for a high capacity of 64 rounds. Lightweight and compact, it excels in close-quarters combat, providing a rapid rate of fire that can quickly suppress threats. Ideal for raids or defense in confined spaces. -->
+  <Gun_PP-19_Bizon-2_RWP.description>The PP-19 Bizon-2 is a Russian-made submachine gun known for its unique helical magazine, allowing for a high capacity of 64 rounds. Lightweight and compact, it excels in close-quarters combat, providing a rapid rate of fire that can quickly suppress threats. Ideal for raids or defense in confined spaces.</Gun_PP-19_Bizon-2_RWP.description>
   <!-- EN: stock -->
   <Gun_PP-19_Bizon-2_RWP.tools.stock.label>stock</Gun_PP-19_Bizon-2_RWP.tools.stock.label>
   <!-- EN: barrel -->

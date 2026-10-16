@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: AK-105 -->
   <Gun_AK-105_RWP.label>AK-105</Gun_AK-105_RWP.label>
-  <!-- EN: . -->
-  <Gun_AK-105_RWP.description>.</Gun_AK-105_RWP.description>
+  <!-- EN: The AK-105 is a reliable assault rifle offering balanced performance. With its compact design, it provides excellent accuracy and handling in close to medium-range combat. Durable and easy to maintain, this weapon is ideal for various tactical scenarios, making it a versatile choice for any survivor equipped for a fight. -->
+  <Gun_AK-105_RWP.description>The AK-105 is a reliable assault rifle offering balanced performance. With its compact design, it provides excellent accuracy and handling in close to medium-range combat. Durable and easy to maintain, this weapon is ideal for various tactical scenarios, making it a versatile choice for any survivor equipped for a fight.</Gun_AK-105_RWP.description>
   <!-- EN: stock -->
   <Gun_AK-105_RWP.tools.stock.label>stock</Gun_AK-105_RWP.tools.stock.label>
   <!-- EN: barrel -->

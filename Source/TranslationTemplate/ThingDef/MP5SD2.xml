@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: MP5SD2 -->
   <Gun_MP5SD2_RWP.label>MP5SD2</Gun_MP5SD2_RWP.label>
-  <!-- EN: . -->
-  <Gun_MP5SD2_RWP.description>.</Gun_MP5SD2_RWP.description>
+  <!-- EN: The MP5SD2 is a compact submachine gun equipped with an integrated suppressor, combining effective close-quarters firepower with stealth. Its 9mm rounds deal moderate damage, and the suppressed design significantly reduces firing noise, making it ideal for covert operations. Lightweight and reliable, it allows for quick maneuverability in tight spaces. -->
+  <Gun_MP5SD2_RWP.description>The MP5SD2 is a compact submachine gun equipped with an integrated suppressor, combining effective close-quarters firepower with stealth. Its 9mm rounds deal moderate damage, and the suppressed design significantly reduces firing noise, making it ideal for covert operations. Lightweight and reliable, it allows for quick maneuverability in tight spaces.</Gun_MP5SD2_RWP.description>
   <!-- EN: stock -->
   <Gun_MP5SD2_RWP.tools.stock.label>stock</Gun_MP5SD2_RWP.tools.stock.label>
   <!-- EN: barrel -->

@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: USP9 -->
   <Gun_USP9_RWP.label>USP9</Gun_USP9_RWP.label>
-  <!-- EN: . -->
-  <Gun_USP9_RWP.description>.</Gun_USP9_RWP.description>
+  <!-- EN: The USP9 is a semi-automatic pistol known for its reliability and ease of use. It strikes a balance between stopping power and magazine capacity, making it a solid choice for colonists needing a dependable sidearm in battle. -->
+  <Gun_USP9_RWP.description>The USP9 is a semi-automatic pistol known for its reliability and ease of use. It strikes a balance between stopping power and magazine capacity, making it a solid choice for colonists needing a dependable sidearm in battle.</Gun_USP9_RWP.description>
   <!-- EN: grip -->
   <Gun_USP9_RWP.tools.grip.label>grip</Gun_USP9_RWP.tools.grip.label>
   <!-- EN: barrel -->

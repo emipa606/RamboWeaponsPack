@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: SKS-45 -->
   <Gun_SKS-45_RWP.label>SKS-45</Gun_SKS-45_RWP.label>
-  <!-- EN: . -->
-  <Gun_SKS-45_RWP.description>.</Gun_SKS-45_RWP.description>
+  <!-- EN: The SKS-45 is a reliable semi-automatic rifle known for its durability and simplicity. Originally designed for military use, it offers moderate stopping power and accuracy, making it a versatile choice for mid-range combat. The integrated bayonet adds a secondary melee option, enhancing its utility in close-quarters skirmishes. -->
+  <Gun_SKS-45_RWP.description>The SKS-45 is a reliable semi-automatic rifle known for its durability and simplicity. Originally designed for military use, it offers moderate stopping power and accuracy, making it a versatile choice for mid-range combat. The integrated bayonet adds a secondary melee option, enhancing its utility in close-quarters skirmishes.</Gun_SKS-45_RWP.description>
   <!-- EN: stock -->
   <Gun_SKS-45_RWP.tools.stock.label>stock</Gun_SKS-45_RWP.tools.stock.label>
   <!-- EN: barrel -->

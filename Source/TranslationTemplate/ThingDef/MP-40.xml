@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: MP-40 -->
   <Gun_MP-40_RWP.label>MP-40</Gun_MP-40_RWP.label>
-  <!-- EN: . -->
-  <Gun_MP-40_RWP.description>.</Gun_MP-40_RWP.description>
+  <!-- EN: The MP-40 is a classic submachine gun known for its compact design and ease of handling. With an effective full-auto capability, it offers moderate damage and rapid fire, making it ideal for close-quarters combat. Its reliability and iconic silhouette make it a popular choice among colonists who prioritize versatility and portability in combat scenarios. -->
+  <Gun_MP-40_RWP.description>The MP-40 is a classic submachine gun known for its compact design and ease of handling. With an effective full-auto capability, it offers moderate damage and rapid fire, making it ideal for close-quarters combat. Its reliability and iconic silhouette make it a popular choice among colonists who prioritize versatility and portability in combat scenarios.</Gun_MP-40_RWP.description>
   <!-- EN: grip -->
   <Gun_MP-40_RWP.tools.grip.label>grip</Gun_MP-40_RWP.tools.grip.label>
   <!-- EN: barrel -->

@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: M16A1 -->
   <Gun_M16A1_RWP.label>M16A1</Gun_M16A1_RWP.label>
-  <!-- EN: . -->
-  <Gun_M16A1_RWP.description>.</Gun_M16A1_RWP.description>
+  <!-- EN: The M16A1 is a reliable automatic rifle known for its versatility. It offers a balanced rate of fire, accuracy, and range, making it suitable for mid-range combat. A standard issue in many military forces, this firearm is durable and effective in most combat scenarios, providing a steady stream of firepower to suppress or engage enemies. -->
+  <Gun_M16A1_RWP.description>The M16A1 is a reliable automatic rifle known for its versatility. It offers a balanced rate of fire, accuracy, and range, making it suitable for mid-range combat. A standard issue in many military forces, this firearm is durable and effective in most combat scenarios, providing a steady stream of firepower to suppress or engage enemies.</Gun_M16A1_RWP.description>
   <!-- EN: stock -->
   <Gun_M16A1_RWP.tools.stock.label>stock</Gun_M16A1_RWP.tools.stock.label>
   <!-- EN: barrel -->

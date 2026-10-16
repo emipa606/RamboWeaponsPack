@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: MAS-36 -->
   <Gun_MAS-36_RWP.label>MAS-36</Gun_MAS-36_RWP.label>
-  <!-- EN: . -->
-  <Gun_MAS-36_RWP.description>.</Gun_MAS-36_RWP.description>
+  <!-- EN: The MAS-36 is a bolt-action rifle known for its durability and simplicity, emanating from a pre-industrial era. Though it lacks the rate of fire typical of modern weaponry, its accuracy and reliability make it a dependable choice for mid-range engagements, ideal for colonists who can take their time to aim carefully. -->
+  <Gun_MAS-36_RWP.description>The MAS-36 is a bolt-action rifle known for its durability and simplicity, emanating from a pre-industrial era. Though it lacks the rate of fire typical of modern weaponry, its accuracy and reliability make it a dependable choice for mid-range engagements, ideal for colonists who can take their time to aim carefully.</Gun_MAS-36_RWP.description>
   <!-- EN: stock -->
   <Gun_MAS-36_RWP.tools.stock.label>stock</Gun_MAS-36_RWP.tools.stock.label>
   <!-- EN: barrel -->

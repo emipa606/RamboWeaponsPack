@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: G36K -->
   <Gun_G36K_RWP.label>G36K</Gun_G36K_RWP.label>
-  <!-- EN: . -->
-  <Gun_G36K_RWP.description>.</Gun_G36K_RWP.description>
+  <!-- EN: The G36K is a compact, fully-automatic assault rifle known for its reliability and adaptability in combat. Designed with a shorter barrel for enhanced mobility, it maintains excellent accuracy and firepower, making it a versatile option for both ranged skirmishes and close-quarters encounters. -->
+  <Gun_G36K_RWP.description>The G36K is a compact, fully-automatic assault rifle known for its reliability and adaptability in combat. Designed with a shorter barrel for enhanced mobility, it maintains excellent accuracy and firepower, making it a versatile option for both ranged skirmishes and close-quarters encounters.</Gun_G36K_RWP.description>
   <!-- EN: stock -->
   <Gun_G36K_RWP.tools.stock.label>stock</Gun_G36K_RWP.tools.stock.label>
   <!-- EN: barrel -->

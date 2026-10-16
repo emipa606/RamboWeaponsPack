@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: SCAR-L LB -->
   <Gun_SCAR-L_LB_RWP.label>SCAR-L LB</Gun_SCAR-L_LB_RWP.label>
-  <!-- EN: . -->
-  <Gun_SCAR-L_LB_RWP.description>.</Gun_SCAR-L_LB_RWP.description>
+  <!-- EN: The SCAR-L LB (Lightweight Battle Rifle) is a versatile assault rifle known for its reliability and precision. Featuring a long barrel for improved accuracy at extended ranges, it delivers a balanced rate of fire and moderate stopping power, making it ideal for mid-range engagements. Suitable for skilled marksmen, this weapon excels in both offensive and defensive roles. -->
+  <Gun_SCAR-L_LB_RWP.description>The SCAR-L LB (Lightweight Battle Rifle) is a versatile assault rifle known for its reliability and precision. Featuring a long barrel for improved accuracy at extended ranges, it delivers a balanced rate of fire and moderate stopping power, making it ideal for mid-range engagements. Suitable for skilled marksmen, this weapon excels in both offensive and defensive roles.</Gun_SCAR-L_LB_RWP.description>
   <!-- EN: stock -->
   <Gun_SCAR-L_LB_RWP.tools.stock.label>stock</Gun_SCAR-L_LB_RWP.tools.stock.label>
   <!-- EN: barrel -->

@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: M1918 BAR -->
   <Gun_M1918_BAR_RWP.label>M1918 BAR</Gun_M1918_BAR_RWP.label>
-  <!-- EN: . -->
-  <Gun_M1918_BAR_RWP.description>.</Gun_M1918_BAR_RWP.description>
+  <!-- EN: The M1918 BAR (Browning Automatic Rifle) is a powerful automatic firearm developed during World War I. It features a high rate of fire and good range, making it effective for laying down suppressive fire or dealing with large groups of enemies. It uses .30-06 Springfield ammunition and requires two hands to operate effectively. Though slightly cumbersome, this classic weapon offers reliability and substantial stopping power on the battlefield. -->
+  <Gun_M1918_BAR_RWP.description>The M1918 BAR (Browning Automatic Rifle) is a powerful automatic firearm developed during World War I. It features a high rate of fire and good range, making it effective for laying down suppressive fire or dealing with large groups of enemies. It uses .30-06 Springfield ammunition and requires two hands to operate effectively. Though slightly cumbersome, this classic weapon offers reliability and substantial stopping power on the battlefield.</Gun_M1918_BAR_RWP.description>
   <!-- EN: stock -->
   <Gun_M1918_BAR_RWP.tools.stock.label>stock</Gun_M1918_BAR_RWP.tools.stock.label>
   <!-- EN: barrel -->

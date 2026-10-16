@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: AK-74 -->
   <Gun_AK-74_RWP.label>AK-74</Gun_AK-74_RWP.label>
-  <!-- EN: . -->
-  <Gun_AK-74_RWP.description>.</Gun_AK-74_RWP.description>
+  <!-- EN: A powerful assault rifle developed from the iconic AK-47 lineage. The AK-74 offers improved accuracy and reduced recoil, making it effective in mid-range combat. Reliable and robust, it remains a favorite choice for survival in harsh environments. -->
+  <Gun_AK-74_RWP.description>A powerful assault rifle developed from the iconic AK-47 lineage. The AK-74 offers improved accuracy and reduced recoil, making it effective in mid-range combat. Reliable and robust, it remains a favorite choice for survival in harsh environments.</Gun_AK-74_RWP.description>
   <!-- EN: stock -->
   <Gun_AK-74_RWP.tools.stock.label>stock</Gun_AK-74_RWP.tools.stock.label>
   <!-- EN: barrel -->

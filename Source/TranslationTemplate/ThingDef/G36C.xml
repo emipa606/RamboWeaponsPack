@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: G36C -->
   <Gun_G36C_RWP.label>G36C</Gun_G36C_RWP.label>
-  <!-- EN: . -->
-  <Gun_G36C_RWP.description>.</Gun_G36C_RWP.description>
+  <!-- EN: The G36C is a compact, lightweight assault rifle known for its reliability and accuracy. Ideal for close to mid-range combat, it uses 5.56mm ammunition and features a high rate of fire, making it effective in various combat scenarios. Its modular design allows for the attachment of scopes and other tactical accessories. -->
+  <Gun_G36C_RWP.description>The G36C is a compact, lightweight assault rifle known for its reliability and accuracy. Ideal for close to mid-range combat, it uses 5.56mm ammunition and features a high rate of fire, making it effective in various combat scenarios. Its modular design allows for the attachment of scopes and other tactical accessories.</Gun_G36C_RWP.description>
   <!-- EN: stock -->
   <Gun_G36C_RWP.tools.stock.label>stock</Gun_G36C_RWP.tools.stock.label>
   <!-- EN: barrel -->

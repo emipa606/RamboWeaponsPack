@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: P38K -->
   <Gun_P38K_RWP.label>P38K</Gun_P38K_RWP.label>
-  <!-- EN: . -->
-  <Gun_P38K_RWP.description>.</Gun_P38K_RWP.description>
+  <!-- EN: A compact and lightweight pistol, the P38K is designed for close-quarters combat. With moderate stopping power and a quick firing rate, it is ideal for sidearm duties and personal defense. Its simplicity and reliability make it a popular choice among settlers for day-to-day protection. -->
+  <Gun_P38K_RWP.description>A compact and lightweight pistol, the P38K is designed for close-quarters combat. With moderate stopping power and a quick firing rate, it is ideal for sidearm duties and personal defense. Its simplicity and reliability make it a popular choice among settlers for day-to-day protection.</Gun_P38K_RWP.description>
   <!-- EN: grip -->
   <Gun_P38K_RWP.tools.grip.label>grip</Gun_P38K_RWP.tools.grip.label>
   <!-- EN: barrel -->

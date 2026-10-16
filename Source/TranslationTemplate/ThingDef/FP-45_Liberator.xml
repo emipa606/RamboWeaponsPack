@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: FP-45 Liberator -->
   <Gun_FP-45_Liberator_RWP.label>FP-45 Liberator</Gun_FP-45_Liberator_RWP.label>
-  <!-- EN: . -->
-  <Gun_FP-45_Liberator_RWP.description>.</Gun_FP-45_Liberator_RWP.description>
+  <!-- EN: The FP-45 Liberator is a single-shot pistol designed for simplicity and ease of mass production. While it lacks range and accuracy, its lightweight construction makes it easy to carry. Intended as a last-resort weapon, it delivers low firepower but can be a surprise in the right hands. -->
+  <Gun_FP-45_Liberator_RWP.description>The FP-45 Liberator is a single-shot pistol designed for simplicity and ease of mass production. While it lacks range and accuracy, its lightweight construction makes it easy to carry. Intended as a last-resort weapon, it delivers low firepower but can be a surprise in the right hands.</Gun_FP-45_Liberator_RWP.description>
   <!-- EN: grip -->
   <Gun_FP-45_Liberator_RWP.tools.grip.label>grip</Gun_FP-45_Liberator_RWP.tools.grip.label>
   <!-- EN: barrel -->

@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: Fal 50.61 -->
   <Gun_Fal_50_61_RWP.label>Fal 50.61</Gun_Fal_50_61_RWP.label>
-  <!-- EN: . -->
-  <Gun_Fal_50_61_RWP.description>.</Gun_Fal_50_61_RWP.description>
+  <!-- EN: The FN FAL 50.61 is a selective-fire battle rifle known for its robust construction and reliable performance. Chambered in 7.62x51mm NATO, it delivers powerful shots at moderate range with commendable accuracy. Its folding-stock design improves portability without sacrificing stability, making it a versatile choice for combat scenarios requiring both mobility and firepower. -->
+  <Gun_Fal_50_61_RWP.description>The FN FAL 50.61 is a selective-fire battle rifle known for its robust construction and reliable performance. Chambered in 7.62x51mm NATO, it delivers powerful shots at moderate range with commendable accuracy. Its folding-stock design improves portability without sacrificing stability, making it a versatile choice for combat scenarios requiring both mobility and firepower.</Gun_Fal_50_61_RWP.description>
   <!-- EN: stock -->
   <Gun_Fal_50_61_RWP.tools.stock.label>stock</Gun_Fal_50_61_RWP.tools.stock.label>
   <!-- EN: barrel -->

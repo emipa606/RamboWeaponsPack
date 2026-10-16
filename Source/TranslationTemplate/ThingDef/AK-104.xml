@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: AK-104 -->
   <Gun_AK-104_RWP.label>AK-104</Gun_AK-104_RWP.label>
-  <!-- EN: . -->
-  <Gun_AK-104_RWP.description>.</Gun_AK-104_RWP.description>
+  <!-- EN: The AK-104 is a compact assault rifle known for its reliability and effectiveness in combat. Featuring a shorter barrel than the traditional AK series, it offers improved maneuverability in tight spaces while maintaining impressive firepower. Ideal for mid-range engagements, this weapon's robust design ensures it withstands the harsh conditions of RimWorld, delivering consistent performance time and again. -->
+  <Gun_AK-104_RWP.description>The AK-104 is a compact assault rifle known for its reliability and effectiveness in combat. Featuring a shorter barrel than the traditional AK series, it offers improved maneuverability in tight spaces while maintaining impressive firepower. Ideal for mid-range engagements, this weapon's robust design ensures it withstands the harsh conditions of RimWorld, delivering consistent performance time and again.</Gun_AK-104_RWP.description>
   <!-- EN: stock -->
   <Gun_AK-104_RWP.tools.stock.label>stock</Gun_AK-104_RWP.tools.stock.label>
   <!-- EN: barrel -->

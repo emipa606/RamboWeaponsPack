@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: Thompson M1928 -->
   <Gun_Thompson_M1928_RWP.label>Thompson M1928</Gun_Thompson_M1928_RWP.label>
-  <!-- EN: . -->
-  <Gun_Thompson_M1928_RWP.description>.</Gun_Thompson_M1928_RWP.description>
+  <!-- EN: The Thompson M1928, often recognized as the "Tommy Gun," is a classic submachine gun known for its high rate of fire and brutal close-range stopping power. Favored by law enforcement and infamous gangsters alike, this weapon combines a .45 caliber punch with a distinctively rapid volley, making it a formidable choice in frantic skirmishes. -->
+  <Gun_Thompson_M1928_RWP.description>The Thompson M1928, often recognized as the "Tommy Gun," is a classic submachine gun known for its high rate of fire and brutal close-range stopping power. Favored by law enforcement and infamous gangsters alike, this weapon combines a .45 caliber punch with a distinctively rapid volley, making it a formidable choice in frantic skirmishes.</Gun_Thompson_M1928_RWP.description>
   <!-- EN: stock -->
   <Gun_Thompson_M1928_RWP.tools.stock.label>stock</Gun_Thompson_M1928_RWP.tools.stock.label>
   <!-- EN: barrel -->

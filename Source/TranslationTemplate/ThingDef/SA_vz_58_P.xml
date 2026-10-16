@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: SA vz. 58 P -->
   <Gun_SA_vz58P_RWP.label>SA vz. 58 P</Gun_SA_vz58P_RWP.label>
-  <!-- EN: . -->
-  <Gun_SA_vz58P_RWP.description>.</Gun_SA_vz58P_RWP.description>
+  <!-- EN: The SA vz. 58 P is a rugged, semi-automatic rifle known for its reliability and lightweight design. Originally developed in Czechoslovakia, it features a distinctive short-stroke gas piston system, providing impressive accuracy and rapid follow-up shots. Ideal for tribes needing a balance between firepower and maneuverability. -->
+  <Gun_SA_vz58P_RWP.description>The SA vz. 58 P is a rugged, semi-automatic rifle known for its reliability and lightweight design. Originally developed in Czechoslovakia, it features a distinctive short-stroke gas piston system, providing impressive accuracy and rapid follow-up shots. Ideal for tribes needing a balance between firepower and maneuverability.</Gun_SA_vz58P_RWP.description>
   <!-- EN: stock -->
   <Gun_SA_vz58P_RWP.tools.stock.label>stock</Gun_SA_vz58P_RWP.tools.stock.label>
   <!-- EN: barrel -->

@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: KRISS Vector Gen1 -->
   <Gun_KRISS_Vector_Gen1_RWP.label>KRISS Vector Gen1</Gun_KRISS_Vector_Gen1_RWP.label>
-  <!-- EN: . -->
-  <Gun_KRISS_Vector_Gen1_RWP.description>.</Gun_KRISS_Vector_Gen1_RWP.description>
+  <!-- EN: The KRISS Vector Gen1 is a cutting-edge submachine gun known for its unique recoil mitigation design and fast rate of fire. Utilizing a revolutionary Super V system, it redirects recoil energy downwards, allowing for increased accuracy and control. Ideal for short to medium-range engagements, this weapon is lethal in the hands of a skilled shooter. -->
+  <Gun_KRISS_Vector_Gen1_RWP.description>The KRISS Vector Gen1 is a cutting-edge submachine gun known for its unique recoil mitigation design and fast rate of fire. Utilizing a revolutionary Super V system, it redirects recoil energy downwards, allowing for increased accuracy and control. Ideal for short to medium-range engagements, this weapon is lethal in the hands of a skilled shooter.</Gun_KRISS_Vector_Gen1_RWP.description>
   <!-- EN: grip -->
   <Gun_KRISS_Vector_Gen1_RWP.tools.grip.label>grip</Gun_KRISS_Vector_Gen1_RWP.tools.grip.label>
   <!-- EN: barrel -->

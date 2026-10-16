@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: TOZ-66 -->
   <Gun_TOZ-66_RWP.label>TOZ-66</Gun_TOZ-66_RWP.label>
-  <!-- EN: . -->
-  <Gun_TOZ-66_RWP.description>.</Gun_TOZ-66_RWP.description>
+  <!-- EN: The TOZ-66 is a rugged double-barreled shotgun known for its simplicity and reliability. Designed for close-quarters combat, it delivers devastating firepower with its twin barrels, capable of firing both shots in quick succession. Ideal for hunters and defenses alike, the TOZ-66 excels in tight spaces but suffers from a slower reload time. -->
+  <Gun_TOZ-66_RWP.description>The TOZ-66 is a rugged double-barreled shotgun known for its simplicity and reliability. Designed for close-quarters combat, it delivers devastating firepower with its twin barrels, capable of firing both shots in quick succession. Ideal for hunters and defenses alike, the TOZ-66 excels in tight spaces but suffers from a slower reload time.</Gun_TOZ-66_RWP.description>
   <!-- EN: stock -->
   <Gun_TOZ-66_RWP.tools.stock.label>stock</Gun_TOZ-66_RWP.tools.stock.label>
   <!-- EN: barrel -->

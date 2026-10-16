@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: M240B -->
   <Gun_M240B_RWP.label>M240B</Gun_M240B_RWP.label>
-  <!-- EN: . -->
-  <Gun_M240B_RWP.description>.</Gun_M240B_RWP.description>
+  <!-- EN: The M240B is a powerful, belt-fed machine gun designed for sustained fire. With a high rate of fire and significant stopping power, it excels at suppressing threats and providing covering fire. Its reliability and effectiveness at a range make it a formidable choice for defensive positions and open-field combat. However, it's heavy and cumbersome, requiring careful positioning and support to maximize its efficiency on the battlefield. -->
+  <Gun_M240B_RWP.description>The M240B is a powerful, belt-fed machine gun designed for sustained fire. With a high rate of fire and significant stopping power, it excels at suppressing threats and providing covering fire. Its reliability and effectiveness at a range make it a formidable choice for defensive positions and open-field combat. However, it's heavy and cumbersome, requiring careful positioning and support to maximize its efficiency on the battlefield.</Gun_M240B_RWP.description>
   <!-- EN: stock -->
   <Gun_M240B_RWP.tools.stock.label>stock</Gun_M240B_RWP.tools.stock.label>
   <!-- EN: barrel -->

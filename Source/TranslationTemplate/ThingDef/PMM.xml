@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: PMM -->
   <Gun_PMM_RWP.label>PMM</Gun_PMM_RWP.label>
-  <!-- EN: . -->
-  <Gun_PMM_RWP.description>.</Gun_PMM_RWP.description>
+  <!-- EN: The PMM is a compact semi-automatic pistol known for its reliability and ease of use. Chambered in 9x18mm, it offers decent stopping power for its size, making it a solid sidearm choice for self-defense or short-range combat situations. Its lightweight design ensures quick handling and minimal encumbrance. Perfect for colonists needing a balance between firepower and mobility. -->
+  <Gun_PMM_RWP.description>The PMM is a compact semi-automatic pistol known for its reliability and ease of use. Chambered in 9x18mm, it offers decent stopping power for its size, making it a solid sidearm choice for self-defense or short-range combat situations. Its lightweight design ensures quick handling and minimal encumbrance. Perfect for colonists needing a balance between firepower and mobility.</Gun_PMM_RWP.description>
   <!-- EN: grip -->
   <Gun_PMM_RWP.tools.grip.label>grip</Gun_PMM_RWP.tools.grip.label>
   <!-- EN: barrel -->

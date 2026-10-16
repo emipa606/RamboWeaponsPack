@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: DPM -->
   <Gun_DPM_RWP.label>DPM</Gun_DPM_RWP.label>
-  <!-- EN: . -->
-  <Gun_DPM_RWP.description>.</Gun_DPM_RWP.description>
+  <!-- EN: "DPM is a durable machine gun from the mid-20th century, known for its simple design and reliable performance in combat. It offers a high rate of fire and solid stopping power, ideal for suppressing enemies with continuous bursts of fire. Its weight and recoil make it less suited for quick maneuvers, but in a static defense role, it excels at laying down sustained firepower." -->
+  <Gun_DPM_RWP.description>"DPM is a durable machine gun from the mid-20th century, known for its simple design and reliable performance in combat. It offers a high rate of fire and solid stopping power, ideal for suppressing enemies with continuous bursts of fire. Its weight and recoil make it less suited for quick maneuvers, but in a static defense role, it excels at laying down sustained firepower."</Gun_DPM_RWP.description>
   <!-- EN: stock -->
   <Gun_DPM_RWP.tools.stock.label>stock</Gun_DPM_RWP.tools.stock.label>
   <!-- EN: barrel -->

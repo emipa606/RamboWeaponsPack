@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: TOZ-66 Sawed-off -->
   <Gun_TOZ-66_Sawed-off_RWP.label>TOZ-66 Sawed-off</Gun_TOZ-66_Sawed-off_RWP.label>
-  <!-- EN: . -->
-  <Gun_TOZ-66_Sawed-off_RWP.description>.</Gun_TOZ-66_Sawed-off_RWP.description>
+  <!-- EN: The TOZ-66 Sawed-off is a modified double-barrel shotgun with shortened barrels. Its reduced length makes it easier to handle in tight spaces, but the modification sacrifices range and accuracy. It delivers devastating damage at close quarters, making it a brutal choice for personal defense or surprise assaults. -->
+  <Gun_TOZ-66_Sawed-off_RWP.description>The TOZ-66 Sawed-off is a modified double-barrel shotgun with shortened barrels. Its reduced length makes it easier to handle in tight spaces, but the modification sacrifices range and accuracy. It delivers devastating damage at close quarters, making it a brutal choice for personal defense or surprise assaults.</Gun_TOZ-66_Sawed-off_RWP.description>
   <!-- EN: grip -->
   <Gun_TOZ-66_Sawed-off_RWP.tools.grip.label>grip</Gun_TOZ-66_Sawed-off_RWP.tools.grip.label>
   <!-- EN: barrel -->

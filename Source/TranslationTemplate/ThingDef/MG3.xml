@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: MG3 -->
   <Gun_MG3_RWP.label>MG3</Gun_MG3_RWP.label>
-  <!-- EN: . -->
-  <Gun_MG3_RWP.description>.</Gun_MG3_RWP.description>
+  <!-- EN: The MG3 is a powerful, fully automatic machine gun known for its high rate of fire and effective suppressive capabilities. It delivers devastating firepower ideal for overwhelming enemy forces in short bursts. Its design is rugged and reliable, making it a staple in many defense arsenals. While the recoil can be substantial, its ability to lay down continuous fire makes it invaluable in intense combat scenarios. -->
+  <Gun_MG3_RWP.description>The MG3 is a powerful, fully automatic machine gun known for its high rate of fire and effective suppressive capabilities. It delivers devastating firepower ideal for overwhelming enemy forces in short bursts. Its design is rugged and reliable, making it a staple in many defense arsenals. While the recoil can be substantial, its ability to lay down continuous fire makes it invaluable in intense combat scenarios.</Gun_MG3_RWP.description>
   <!-- EN: stock -->
   <Gun_MG3_RWP.tools.stock.label>stock</Gun_MG3_RWP.tools.stock.label>
   <!-- EN: barrel -->

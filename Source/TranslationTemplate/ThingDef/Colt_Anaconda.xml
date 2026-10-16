@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: Colt Anaconda -->
   <Gun_Colt_Anaconda_RWP.label>Colt Anaconda</Gun_Colt_Anaconda_RWP.label>
-  <!-- EN: . -->
-  <Gun_Colt_Anaconda_RWP.description>.</Gun_Colt_Anaconda_RWP.description>
+  <!-- EN: The Colt Anaconda is a powerful, large-caliber revolver known for its accuracy and stopping power. Ideal for mid-range combat, it combines rugged design with deadly precision, making it a formidable choice for those facing dangerous wildlife or hostile adversaries. Perfect for those who prefer raw firepower in a reliable, classic form. -->
+  <Gun_Colt_Anaconda_RWP.description>The Colt Anaconda is a powerful, large-caliber revolver known for its accuracy and stopping power. Ideal for mid-range combat, it combines rugged design with deadly precision, making it a formidable choice for those facing dangerous wildlife or hostile adversaries. Perfect for those who prefer raw firepower in a reliable, classic form.</Gun_Colt_Anaconda_RWP.description>
   <!-- EN: grip -->
   <Gun_Colt_Anaconda_RWP.tools.grip.label>grip</Gun_Colt_Anaconda_RWP.tools.grip.label>
   <!-- EN: barrel -->

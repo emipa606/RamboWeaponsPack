@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: Sten Mk III -->
   <Gun_Sten_Mk_III_RWP.label>Sten Mk III</Gun_Sten_Mk_III_RWP.label>
-  <!-- EN: . -->
-  <Gun_Sten_Mk_III_RWP.description>.</Gun_Sten_Mk_III_RWP.description>
+  <!-- EN: The Sten Mk III is a compact submachine gun known for its simplicity and ease of manufacture. It fires 9mm rounds at a rapid pace, making it effective in close quarters combat. While its accuracy diminishes over longer ranges, it offers a lightweight and reliable option for those needing quick, suppressive firepower. -->
+  <Gun_Sten_Mk_III_RWP.description>The Sten Mk III is a compact submachine gun known for its simplicity and ease of manufacture. It fires 9mm rounds at a rapid pace, making it effective in close quarters combat. While its accuracy diminishes over longer ranges, it offers a lightweight and reliable option for those needing quick, suppressive firepower.</Gun_Sten_Mk_III_RWP.description>
   <!-- EN: barrel -->
   <Gun_Sten_Mk_III_RWP.tools.barrel.label>barrel</Gun_Sten_Mk_III_RWP.tools.barrel.label>
   <!-- EN: Sten Mk III -->

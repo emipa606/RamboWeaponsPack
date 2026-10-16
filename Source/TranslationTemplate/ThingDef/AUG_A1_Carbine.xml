@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: AUG A1 Carbine -->
   <Gun_AUG_A1_Carbine_RWP.label>AUG A1 Carbine</Gun_AUG_A1_Carbine_RWP.label>
-  <!-- EN: . -->
-  <Gun_AUG_A1_Carbine_RWP.description>.</Gun_AUG_A1_Carbine_RWP.description>
+  <!-- EN: The AUG A1 Carbine is a compact, lightweight assault rifle famed for its reliability and precision. Featuring a modular bullpup design, it offers enhanced control and accuracy for mid-range combat, making it a trusted firearm on any rimworld battlefield. -->
+  <Gun_AUG_A1_Carbine_RWP.description>The AUG A1 Carbine is a compact, lightweight assault rifle famed for its reliability and precision. Featuring a modular bullpup design, it offers enhanced control and accuracy for mid-range combat, making it a trusted firearm on any rimworld battlefield.</Gun_AUG_A1_Carbine_RWP.description>
   <!-- EN: stock -->
   <Gun_AUG_A1_Carbine_RWP.tools.stock.label>stock</Gun_AUG_A1_Carbine_RWP.tools.stock.label>
   <!-- EN: barrel -->

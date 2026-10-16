@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: M1 Carbine -->
   <Gun_M1_Carbine_RWP.label>M1 Carbine</Gun_M1_Carbine_RWP.label>
-  <!-- EN: . -->
-  <Gun_M1_Carbine_RWP.description>.</Gun_M1_Carbine_RWP.description>
+  <!-- EN: The M1 Carbine is a lightweight, semi-automatic rifle known for its ease of use and high rate of fire. Originally designed for paratroopers and support troops, it offers moderate stopping power and excellent accuracy, making it a versatile choice for mid-range engagements. -->
+  <Gun_M1_Carbine_RWP.description>The M1 Carbine is a lightweight, semi-automatic rifle known for its ease of use and high rate of fire. Originally designed for paratroopers and support troops, it offers moderate stopping power and excellent accuracy, making it a versatile choice for mid-range engagements.</Gun_M1_Carbine_RWP.description>
   <!-- EN: stock -->
   <Gun_M1_Carbine_RWP.tools.stock.label>stock</Gun_M1_Carbine_RWP.tools.stock.label>
   <!-- EN: barrel -->

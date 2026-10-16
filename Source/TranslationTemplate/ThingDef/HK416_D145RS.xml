@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: HK416 D145RS -->
   <Gun_HK416_D145RS_RWP.label>HK416 D145RS</Gun_HK416_D145RS_RWP.label>
-  <!-- EN: . -->
-  <Gun_HK416_D145RS_RWP.description>.</Gun_HK416_D145RS_RWP.description>
+  <!-- EN: The HK416 D145RS is an advanced, cutting-edge assault rifle known for its precision and adaptability. Ideal for tactical combat, it offers a high rate of fire and exceptional reliability in various environments. This versatile weapon is favored by elite units, providing superior range, accuracy, and stopping power. -->
+  <Gun_HK416_D145RS_RWP.description>The HK416 D145RS is an advanced, cutting-edge assault rifle known for its precision and adaptability. Ideal for tactical combat, it offers a high rate of fire and exceptional reliability in various environments. This versatile weapon is favored by elite units, providing superior range, accuracy, and stopping power.</Gun_HK416_D145RS_RWP.description>
   <!-- EN: stock -->
   <Gun_HK416_D145RS_RWP.tools.stock.label>stock</Gun_HK416_D145RS_RWP.tools.stock.label>
   <!-- EN: barrel -->

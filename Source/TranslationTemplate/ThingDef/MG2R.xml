@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: MG2R -->
   <Gun_MG2R_RWP.label>MG2R</Gun_MG2R_RWP.label>
-  <!-- EN: . -->
-  <Gun_MG2R_RWP.description>.</Gun_MG2R_RWP.description>
+  <!-- EN: The MG2R is a high-tech rapid-fire gauss rifle with exceptional accuracy and stopping power. Designed for long-range engagements, it fires magnetically accelerated projectiles, delivering devastating damage with reduced recoil. Ideal for skilled marksmen, this advanced weapon combines cutting-edge technology with precision engineering, making it a superior choice for dispatching threats efficiently. -->
+  <Gun_MG2R_RWP.description>The MG2R is a high-tech rapid-fire gauss rifle with exceptional accuracy and stopping power. Designed for long-range engagements, it fires magnetically accelerated projectiles, delivering devastating damage with reduced recoil. Ideal for skilled marksmen, this advanced weapon combines cutting-edge technology with precision engineering, making it a superior choice for dispatching threats efficiently.</Gun_MG2R_RWP.description>
   <!-- EN: grip -->
   <Gun_MG2R_RWP.tools.grip.label>grip</Gun_MG2R_RWP.tools.grip.label>
   <!-- EN: barrel -->

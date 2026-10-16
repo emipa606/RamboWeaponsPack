@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: CZ 75B Full Auto -->
   <Gun_CZ_75B_Full_Auto_RWP.label>CZ 75B Full Auto</Gun_CZ_75B_Full_Auto_RWP.label>
-  <!-- EN: . -->
-  <Gun_CZ_75B_Full_Auto_RWP.description>.</Gun_CZ_75B_Full_Auto_RWP.description>
+  <!-- EN: A fully automatic variant of the CZ 75B pistol, this weapon combines the stopping power of a handgun with the rapid-fire capability of a submachine gun. It offers high reliability and accuracy, making it ideal for close-quarters combat scenarios. Its rate of fire allows for quick suppression of threats, although its smaller magazine requires frequent reloading. -->
+  <Gun_CZ_75B_Full_Auto_RWP.description>A fully automatic variant of the CZ 75B pistol, this weapon combines the stopping power of a handgun with the rapid-fire capability of a submachine gun. It offers high reliability and accuracy, making it ideal for close-quarters combat scenarios. Its rate of fire allows for quick suppression of threats, although its smaller magazine requires frequent reloading.</Gun_CZ_75B_Full_Auto_RWP.description>
   <!-- EN: grip -->
   <Gun_CZ_75B_Full_Auto_RWP.tools.grip.label>grip</Gun_CZ_75B_Full_Auto_RWP.tools.grip.label>
   <!-- EN: barrel -->

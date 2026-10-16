@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: M249 -->
   <Gun_M249_RWP.label>M249</Gun_M249_RWP.label>
-  <!-- EN: . -->
-  <Gun_M249_RWP.description>.</Gun_M249_RWP.description>
+  <!-- EN: The M249 is a light machine gun designed to provide sustained automatic fire with a high rate of fire and large magazine capacity. Ideal for suppressing enemies or engaging multiple targets, the M249 delivers a balance of firepower and mobility. While it excels in fire rate, its accuracy is moderate, making it most effective at shorter ranges. -->
+  <Gun_M249_RWP.description>The M249 is a light machine gun designed to provide sustained automatic fire with a high rate of fire and large magazine capacity. Ideal for suppressing enemies or engaging multiple targets, the M249 delivers a balance of firepower and mobility. While it excels in fire rate, its accuracy is moderate, making it most effective at shorter ranges.</Gun_M249_RWP.description>
   <!-- EN: stock -->
   <Gun_M249_RWP.tools.stock.label>stock</Gun_M249_RWP.tools.stock.label>
   <!-- EN: barrel -->

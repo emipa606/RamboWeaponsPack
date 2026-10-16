@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: SVU -->
   <Gun_SVU_RWP.label>SVU</Gun_SVU_RWP.label>
-  <!-- EN: . -->
-  <Gun_SVU_RWP.description>.</Gun_SVU_RWP.description>
+  <!-- EN: The SVU is a semi-automatic marksman rifle designed for precision at long range. It features a sleek design for enhanced mobility and is equipped with a scope for increased accuracy. Ideal for sharpshooters who need to engage targets from a distance, balancing firepower with precision in combat scenarios. -->
+  <Gun_SVU_RWP.description>The SVU is a semi-automatic marksman rifle designed for precision at long range. It features a sleek design for enhanced mobility and is equipped with a scope for increased accuracy. Ideal for sharpshooters who need to engage targets from a distance, balancing firepower with precision in combat scenarios.</Gun_SVU_RWP.description>
   <!-- EN: stock -->
   <Gun_SVU_RWP.tools.stock.label>stock</Gun_SVU_RWP.tools.stock.label>
   <!-- EN: barrel -->

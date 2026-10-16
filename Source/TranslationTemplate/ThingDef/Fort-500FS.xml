@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: Fort-500FS -->
   <Gun_Fort-500FS_RWP.label>Fort-500FS</Gun_Fort-500FS_RWP.label>
-  <!-- EN: . -->
-  <Gun_Fort-500FS_RWP.description>.</Gun_Fort-500FS_RWP.description>
+  <!-- EN: The Fort-500FS is a high-caliber firearm designed for unrivaled stopping power. Favored by mercenaries and hunters alike, this weapon combines accuracy with a rugged design, ensuring reliability in the harshest conditions. Its semi-automatic action allows for quick follow-up shots, perfect for incapacitating large targets swiftly. Ideal for those situations where every shot must count. -->
+  <Gun_Fort-500FS_RWP.description>The Fort-500FS is a high-caliber firearm designed for unrivaled stopping power. Favored by mercenaries and hunters alike, this weapon combines accuracy with a rugged design, ensuring reliability in the harshest conditions. Its semi-automatic action allows for quick follow-up shots, perfect for incapacitating large targets swiftly. Ideal for those situations where every shot must count.</Gun_Fort-500FS_RWP.description>
   <!-- EN: grip -->
   <Gun_Fort-500FS_RWP.tools.grip.label>grip</Gun_Fort-500FS_RWP.tools.grip.label>
   <!-- EN: barrel -->

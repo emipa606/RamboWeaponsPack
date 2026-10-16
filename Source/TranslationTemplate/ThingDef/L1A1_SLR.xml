@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: L1A1 SLR -->
   <Gun_L1A1_SLR_RWP.label>L1A1 SLR</Gun_L1A1_SLR_RWP.label>
-  <!-- EN: . -->
-  <Gun_L1A1_SLR_RWP.description>.</Gun_L1A1_SLR_RWP.description>
+  <!-- EN: A battle-tested semi-automatic rifle, the L1A1 SLR boasts reliability and accuracy at long distances. Featuring a 7.62x51mm cartridge, it delivers significant stopping power, making it a favored choice for those who require precision and durability in combat. -->
+  <Gun_L1A1_SLR_RWP.description>A battle-tested semi-automatic rifle, the L1A1 SLR boasts reliability and accuracy at long distances. Featuring a 7.62x51mm cartridge, it delivers significant stopping power, making it a favored choice for those who require precision and durability in combat.</Gun_L1A1_SLR_RWP.description>
   <!-- EN: stock -->
   <Gun_L1A1_SLR_RWP.tools.stock.label>stock</Gun_L1A1_SLR_RWP.tools.stock.label>
   <!-- EN: barrel -->

@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: Springfield M1903 -->
   <Gun_Springfield_M1903_RWP.label>Springfield M1903</Gun_Springfield_M1903_RWP.label>
-  <!-- EN: . -->
-  <Gun_Springfield_M1903_RWP.description>.</Gun_Springfield_M1903_RWP.description>
+  <!-- EN: The Springfield M1903 is a bolt-action rifle renowned for its accuracy and reliability. Originally used during the early 20th century, it is excellent for long-range shooting, making it ideal for picking off enemies from a distance. Its powerful shots can penetrate armor effectively, though its firing rate is slower due to the bolt-action mechanism. Perfect for marksmen who value precision. -->
+  <Gun_Springfield_M1903_RWP.description>The Springfield M1903 is a bolt-action rifle renowned for its accuracy and reliability. Originally used during the early 20th century, it is excellent for long-range shooting, making it ideal for picking off enemies from a distance. Its powerful shots can penetrate armor effectively, though its firing rate is slower due to the bolt-action mechanism. Perfect for marksmen who value precision.</Gun_Springfield_M1903_RWP.description>
   <!-- EN: stock -->
   <Gun_Springfield_M1903_RWP.tools.stock.label>stock</Gun_Springfield_M1903_RWP.tools.stock.label>
   <!-- EN: barrel -->

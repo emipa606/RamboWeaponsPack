@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: Howa Type 64 -->
   <Gun_Howa_Type_64_RWP.label>Howa Type 64</Gun_Howa_Type_64_RWP.label>
-  <!-- EN: . -->
-  <Gun_Howa_Type_64_RWP.description>.</Gun_Howa_Type_64_RWP.description>
+  <!-- EN: The Howa Type 64 is a Japanese-designed battle rifle known for its reliability and accuracy. Chambered in 7.62x51mm NATO, it delivers powerful, medium-range fire with moderate recoil. Though less advanced than newer models, its well-balanced design makes it a favored choice for those seeking a rugged and dependable weapon in the field. -->
+  <Gun_Howa_Type_64_RWP.description>The Howa Type 64 is a Japanese-designed battle rifle known for its reliability and accuracy. Chambered in 7.62x51mm NATO, it delivers powerful, medium-range fire with moderate recoil. Though less advanced than newer models, its well-balanced design makes it a favored choice for those seeking a rugged and dependable weapon in the field.</Gun_Howa_Type_64_RWP.description>
   <!-- EN: stock -->
   <Gun_Howa_Type_64_RWP.tools.stock.label>stock</Gun_Howa_Type_64_RWP.tools.stock.label>
   <!-- EN: barrel -->

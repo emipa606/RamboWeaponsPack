@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: Browning Auto-5 -->
   <Gun_Browning_Auto-5_RWP.label>Browning Auto-5</Gun_Browning_Auto-5_RWP.label>
-  <!-- EN: . -->
-  <Gun_Browning_Auto-5_RWP.description>.</Gun_Browning_Auto-5_RWP.description>
+  <!-- EN: The Browning Auto-5 is a semi-automatic shotgun known for its reliability and durability. It features a distinct humpback design that accommodates its unique long recoil action. With a modest fire rate and significant stopping power, this weapon is well-suited for close-quarters combat, making it a valuable choice for hunters and defenders alike. -->
+  <Gun_Browning_Auto-5_RWP.description>The Browning Auto-5 is a semi-automatic shotgun known for its reliability and durability. It features a distinct humpback design that accommodates its unique long recoil action. With a modest fire rate and significant stopping power, this weapon is well-suited for close-quarters combat, making it a valuable choice for hunters and defenders alike.</Gun_Browning_Auto-5_RWP.description>
   <!-- EN: stock -->
   <Gun_Browning_Auto-5_RWP.tools.stock.label>stock</Gun_Browning_Auto-5_RWP.tools.stock.label>
   <!-- EN: barrel -->

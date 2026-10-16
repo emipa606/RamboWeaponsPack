@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: MG34 -->
   <Gun_MG34_RWP.label>MG34</Gun_MG34_RWP.label>
-  <!-- EN: . -->
-  <Gun_MG34_RWP.description>.</Gun_MG34_RWP.description>
+  <!-- EN: The MG34 is a rapid-firing, early 20th-century machine gun known for its versatility and reliability. Originally used by military forces, it is capable of delivering sustained fire support with high precision at medium ranges. Though heavy, it remains a formidable weapon in combat scenarios. -->
+  <Gun_MG34_RWP.description>The MG34 is a rapid-firing, early 20th-century machine gun known for its versatility and reliability. Originally used by military forces, it is capable of delivering sustained fire support with high precision at medium ranges. Though heavy, it remains a formidable weapon in combat scenarios.</Gun_MG34_RWP.description>
   <!-- EN: stock -->
   <Gun_MG34_RWP.tools.stock.label>stock</Gun_MG34_RWP.tools.stock.label>
   <!-- EN: barrel -->

@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: Orsis T-5000 .338 -->
   <Gun_Orsis_T-5000_338_RWP.label>Orsis T-5000 .338</Gun_Orsis_T-5000_338_RWP.label>
-  <!-- EN: . -->
-  <Gun_Orsis_T-5000_338_RWP.description>.</Gun_Orsis_T-5000_338_RWP.description>
+  <!-- EN: The Orsis T-5000 .338 is a high-precision sniper rifle designed for long-range accuracy. Manufactured with advanced materials and an ergonomic design, it excels in penetrating armor and delivering lethal shots from extended distances. Ideal for sharpshooters, this weapon is a formidable choice for neutralizing threats before they get close. -->
+  <Gun_Orsis_T-5000_338_RWP.description>The Orsis T-5000 .338 is a high-precision sniper rifle designed for long-range accuracy. Manufactured with advanced materials and an ergonomic design, it excels in penetrating armor and delivering lethal shots from extended distances. Ideal for sharpshooters, this weapon is a formidable choice for neutralizing threats before they get close.</Gun_Orsis_T-5000_338_RWP.description>
   <!-- EN: stock -->
   <Gun_Orsis_T-5000_338_RWP.tools.stock.label>stock</Gun_Orsis_T-5000_338_RWP.tools.stock.label>
   <!-- EN: barrel -->

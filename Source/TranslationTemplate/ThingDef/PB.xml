@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: PB -->
   <Gun_PB_RWP.label>PB</Gun_PB_RWP.label>
-  <!-- EN: . -->
-  <Gun_PB_RWP.description>.</Gun_PB_RWP.description>
+  <!-- EN: PB is a compact, reliable sidearm known for its quiet operation and ease of use. Ideal for close-quarters combat, it features a built-in suppressor that significantly reduces noise, making it perfect for stealth operations. Its low stopping power is countered by its rapid rate of fire, allowing it to quickly subdue targets before they can react. -->
+  <Gun_PB_RWP.description>PB is a compact, reliable sidearm known for its quiet operation and ease of use. Ideal for close-quarters combat, it features a built-in suppressor that significantly reduces noise, making it perfect for stealth operations. Its low stopping power is countered by its rapid rate of fire, allowing it to quickly subdue targets before they can react.</Gun_PB_RWP.description>
   <!-- EN: grip -->
   <Gun_PB_RWP.tools.grip.label>grip</Gun_PB_RWP.tools.grip.label>
   <!-- EN: barrel -->

@@ -1,6 +1,6 @@
 # [Rambo Weapons Pack (Continued)](https://steamcommunity.com/sharedfiles/filedetails/?id=2042712482)
 
-![Image](https://i.imgur.com/buuPQel.png)
+![Image](https://img.litet.net/logos/Info.png)
 
 Update of Masterjamie9 (AAAAA)s mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1125630361
@@ -8,9 +8,9 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1125630361
 - Lowered the Charge Rifles amount of work to build a bit since this caused an issue with weapon-generation for raids.
 - ~~Added support for Combat Extended~~ CE-patches now included in the main CE-mod instead
 
-![Image](https://i.imgur.com/pufA0kM.png)
+![Image](https://img.litet.net/logos/Notice.png)
 	
-![Image](https://i.imgur.com/Z4GOv8H.png)
+![Image](https://img.litet.net/logos/OriginalDescription.png)
 
 Current Version: 1.2.3
 
@@ -39,13 +39,13 @@ You can post all feedback either on the Ludeon Forums thread or on the RWP disco
 [Weapons Spreadsheet](https://docs.google.com/spreadsheets/d/14Z028qPCNGVSagf1gpX6KMaJnilg5JvXG1A3hDXmdPs/edit?usp=sharing)
 
 
-![Image](https://i.imgur.com/PwoNOj4.png)
+![Image](https://img.litet.net/logos/ReportingIssues.png)
 
 
 
 -  See if the the error persists if you just have this mod and its requirements active.
 -  If not, try adding your other mods until it happens again.
--  Post your error-log using the [Log Uploader](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404) or the standalone [Uploader](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404) and command Ctrl+F12
+-  Always post your log using the [Log Uploader](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404)
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
@@ -53,4 +53,4 @@ You can post all feedback either on the Ludeon Forums thread or on the RWP disco
 
  
 
-[![Image](https://img.shields.io/github/v/release/emipa606/RamboWeaponsPack?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2042712482) | tags:  realistic,  guns
+[![Image](https://img.shields.io/github/v/release/emipa606/RamboWeaponsPack?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2042712482) | guns, realistic

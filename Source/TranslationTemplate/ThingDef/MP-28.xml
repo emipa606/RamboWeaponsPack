@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: MP-28 -->
   <Gun_MP-28_RWP.label>MP-28</Gun_MP-28_RWP.label>
-  <!-- EN: . -->
-  <Gun_MP-28_RWP.description>.</Gun_MP-28_RWP.description>
+  <!-- EN: The MP-28 is a submachine gun designed for rapid-fire engagements. Originally developed in the early 20th century, it remains a reliable choice for those needing a high rate of fire in short to medium-range combat. With a sturdy wooden stock and a simple blowback operation, it is favored for its ease of use and satisfying stopping power. -->
+  <Gun_MP-28_RWP.description>The MP-28 is a submachine gun designed for rapid-fire engagements. Originally developed in the early 20th century, it remains a reliable choice for those needing a high rate of fire in short to medium-range combat. With a sturdy wooden stock and a simple blowback operation, it is favored for its ease of use and satisfying stopping power.</Gun_MP-28_RWP.description>
   <!-- EN: grip -->
   <Gun_MP-28_RWP.tools.grip.label>grip</Gun_MP-28_RWP.tools.grip.label>
   <!-- EN: barrel -->

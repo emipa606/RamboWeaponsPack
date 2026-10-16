@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: Sten Mk II -->
   <Gun_Sten_Mk_II_RWP.label>Sten Mk II</Gun_Sten_Mk_II_RWP.label>
-  <!-- EN: . -->
-  <Gun_Sten_Mk_II_RWP.description>.</Gun_Sten_Mk_II_RWP.description>
+  <!-- EN: The Sten Mk II is a simple, rugged submachine gun notable for its low cost and ease of manufacture. Reliable in close-quarters combat, it fires a rapid succession of 9mm rounds, making it an effective choice for short to mid-range engagements. Its straightforward design and quick production time make it a practical option for those needing firepower on a budget. -->
+  <Gun_Sten_Mk_II_RWP.description>The Sten Mk II is a simple, rugged submachine gun notable for its low cost and ease of manufacture. Reliable in close-quarters combat, it fires a rapid succession of 9mm rounds, making it an effective choice for short to mid-range engagements. Its straightforward design and quick production time make it a practical option for those needing firepower on a budget.</Gun_Sten_Mk_II_RWP.description>
   <!-- EN: barrel -->
   <Gun_Sten_Mk_II_RWP.tools.barrel.label>barrel</Gun_Sten_Mk_II_RWP.tools.barrel.label>
   <!-- EN: Sten Mk II -->

@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: FAMAS F1 -->
   <Gun_FAMAS_F1_RWP.label>FAMAS F1</Gun_FAMAS_F1_RWP.label>
-  <!-- EN: . -->
-  <Gun_FAMAS_F1_RWP.description>.</Gun_FAMAS_F1_RWP.description>
+  <!-- EN: The FAMAS F1 is a lightweight and versatile bullpup assault rifle, known for its high rate of fire and reliability. Ideal for short to medium-range combat, its compact design allows for quick maneuverability, making it a favored choice in intense firefights. Deploy this weapon to bolster your colony's defense capabilities. -->
+  <Gun_FAMAS_F1_RWP.description>The FAMAS F1 is a lightweight and versatile bullpup assault rifle, known for its high rate of fire and reliability. Ideal for short to medium-range combat, its compact design allows for quick maneuverability, making it a favored choice in intense firefights. Deploy this weapon to bolster your colony's defense capabilities.</Gun_FAMAS_F1_RWP.description>
   <!-- EN: stock -->
   <Gun_FAMAS_F1_RWP.tools.stock.label>stock</Gun_FAMAS_F1_RWP.tools.stock.label>
   <!-- EN: barrel -->

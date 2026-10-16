@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: Steyr Scout -->
   <Gun_Steyr_Scout_RWP.label>Steyr Scout</Gun_Steyr_Scout_RWP.label>
-  <!-- EN: . -->
-  <Gun_Steyr_Scout_RWP.description>.</Gun_Steyr_Scout_RWP.description>
+  <!-- EN: A lightweight and versatile bolt-action sniper rifle known for its accuracy and range. The Steyr Scout is designed for precision shooting, making it a reliable choice for taking down targets from a great distance. Its portability and effectiveness make it a favored tool for hunters and marksmen. -->
+  <Gun_Steyr_Scout_RWP.description>A lightweight and versatile bolt-action sniper rifle known for its accuracy and range. The Steyr Scout is designed for precision shooting, making it a reliable choice for taking down targets from a great distance. Its portability and effectiveness make it a favored tool for hunters and marksmen.</Gun_Steyr_Scout_RWP.description>
   <!-- EN: stock -->
   <Gun_Steyr_Scout_RWP.tools.stock.label>stock</Gun_Steyr_Scout_RWP.tools.stock.label>
   <!-- EN: barrel -->

@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: Beretta 92F -->
   <Gun_Beretta_92f_RWP.label>Beretta 92F</Gun_Beretta_92f_RWP.label>
-  <!-- EN: . -->
-  <Gun_Beretta_92f_RWP.description>.</Gun_Beretta_92f_RWP.description>
+  <!-- EN: The Beretta 92F is a semi-automatic pistol known for its reliability and accuracy. It features a 15-round magazine and a moderate rate of fire, making it a dependable sidearm for both defense and tactical engagements. -->
+  <Gun_Beretta_92f_RWP.description>The Beretta 92F is a semi-automatic pistol known for its reliability and accuracy. It features a 15-round magazine and a moderate rate of fire, making it a dependable sidearm for both defense and tactical engagements.</Gun_Beretta_92f_RWP.description>
   <!-- EN: grip -->
   <Gun_Beretta_92f_RWP.tools.grip.label>grip</Gun_Beretta_92f_RWP.tools.grip.label>
   <!-- EN: barrel -->

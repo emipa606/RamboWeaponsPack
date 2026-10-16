@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: AKS-47 -->
   <Gun_AKS-47_RWP.label>AKS-47</Gun_AKS-47_RWP.label>
-  <!-- EN: . -->
-  <Gun_AKS-47_RWP.description>.</Gun_AKS-47_RWP.description>
+  <!-- EN: The AKS-47 is a rugged and reliable assault rifle known for its durability and ease of use. It fires a 7.62mm round, offering a balance of range, power, and rate of fire that excels in mid-range combat scenarios. Its design is time-tested, making it a popular choice for colonists in hostile environments. -->
+  <Gun_AKS-47_RWP.description>The AKS-47 is a rugged and reliable assault rifle known for its durability and ease of use. It fires a 7.62mm round, offering a balance of range, power, and rate of fire that excels in mid-range combat scenarios. Its design is time-tested, making it a popular choice for colonists in hostile environments.</Gun_AKS-47_RWP.description>
   <!-- EN: stock -->
   <Gun_AKS-47_RWP.tools.stock.label>stock</Gun_AKS-47_RWP.tools.stock.label>
   <!-- EN: barrel -->

@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: Nagant M1895 -->
   <Gun_Nagant_M1895_RWP.label>Nagant M1895</Gun_Nagant_M1895_RWP.label>
-  <!-- EN: . -->
-  <Gun_Nagant_M1895_RWP.description>.</Gun_Nagant_M1895_RWP.description>
+  <!-- EN: "The Nagant M1895 is a vintage revolver known for its distinctive gas-seal system, which provides a modest boost to projectile velocity. Designed in the late 19th century, this sturdy firearm offers a balance of fair accuracy and moderate stopping power, making it a reliable sidearm in various combat situations." -->
+  <Gun_Nagant_M1895_RWP.description>"The Nagant M1895 is a vintage revolver known for its distinctive gas-seal system, which provides a modest boost to projectile velocity. Designed in the late 19th century, this sturdy firearm offers a balance of fair accuracy and moderate stopping power, making it a reliable sidearm in various combat situations."</Gun_Nagant_M1895_RWP.description>
   <!-- EN: grip -->
   <Gun_Nagant_M1895_RWP.tools.grip.label>grip</Gun_Nagant_M1895_RWP.tools.grip.label>
   <!-- EN: barrel -->

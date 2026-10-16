@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: AKS-74UB -->
   <Gun_AKS-74UB_RWP.label>AKS-74UB</Gun_AKS-74UB_RWP.label>
-  <!-- EN: . -->
-  <Gun_AKS-74UB_RWP.description>.</Gun_AKS-74UB_RWP.description>
+  <!-- EN: The AKS-74UB is a compact, silenced assault rifle designed for stealth operations. With its integrated suppressor, this firearm offers excellent noise reduction, making it ideal for ambushes and covert engagements. Despite its compact size, it maintains a high rate of fire and good stopping power, making it a versatile choice for tactical missions. -->
+  <Gun_AKS-74UB_RWP.description>The AKS-74UB is a compact, silenced assault rifle designed for stealth operations. With its integrated suppressor, this firearm offers excellent noise reduction, making it ideal for ambushes and covert engagements. Despite its compact size, it maintains a high rate of fire and good stopping power, making it a versatile choice for tactical missions.</Gun_AKS-74UB_RWP.description>
   <!-- EN: stock -->
   <Gun_AKS-74UB_RWP.tools.stock.label>stock</Gun_AKS-74UB_RWP.tools.stock.label>
   <!-- EN: barrel -->

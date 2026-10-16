@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: Browning Hi-Power P35 -->
   <Gun_Browning_Hi-Power_P35_RWP.label>Browning Hi-Power P35</Gun_Browning_Hi-Power_P35_RWP.label>
-  <!-- EN: . -->
-  <Gun_Browning_Hi-Power_P35_RWP.description>.</Gun_Browning_Hi-Power_P35_RWP.description>
+  <!-- EN: A classic semi-automatic pistol known for its reliability and accuracy. The Browning Hi-Power P35 delivers a balanced rate of fire with moderate stopping power and a high-capacity magazine, making it a versatile sidearm for various combat scenarios. -->
+  <Gun_Browning_Hi-Power_P35_RWP.description>A classic semi-automatic pistol known for its reliability and accuracy. The Browning Hi-Power P35 delivers a balanced rate of fire with moderate stopping power and a high-capacity magazine, making it a versatile sidearm for various combat scenarios.</Gun_Browning_Hi-Power_P35_RWP.description>
   <!-- EN: grip -->
   <Gun_Browning_Hi-Power_P35_RWP.tools.grip.label>grip</Gun_Browning_Hi-Power_P35_RWP.tools.grip.label>
   <!-- EN: barrel -->

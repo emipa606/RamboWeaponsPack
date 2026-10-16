@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: MP5K-PDW -->
   <Gun_MP5K-PDW_RWP.label>MP5K-PDW</Gun_MP5K-PDW_RWP.label>
-  <!-- EN: . -->
-  <Gun_MP5K-PDW_RWP.description>.</Gun_MP5K-PDW_RWP.description>
+  <!-- EN: The MP5K-PDW is a compact submachine gun that offers a high rate of fire, making it ideal for close-quarters combat. Lightweight and easy to handle, it excels at quickly dispatching threats in tight spaces. However, its effective range is limited, and it can struggle against well-armored targets. Perfect for those who need a reliable firearm in confined environments. -->
+  <Gun_MP5K-PDW_RWP.description>The MP5K-PDW is a compact submachine gun that offers a high rate of fire, making it ideal for close-quarters combat. Lightweight and easy to handle, it excels at quickly dispatching threats in tight spaces. However, its effective range is limited, and it can struggle against well-armored targets. Perfect for those who need a reliable firearm in confined environments.</Gun_MP5K-PDW_RWP.description>
   <!-- EN: stock -->
   <Gun_MP5K-PDW_RWP.tools.stock.label>stock</Gun_MP5K-PDW_RWP.tools.stock.label>
   <!-- EN: barrel -->

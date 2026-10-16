@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: MP-443 Grach -->
   <Gun_MP-443_Grach_RWP.label>MP-443 Grach</Gun_MP-443_Grach_RWP.label>
-  <!-- EN: . -->
-  <Gun_MP-443_Grach_RWP.description>.</Gun_MP-443_Grach_RWP.description>
+  <!-- EN: The MP-443 Grach is a reliable semi-automatic pistol used widely in military and law enforcement. Known for its robust construction, this sidearm combines decent stopping power with high accuracy at short to medium ranges. Ideal for colonists looking for a dependable handgun in combat situations. -->
+  <Gun_MP-443_Grach_RWP.description>The MP-443 Grach is a reliable semi-automatic pistol used widely in military and law enforcement. Known for its robust construction, this sidearm combines decent stopping power with high accuracy at short to medium ranges. Ideal for colonists looking for a dependable handgun in combat situations.</Gun_MP-443_Grach_RWP.description>
   <!-- EN: grip -->
   <Gun_MP-443_Grach_RWP.tools.grip.label>grip</Gun_MP-443_Grach_RWP.tools.grip.label>
   <!-- EN: barrel -->

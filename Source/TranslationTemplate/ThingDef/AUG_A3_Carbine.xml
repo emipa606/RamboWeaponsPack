@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: AUG A3 Carbine -->
   <Gun_AUG_A3_Carbine_RWP.label>AUG A3 Carbine</Gun_AUG_A3_Carbine_RWP.label>
-  <!-- EN: . -->
-  <Gun_AUG_A3_Carbine_RWP.description>.</Gun_AUG_A3_Carbine_RWP.description>
+  <!-- EN: The AUG A3 Carbine is a versatile and reliable firearm, favored for its compact bullpup design. It offers excellent accuracy and control, making it ideal for mid-range engagements. Equipped with advanced optics and a high rate of fire, this weapon ensures a tactical edge during combat scenarios. -->
+  <Gun_AUG_A3_Carbine_RWP.description>The AUG A3 Carbine is a versatile and reliable firearm, favored for its compact bullpup design. It offers excellent accuracy and control, making it ideal for mid-range engagements. Equipped with advanced optics and a high rate of fire, this weapon ensures a tactical edge during combat scenarios.</Gun_AUG_A3_Carbine_RWP.description>
   <!-- EN: stock -->
   <Gun_AUG_A3_Carbine_RWP.tools.stock.label>stock</Gun_AUG_A3_Carbine_RWP.tools.stock.label>
   <!-- EN: barrel -->

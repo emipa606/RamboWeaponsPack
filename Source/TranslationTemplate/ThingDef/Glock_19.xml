@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: Glock 19 -->
   <Gun_Glock_19_RWP.label>Glock 19</Gun_Glock_19_RWP.label>
-  <!-- EN: . -->
-  <Gun_Glock_19_RWP.description>.</Gun_Glock_19_RWP.description>
+  <!-- EN: The Glock 19 is a reliable semi-automatic pistol known for its durability and compact design. Favored by many for personal defense, it offers a balanced blend of accuracy and capacity, making it effective at close to medium ranges. Its lightweight frame allows for quick handling, ideal for tight combat situations. -->
+  <Gun_Glock_19_RWP.description>The Glock 19 is a reliable semi-automatic pistol known for its durability and compact design. Favored by many for personal defense, it offers a balanced blend of accuracy and capacity, making it effective at close to medium ranges. Its lightweight frame allows for quick handling, ideal for tight combat situations.</Gun_Glock_19_RWP.description>
   <!-- EN: grip -->
   <Gun_Glock_19_RWP.tools.grip.label>grip</Gun_Glock_19_RWP.tools.grip.label>
   <!-- EN: barrel -->

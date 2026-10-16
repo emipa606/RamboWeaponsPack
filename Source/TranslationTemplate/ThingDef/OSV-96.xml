@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: OSV-96 -->
   <Gun_OSV-96_RWP.label>OSV-96</Gun_OSV-96_RWP.label>
-  <!-- EN: . -->
-  <Gun_OSV-96_RWP.description>.</Gun_OSV-96_RWP.description>
+  <!-- EN: A Russian made semi-automatic anti-materiel rifle designed for long-range engagement. Known for its powerful 12.7mm ammunition, the OSV-96 excels in penetrating armor and taking down large targets from a distance, but can be cumbersome in close quarters. -->
+  <Gun_OSV-96_RWP.description>A Russian made semi-automatic anti-materiel rifle designed for long-range engagement. Known for its powerful 12.7mm ammunition, the OSV-96 excels in penetrating armor and taking down large targets from a distance, but can be cumbersome in close quarters.</Gun_OSV-96_RWP.description>
   <!-- EN: stock -->
   <Gun_OSV-96_RWP.tools.stock.label>stock</Gun_OSV-96_RWP.tools.stock.label>
   <!-- EN: barrel -->

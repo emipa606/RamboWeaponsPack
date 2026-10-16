@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: MAT-49 7.62x25mm -->
   <Gun_MAT-49_762x25mm_RWP.label>MAT-49 7.62x25mm</Gun_MAT-49_762x25mm_RWP.label>
-  <!-- EN: . -->
-  <Gun_MAT-49_762x25mm_RWP.description>.</Gun_MAT-49_762x25mm_RWP.description>
+  <!-- EN: The MAT-49 7.62x25mm is a compact submachine gun known for its robust design and reliability. Originally designed for close-quarters combat, it features a folding stock and a high rate of fire, making it effective in tight spaces. While its stopping power is moderate, its lightweight build allows for mobility and rapid response, making it a favored choice among colony defenders needing a balance of speed and efficiency in firefights. -->
+  <Gun_MAT-49_762x25mm_RWP.description>The MAT-49 7.62x25mm is a compact submachine gun known for its robust design and reliability. Originally designed for close-quarters combat, it features a folding stock and a high rate of fire, making it effective in tight spaces. While its stopping power is moderate, its lightweight build allows for mobility and rapid response, making it a favored choice among colony defenders needing a balance of speed and efficiency in firefights.</Gun_MAT-49_762x25mm_RWP.description>
   <!-- EN: grip -->
   <Gun_MAT-49_762x25mm_RWP.tools.grip.label>grip</Gun_MAT-49_762x25mm_RWP.tools.grip.label>
   <!-- EN: barrel -->
